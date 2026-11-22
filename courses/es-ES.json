@@ -1,0 +1,1208 @@
+{
+  "id": "es-ES",
+  "language": "es",
+  "tag": "ES",
+  "name": {"de": "Spanisch (Spanien)", "en": "Spanish (Spain)"},
+  "short": {"de": "Spanisch", "en": "Spanish"},
+  "variant": {"de": "Spanisch, wie man es in Spanien spricht", "en": "Spanish as spoken in Spain"},
+  "level": "A1",
+  "coverage": {"de": "A1 – wird erweitert", "en": "A1 – more coming"},
+  "natives": ["de", "en"],
+  "accents": "áéíóúñü¿¡",
+  "articles": ["el", "la", "los", "las", "un", "una", "unos", "unas"],
+  "equivalents": {},
+  "units": [
+    {
+      "id": "u1",
+      "title": {"de": "Grundwortschatz", "en": "Core words"},
+      "subtitle": {"de": "Die Wörter, die du überall brauchst", "en": "The words you need everywhere"},
+      "lessons": [
+        {
+          "id": "v01",
+          "type": "vocab",
+          "title": {"de": "Begrüßen & Höflichkeit", "en": "Greetings & politeness"},
+          "notes": [
+            {"de": "Fragen und Ausrufe bekommen im Spanischen auch vorne ein umgedrehtes Zeichen: ¿Qué tal? ¡Hola!", "en": "Questions and exclamations also get an upside-down mark at the start in Spanish: ¿Qué tal? ¡Hola!"}
+          ],
+          "words": [
+            ["hola", "hallo", "hello"],
+            ["gracias", "danke", "thank you"],
+            ["por favor", "bitte", "please"],
+            ["perdón", "Entschuldigung", "sorry / excuse me"],
+            ["de nada", "gern geschehen", "you're welcome"],
+            ["buenos días", "guten Morgen", "good morning"],
+            ["buenas tardes", "guten Tag (nachmittags)", "good afternoon"],
+            ["buenas noches", "guten Abend / gute Nacht", "good evening / good night"],
+            ["¿qué tal?", "wie geht's?", "how are you? / how's it going?"],
+            ["adiós", "tschüss / auf Wiedersehen", "bye / goodbye"],
+            ["hasta luego", "bis später", "see you later"],
+            ["hasta mañana", "bis morgen", "see you tomorrow"]
+          ]
+        },
+        {
+          "id": "v02",
+          "type": "vocab",
+          "title": {"de": "Kleine Wörter", "en": "Small words"},
+          "notes": [
+            {"de": "sí (ja) hat einen Akzent, si (wenn) nicht. Genauso: tú (du) und tu (dein).", "en": "sí (yes) has an accent, si (if) doesn't. Likewise: tú (you) and tu (your)."}
+          ],
+          "words": [
+            ["sí", "ja", "yes"],
+            ["no", "nein / nicht", "no / not"],
+            ["y", "und", "and"],
+            ["pero", "aber", "but"],
+            ["con", "mit", "with"],
+            ["sin", "ohne", "without"],
+            ["muy", "sehr", "very"],
+            ["aquí", "hier", "here"],
+            ["allí", "dort", "there"],
+            ["también", "auch", "also"],
+            ["o", "oder", "or"],
+            ["quizás", "vielleicht", "maybe"]
+          ]
+        },
+        {
+          "id": "v03",
+          "type": "vocab",
+          "title": {"de": "Personen", "en": "People"},
+          "notes": [
+            {"de": "In Spanien duzt man sehr schnell. usted (Sie) nimmt man bei älteren Menschen und in formellen Situationen.", "en": "People in Spain switch to tú very quickly. usted is used with older people and in formal situations."},
+            {"de": "vosotros (ihr) gibt es nur in Spanien. In Lateinamerika sagt man stattdessen ustedes.", "en": "vosotros (you, plural informal) only exists in Spain. Latin America uses ustedes instead."}
+          ],
+          "words": [
+            ["yo", "ich", "I"],
+            ["tú", "du", "you (informal)"],
+            ["usted", "Sie (höflich)", "you (polite)"],
+            ["el señor", "der Herr / Sie (höflich, zu einem Mann)", "the gentleman / you (polite, to a man)"],
+            ["la señora", "die Dame / Sie (höflich, zu einer Frau)", "the lady / you (polite, to a woman)"],
+            ["él", "er", "he"],
+            ["ella", "sie (eine Person)", "she"],
+            ["nosotros / nosotras", "wir", "we"],
+            ["vosotros / vosotras", "ihr", "you (plural, informal)"],
+            ["ellos", "sie (mehrere, männlich/gemischt)", "they (masculine / mixed)"],
+            ["ellas", "sie (mehrere, weiblich)", "they (feminine)"],
+            ["la persona", "die Person", "the person"]
+          ]
+        },
+        {
+          "id": "v20",
+          "type": "vocab",
+          "title": {"de": "Fragewörter", "en": "Question words"},
+          "notes": [
+            {"de": "Fragewörter tragen immer einen Akzent: ¿Por qué? (warum?) – porque (weil) dagegen nicht.", "en": "Question words always carry an accent: ¿Por qué? (why?) – but porque (because) doesn't."}
+          ],
+          "words": [
+            ["dónde", "wo", "where"],
+            ["cuánto", "wie viel", "how much"],
+            ["qué", "was", "what"],
+            ["cuándo", "wann", "when"],
+            ["cómo", "wie", "how"],
+            ["quién", "wer", "who"],
+            ["cuál", "welche(r, s)", "which"],
+            ["a qué hora", "um wie viel Uhr", "at what time"],
+            ["por qué", "warum", "why"],
+            ["porque", "weil", "because"],
+            ["de dónde", "woher", "where from"],
+            ["adónde", "wohin", "where to"]
+          ]
+        },
+        {
+          "id": "v16",
+          "type": "vocab",
+          "title": {"de": "Wichtige Verben 1", "en": "Key verbs 1"},
+          "notes": [
+            {"de": "Hier lernst du die Grundform (Infinitiv). Wie man die Verben beugt, kommt im Grammatik-Teil.", "en": "Here you learn the basic form (infinitive). How to conjugate the verbs comes in the grammar part."},
+            {"de": "ser und estar heißen beide „sein“. Den Unterschied lernst du in Teil 2.", "en": "ser and estar both mean “to be”. You'll learn the difference in part 2."}
+          ],
+          "words": [
+            ["ser", "sein (dauerhaft)", "to be (permanent)"],
+            ["estar", "sein (vorübergehend)", "to be (temporary)"],
+            ["tener", "haben", "to have"],
+            ["querer", "wollen", "to want"],
+            ["poder", "können / dürfen", "can / may"],
+            ["ir", "gehen / fahren", "to go"],
+            ["hablar", "sprechen", "to speak"],
+            ["comer", "essen", "to eat"],
+            ["beber", "trinken", "to drink"],
+            ["hacer", "machen / tun", "to make / to do"],
+            ["venir", "kommen", "to come"],
+            ["vivir", "wohnen / leben", "to live"]
+          ]
+        },
+        {
+          "id": "v17",
+          "type": "vocab",
+          "title": {"de": "Wichtige Verben 2", "en": "Key verbs 2"},
+          "notes": [
+            {"de": "gustar funktioniert wie „gefallen“: Me gusta el café. = Mir gefällt Kaffee / Ich mag Kaffee.", "en": "gustar works like “to please”: Me gusta el café. = Coffee pleases me / I like coffee."}
+          ],
+          "words": [
+            ["entender", "verstehen", "to understand"],
+            ["saber", "wissen / können (gelernt)", "to know (facts) / can (skills)"],
+            ["necesitar", "brauchen", "to need"],
+            ["pagar", "bezahlen", "to pay"],
+            ["comprar", "kaufen", "to buy"],
+            ["gustar", "gefallen (= mögen)", "to please (= to like)"],
+            ["ver", "sehen", "to see"],
+            ["conocer", "kennen / kennenlernen", "to know (people, places) / to meet"],
+            ["trabajar", "arbeiten", "to work"],
+            ["estudiar", "lernen / studieren", "to study / to learn"],
+            ["leer", "lesen", "to read"],
+            ["escribir", "schreiben", "to write"],
+            ["oír", "hören", "to hear"]
+          ]
+        },
+        {
+          "id": "v06",
+          "type": "vocab",
+          "title": {"de": "Zahlen 0–10", "en": "Numbers 0–10"},
+          "notes": [
+            {"de": "Vor einem männlichen Nomen wird uno zu un: un libro, una casa.", "en": "Before a masculine noun uno becomes un: un libro, una casa."}
+          ],
+          "words": [
+            ["cero", "null", "zero"],
+            ["uno / una", "eins", "one"],
+            ["dos", "zwei", "two"],
+            ["tres", "drei", "three"],
+            ["cuatro", "vier", "four"],
+            ["cinco", "fünf", "five"],
+            ["seis", "sechs", "six"],
+            ["siete", "sieben", "seven"],
+            ["ocho", "acht", "eight"],
+            ["nueve", "neun", "nine"],
+            ["diez", "zehn", "ten"],
+            ["el número", "die Zahl / die Nummer", "the number"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": {"de": "Erste Grammatik", "en": "First grammar"},
+      "subtitle": {"de": "Artikel, Plural, ser, estar, tener & hay", "en": "Articles, plural, ser, estar, tener & hay"},
+      "lessons": [
+        {
+          "id": "g01",
+          "type": "grammar",
+          "title": {"de": "Artikel: el, la, un, una", "en": "Articles: el, la, un, una"},
+          "explanation": {
+            "de": [
+              {"p": "Jedes Nomen ist im Spanischen männlich oder weiblich. Ein sächliches Geschlecht wie „das“ gibt es nicht."},
+              {
+                "table": [
+                  ["", "männlich", "weiblich"],
+                  ["der / die / das", "el", "la"],
+                  ["ein / eine", "un", "una"],
+                  ["die (Plural)", "los", "las"],
+                  ["einige", "unos", "unas"]
+                ]
+              },
+              {"p": "Faustregel: Nomen auf -o sind meist männlich, Nomen auf -a meist weiblich. Wörter auf -ción und -dad sind immer weiblich."},
+              {
+                "ex": [
+                  ["el libro", "das Buch"],
+                  ["la casa", "das Haus"],
+                  ["un coche", "ein Auto"],
+                  ["una mesa", "ein Tisch"],
+                  ["la estación", "der Bahnhof"],
+                  ["la ciudad", "die Stadt"]
+                ]
+              },
+              {"tip": "Ausnahmen gibt es: el día (der Tag), el mapa (die Karte), la mano (die Hand). Lerne Nomen deshalb immer mit Artikel."}
+            ],
+            "en": [
+              {"p": "Every noun in Spanish is either masculine or feminine. There is no neuter."},
+              {"table": [["", "masculine", "feminine"], ["the", "el", "la"], ["a / an", "un", "una"], ["the (plural)", "los", "las"], ["some", "unos", "unas"]]},
+              {"p": "Rule of thumb: nouns ending in -o are usually masculine, nouns ending in -a usually feminine. Words ending in -ción and -dad are always feminine."},
+              {
+                "ex": [
+                  ["el libro", "the book"],
+                  ["la casa", "the house"],
+                  ["un coche", "a car"],
+                  ["una mesa", "a table"],
+                  ["la estación", "the station"],
+                  ["la ciudad", "the city"]
+                ]
+              },
+              {"tip": "There are exceptions: el día (the day), el mapa (the map), la mano (the hand). So always learn nouns together with their article."}
+            ]
+          },
+          "exercises": [
+            ["___ libro", "el", {"de": "das Buch", "en": "the book"}, ["el", "la"]],
+            ["___ casa", "la", {"de": "das Haus", "en": "the house"}, ["el", "la"]],
+            ["___ mesa", "la", {"de": "der Tisch", "en": "the table"}, ["el", "la"]],
+            ["___ coche", "el", {"de": "das Auto", "en": "the car"}, ["el", "la"]],
+            ["___ ciudad", "la", {"de": "die Stadt", "en": "the city"}, ["el", "la"]],
+            ["___ día", "el", {"de": "der Tag", "en": "the day"}, ["el", "la"]],
+            ["___ amigo", "un", {"de": "ein Freund", "en": "a friend"}, ["un", "una"]],
+            ["___ ventana", "una", {"de": "ein Fenster", "en": "a window"}, ["un", "una"]],
+            ["___ libros", "los", {"de": "die Bücher", "en": "the books"}, ["el", "los", "la", "las"]],
+            ["___ sillas", "las", {"de": "die Stühle", "en": "the chairs"}, ["el", "los", "la", "las"]],
+            ["Tengo ___ hermana.", "una", {"de": "Ich habe eine Schwester.", "en": "I have a sister."}, ["un", "una", "el", "la"]],
+            ["___ calle", "la", {"de": "die Straße", "en": "the street"}, null],
+            ["___ habitación", "la", {"de": "das Zimmer", "en": "the room"}, null],
+            ["___ estación", "la", {"de": "der Bahnhof", "en": "the station"}, null],
+            ["___ llave", "una", {"de": "ein Schlüssel", "en": "a key"}, null],
+            ["___ trenes", "los", {"de": "die Züge", "en": "the trains"}, null],
+            ["___ mano", "la", {"de": "die Hand", "en": "the hand"}, null]
+          ]
+        },
+        {
+          "id": "g02",
+          "type": "grammar",
+          "title": {"de": "Der Plural", "en": "The plural"},
+          "explanation": {
+            "de": [
+              {"p": "Wörter auf Vokal bekommen -s, Wörter auf Konsonant -es – und auch der Artikel geht in den Plural:"},
+              {
+                "table": [
+                  ["Endung", "Plural", "Beispiel"],
+                  ["Vokal", "+ s", "la casa → las casas, el coche → los coches"],
+                  ["Konsonant", "+ es", "el tren → los trenes, la ciudad → las ciudades"],
+                  ["-z", "-ces", "el lápiz → los lápices, la vez → las veces"],
+                  ["-ión", "-iones", "la estación → las estaciones"]
+                ]
+              },
+              {"tip": "Bei -ión fällt der Akzent im Plural weg: la habitación → las habitaciones."},
+              {"p": "Auch Adjektive bekommen das Plural-s: los coches nuevos, las casas grandes."}
+            ],
+            "en": [
+              {"p": "Words ending in a vowel add -s, words ending in a consonant add -es – and the article goes into the plural too:"},
+              {
+                "table": [
+                  ["Ending", "Plural", "Example"],
+                  ["vowel", "+ s", "la casa → las casas, el coche → los coches"],
+                  ["consonant", "+ es", "el tren → los trenes, la ciudad → las ciudades"],
+                  ["-z", "-ces", "el lápiz → los lápices, la vez → las veces"],
+                  ["-ión", "-iones", "la estación → las estaciones"]
+                ]
+              },
+              {"tip": "With -ión the accent disappears in the plural: la habitación → las habitaciones."},
+              {"p": "Adjectives take the plural -s too: los coches nuevos, las casas grandes."}
+            ]
+          },
+          "exercises": [
+            ["la casa → las ___", "casas", {"de": "die Häuser", "en": "the houses"}, ["casa", "casas", "cases"]],
+            ["el tren → los ___", "trenes", {"de": "die Züge", "en": "the trains"}, ["trens", "trenes", "trenas"]],
+            ["la ciudad → las ___", "ciudades", {"de": "die Städte", "en": "the cities"}, ["ciudads", "ciudades", "ciudadas"]],
+            ["el lápiz → los ___", "lápices", {"de": "die Bleistifte", "en": "the pencils"}, ["lápizes", "lápices", "lápizs"]],
+            ["la estación → las ___", "estaciones", {"de": "die Bahnhöfe", "en": "the stations"}, ["estaciónes", "estaciones", "estacions"]],
+            ["el hombre → los ___", "hombres", {"de": "die Männer", "en": "the men"}, ["hombres", "hombrees", "hombrs"]],
+            ["el libro → los ___", "libros", {"de": "die Bücher", "en": "the books"}, null],
+            ["la mujer → las ___", "mujeres", {"de": "die Frauen", "en": "the women"}, null],
+            ["el hotel → los ___", "hoteles", {"de": "die Hotels", "en": "the hotels"}, null],
+            ["la flor → las ___", "flores", {"de": "die Blumen", "en": "the flowers"}, null],
+            ["la vez → las ___", "veces", {"de": "die Male", "en": "the times"}, null],
+            ["la habitación → las ___", "habitaciones", {"de": "die Zimmer", "en": "the rooms"}, null],
+            ["el coche → los ___", "coches", {"de": "die Autos", "en": "the cars"}, null]
+          ]
+        },
+        {
+          "id": "g03",
+          "type": "grammar",
+          "title": {"de": "Ich bin …: ser", "en": "I am …: ser"},
+          "explanation": {
+            "de": [
+              {"p": "ser heißt „sein“ – für alles, was dauerhaft zu jemandem gehört: Name, Herkunft, Nationalität, Beruf, Charakter."},
+              {
+                "table": [
+                  ["Person", "ser"],
+                  ["yo", "soy"],
+                  ["tú", "eres"],
+                  ["él / ella / usted", "es"],
+                  ["nosotros / nosotras", "somos"],
+                  ["vosotros / vosotras", "sois"],
+                  ["ellos / ellas / ustedes", "son"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Soy Ana.", "Ich bin Ana."],
+                  ["¿Eres alemán?", "Bist du Deutscher?"],
+                  ["Él es profesor.", "Er ist Lehrer."],
+                  ["Somos de Berlín.", "Wir sind aus Berlin."],
+                  ["Ellas son simpáticas.", "Sie sind nett."]
+                ]
+              },
+              {"tip": "Das Pronomen lässt man meist weg, weil die Verbform schon zeigt, wer gemeint ist: Soy alemán. = Ich bin Deutscher."},
+              {"tip": "Bei Berufen steht kein Artikel: Es médico. usted und ustedes nehmen die Verbform der 3. Person: Usted es … / Ustedes son …"}
+            ],
+            "en": [
+              {"p": "ser means “to be” – for everything that permanently belongs to someone: name, origin, nationality, job, character."},
+              {
+                "table": [
+                  ["Person", "ser"],
+                  ["yo", "soy"],
+                  ["tú", "eres"],
+                  ["él / ella / usted", "es"],
+                  ["nosotros / nosotras", "somos"],
+                  ["vosotros / vosotras", "sois"],
+                  ["ellos / ellas / ustedes", "son"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Soy Ana.", "I'm Ana."],
+                  ["¿Eres alemán?", "Are you German?"],
+                  ["Él es profesor.", "He is a teacher."],
+                  ["Somos de Berlín.", "We are from Berlin."],
+                  ["Ellas son simpáticas.", "They are nice."]
+                ]
+              },
+              {"tip": "The pronoun is usually left out because the verb form already shows who is meant: Soy alemán. = I'm German."},
+              {"tip": "No article before jobs: Es médico. usted and ustedes use the third-person verb form: Usted es … / Ustedes son …"}
+            ]
+          },
+          "exercises": [
+            ["Yo ___ alemán.", "soy", {"de": "Ich bin Deutscher.", "en": "I'm German."}, ["soy", "eres", "es", "somos"]],
+            ["¿Tú ___ español?", "eres", {"de": "Bist du Spanier?", "en": "Are you Spanish?"}, ["soy", "eres", "es", "son"]],
+            ["Ella ___ profesora.", "es", {"de": "Sie ist Lehrerin.", "en": "She is a teacher."}, ["eres", "es", "somos", "son"]],
+            ["Nosotros ___ amigos.", "somos", {"de": "Wir sind Freunde.", "en": "We are friends."}, ["son", "soy", "somos", "sois"]],
+            ["Ellos ___ de Madrid.", "son", {"de": "Sie sind aus Madrid.", "en": "They are from Madrid."}, ["es", "somos", "son", "sois"]],
+            ["¿Vosotros ___ hermanos?", "sois", {"de": "Seid ihr Geschwister?", "en": "Are you (all) siblings?"}, ["son", "somos", "sois", "es"]],
+            ["___ somos alemanes.", "Nosotros", {"de": "Wir sind Deutsche.", "en": "We are German."}, ["Yo", "Tú", "Nosotros", "Ellos"]],
+            ["Yo ___ de Alemania.", "soy", {"de": "Ich bin aus Deutschland.", "en": "I'm from Germany."}, null],
+            ["La casa ___ muy grande.", "es", {"de": "Das Haus ist sehr groß.", "en": "The house is very big."}, null],
+            ["Pedro y Ana ___ españoles.", "son", {"de": "Pedro und Ana sind Spanier.", "en": "Pedro and Ana are Spanish."}, null],
+            ["Nosotros ___ estudiantes.", "somos", {"de": "Wir sind Studenten.", "en": "We are students."}, null],
+            ["¿Tú ___ Juan?", "eres", {"de": "Bist du Juan?", "en": "Are you Juan?"}, null],
+            ["¿Usted ___ médico?", "es", {"de": "Sind Sie Arzt?", "en": "Are you a doctor? (polite)"}, null],
+            ["Vosotros ___ muy simpáticos.", "sois", {"de": "Ihr seid sehr nett.", "en": "You (all) are very nice."}, null]
+          ]
+        },
+        {
+          "id": "g04",
+          "type": "grammar",
+          "title": {"de": "estar – und ser oder estar?", "en": "estar – and ser or estar?"},
+          "explanation": {
+            "de": [
+              {"p": "estar heißt auch „sein“ – aber für Zustände, die sich ändern können: wie es jemandem geht, Stimmung, und wo sich jemand oder etwas gerade befindet."},
+              {
+                "table": [
+                  ["Person", "estar"],
+                  ["yo", "estoy"],
+                  ["tú", "estás"],
+                  ["él / ella / usted", "está"],
+                  ["nosotros / nosotras", "estamos"],
+                  ["vosotros / vosotras", "estáis"],
+                  ["ellos / ellas / ustedes", "están"]
+                ]
+              },
+              {
+                "ex": [
+                  ["¿Cómo estás? – Estoy bien.", "Wie geht's dir? – Mir geht's gut."],
+                  ["Ella está cansada.", "Sie ist müde."],
+                  ["Estamos en Madrid.", "Wir sind in Madrid."],
+                  ["El café está frío.", "Der Kaffee ist kalt (geworden)."]
+                ]
+              },
+              {"h": "ser oder estar?"},
+              {
+                "table": [
+                  ["ser (dauerhaft)", "estar (vorübergehend / Ort)"],
+                  ["Él es simpático.", "Él está cansado."],
+                  ["La sopa es buena.", "La sopa está caliente."],
+                  ["Soy de Madrid.", "Estoy en Madrid."]
+                ]
+              },
+              {"tip": "Faustregel: Wer oder was bist du? → ser. Wie geht's dir, wo bist du gerade? → estar."}
+            ],
+            "en": [
+              {"p": "estar also means “to be” – but for states that can change: how someone is, mood, and where someone or something is right now."},
+              {
+                "table": [
+                  ["Person", "estar"],
+                  ["yo", "estoy"],
+                  ["tú", "estás"],
+                  ["él / ella / usted", "está"],
+                  ["nosotros / nosotras", "estamos"],
+                  ["vosotros / vosotras", "estáis"],
+                  ["ellos / ellas / ustedes", "están"]
+                ]
+              },
+              {
+                "ex": [
+                  ["¿Cómo estás? – Estoy bien.", "How are you? – I'm fine."],
+                  ["Ella está cansada.", "She is tired."],
+                  ["Estamos en Madrid.", "We are in Madrid."],
+                  ["El café está frío.", "The coffee is (has gone) cold."]
+                ]
+              },
+              {"h": "ser or estar?"},
+              {
+                "table": [
+                  ["ser (permanent)", "estar (temporary / location)"],
+                  ["Él es simpático.", "Él está cansado."],
+                  ["La sopa es buena.", "La sopa está caliente."],
+                  ["Soy de Madrid.", "Estoy en Madrid."]
+                ]
+              },
+              {"tip": "Rule of thumb: Who or what are you? → ser. How are you, where are you right now? → estar."}
+            ]
+          },
+          "exercises": [
+            ["Yo ___ cansado.", "estoy", {"de": "Ich bin müde.", "en": "I'm tired."}, ["estoy", "estás", "está", "están"]],
+            ["¿Cómo ___, Juan?", "estás", {"de": "Wie geht's dir, Juan?", "en": "How are you, Juan?"}, ["estoy", "estás", "estamos", "están"]],
+            ["Ana ___ en casa.", "está", {"de": "Ana ist zu Hause.", "en": "Ana is at home."}, ["estoy", "está", "estamos", "están"]],
+            ["Nosotros ___ en Madrid.", "estamos", {"de": "Wir sind in Madrid.", "en": "We are in Madrid."}, ["están", "estamos", "estáis", "está"]],
+            ["Ellos ___ ocupados.", "están", {"de": "Sie sind beschäftigt.", "en": "They are busy."}, ["está", "estamos", "están", "estoy"]],
+            ["Pedro ___ profesor.", "es", {"de": "Pedro ist Lehrer.", "en": "Pedro is a teacher."}, ["es", "está"]],
+            ["El café ___ caliente.", "está", {"de": "Der Kaffee ist heiß.", "en": "The coffee is hot."}, ["es", "está"]],
+            ["María ___ alemana.", "es", {"de": "María ist Deutsche.", "en": "María is German."}, ["es", "está"]],
+            ["¿Dónde ___ la llave?", "está", {"de": "Wo ist der Schlüssel?", "en": "Where is the key?"}, ["es", "está"]],
+            ["Yo ___ bien, gracias.", "estoy", {"de": "Mir geht's gut, danke.", "en": "I'm fine, thanks."}, null],
+            ["¿Vosotros ___ cansados?", "estáis", {"de": "Seid ihr müde?", "en": "Are you (all) tired?"}, null],
+            ["¿Tú ___ en casa?", "estás", {"de": "Bist du zu Hause?", "en": "Are you at home?"}, null],
+            ["Yo ___ de Berlín.", "soy", {"de": "Ich bin aus Berlin.", "en": "I'm from Berlin."}, null],
+            ["Hoy Ana ___ triste.", "está", {"de": "Heute ist Ana traurig.", "en": "Today Ana is sad."}, null],
+            ["Madrid ___ una ciudad bonita.", "es", {"de": "Madrid ist eine schöne Stadt.", "en": "Madrid is a beautiful city."}, null]
+          ]
+        },
+        {
+          "id": "g05",
+          "type": "grammar",
+          "title": {"de": "tener (haben) & hay (es gibt)", "en": "tener (to have) & hay (there is)"},
+          "explanation": {
+            "de": [
+              {"p": "tener heißt „haben“. Damit sagt man auch, wie alt man ist und dass man Hunger oder Durst hat."},
+              {
+                "table": [
+                  ["Person", "tener"],
+                  ["yo", "tengo"],
+                  ["tú", "tienes"],
+                  ["él / ella / usted", "tiene"],
+                  ["nosotros / nosotras", "tenemos"],
+                  ["vosotros / vosotras", "tenéis"],
+                  ["ellos / ellas / ustedes", "tienen"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Tengo dos hermanos.", "Ich habe zwei Geschwister."],
+                  ["¿Cuántos años tienes? – Tengo veinte años.", "Wie alt bist du? – Ich bin zwanzig."],
+                  ["Tenemos hambre.", "Wir haben Hunger."]
+                ]
+              },
+              {"h": "hay – es gibt"},
+              {"p": "hay heißt „es gibt“ und verändert sich nie:"},
+              {"ex": [["Hay un supermercado cerca.", "Es gibt einen Supermarkt in der Nähe."], ["No hay pan.", "Es gibt kein Brot."]]},
+              {"tip": "Nach hay steht kein bestimmter Artikel: Hay un banco aquí. – aber: El banco está aquí."}
+            ],
+            "en": [
+              {"p": "tener means “to have”. It's also used to say how old you are and that you're hungry or thirsty."},
+              {
+                "table": [
+                  ["Person", "tener"],
+                  ["yo", "tengo"],
+                  ["tú", "tienes"],
+                  ["él / ella / usted", "tiene"],
+                  ["nosotros / nosotras", "tenemos"],
+                  ["vosotros / vosotras", "tenéis"],
+                  ["ellos / ellas / ustedes", "tienen"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Tengo dos hermanos.", "I have two siblings."],
+                  ["¿Cuántos años tienes? – Tengo veinte años.", "How old are you? – I'm twenty."],
+                  ["Tenemos hambre.", "We're hungry."]
+                ]
+              },
+              {"h": "hay – there is / there are"},
+              {"p": "hay means “there is / there are” and never changes:"},
+              {"ex": [["Hay un supermercado cerca.", "There's a supermarket nearby."], ["No hay pan.", "There's no bread."]]},
+              {"tip": "hay is never followed by the definite article: Hay un banco aquí. – but: El banco está aquí."}
+            ]
+          },
+          "exercises": [
+            ["Yo ___ dos hermanos.", "tengo", {"de": "Ich habe zwei Geschwister.", "en": "I have two siblings."}, ["tengo", "tienes", "tiene", "tenemos"]],
+            ["¿Tú ___ coche?", "tienes", {"de": "Hast du ein Auto?", "en": "Do you have a car?"}, ["tengo", "tienes", "tienen", "tenemos"]],
+            ["Ella ___ veinte años.", "tiene", {"de": "Sie ist zwanzig Jahre alt.", "en": "She is twenty years old."}, ["tiene", "tienen", "tienes", "tengo"]],
+            ["Nosotros ___ hambre.", "tenemos", {"de": "Wir haben Hunger.", "en": "We are hungry."}, ["tiene", "tenemos", "tenéis", "tengo"]],
+            [
+              "Ellos ___ una casa grande.",
+              "tienen",
+              {"de": "Sie haben ein großes Haus.", "en": "They have a big house."},
+              ["tiene", "tienen", "tenemos", "tienes"]
+            ],
+            ["¿___ un banco cerca?", "Hay", {"de": "Gibt es eine Bank in der Nähe?", "en": "Is there a bank nearby?"}, ["Hay", "Tiene", "Es", "Está"]],
+            ["¿Cuántos años ___?", "tienes", {"de": "Wie alt bist du?", "en": "How old are you?"}, ["eres", "estás", "tienes"]],
+            ["Yo ___ sed.", "tengo", {"de": "Ich habe Durst.", "en": "I'm thirsty."}, null],
+            ["¿Vosotros ___ tiempo?", "tenéis", {"de": "Habt ihr Zeit?", "en": "Do you (all) have time?"}, null],
+            ["Pedro ___ un perro.", "tiene", {"de": "Pedro hat einen Hund.", "en": "Pedro has a dog."}, null],
+            ["No ___ leche.", "hay", {"de": "Es gibt keine Milch.", "en": "There's no milk."}, null],
+            ["Nosotros ___ una hija.", "tenemos", {"de": "Wir haben eine Tochter.", "en": "We have a daughter."}, null],
+            [
+              "¿Cuántos años tiene usted? – ___ treinta años.",
+              "Tengo",
+              {"de": "Wie alt sind Sie? – Ich bin dreißig.", "en": "How old are you? (polite) – I'm thirty."},
+              null
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": {"de": "Einfache Bitten & Fragen", "en": "Simple requests & questions"},
+      "subtitle": {"de": "Wo bin ich? Wo ist …? Können Sie bitte …? Uhrzeit, Datum, bestellen, bezahlen, Fahrkarten", "en": "Where am I? Where is …? Can you please …? Time, date, ordering, paying, tickets"},
+      "lessons": [
+        {
+          "id": "v22",
+          "type": "vocab",
+          "title": {"de": "Wo bin ich? Wo ist …?", "en": "Where am I? Where is …?"},
+          "notes": [
+            {"de": "In Restaurants und Bars heißt die Toilette oft los servicios oder el aseo: ¿Dónde están los servicios?", "en": "In restaurants and bars the toilets are often called los servicios or el aseo: ¿Dónde están los servicios?"},
+            {"de": "¿Dónde está …? fragt nach etwas Bestimmtem, ¿Hay … por aquí? danach, ob es so etwas überhaupt in der Nähe gibt.", "en": "¿Dónde está …? asks for a particular thing, ¿Hay … por aquí? whether there is one nearby at all."}
+          ],
+          "words": [
+            ["¿dónde estoy?", "wo bin ich?", "where am I?"],
+            ["estoy perdido / estoy perdida", "ich habe mich verlaufen", "I'm lost"],
+            ["¿dónde está el baño?", "wo ist die Toilette?", "where is the toilet?"],
+            ["el baño", "das Badezimmer / die Toilette", "the bathroom / toilet"],
+            ["¿dónde está …?", "wo ist …?", "where is …?"],
+            ["¿hay … por aquí?", "gibt es hier in der Nähe …?", "is there a … near here?"],
+            ["¿está lejos?", "ist es weit?", "is it far?"],
+            ["a la izquierda", "links", "(on the) left"],
+            ["a la derecha", "rechts", "(on the) right"],
+            ["todo recto", "geradeaus", "straight ahead"],
+            ["cerca", "nah / in der Nähe", "near / close by"],
+            ["lejos", "weit weg", "far away"],
+            ["el mapa", "die Landkarte / der Stadtplan", "the map"]
+          ]
+        },
+        {
+          "id": "v26",
+          "type": "vocab",
+          "title": {"de": "Können Sie bitte …? Einfache Bitten", "en": "Can you please …? Simple requests"},
+          "notes": [
+            {"de": "¿puede …? (können Sie …?) ist die höfliche Form für usted. Zu Freunden sagt man ¿puedes …?", "en": "¿puede …? (can you …?) is the polite form for usted. To friends you say ¿puedes …?"},
+            {"de": "quería … ist die höfliche Art zu bitten oder zu bestellen: Quería un café, por favor.", "en": "quería … (I'd like …) is the polite way to ask for or order something: Quería un café, por favor."}
+          ],
+          "words": [
+            ["¿puede ayudarme?", "können Sie mir helfen?", "can you help me?"],
+            ["¿me puede decir …?", "können Sie mir sagen …?", "can you tell me …?"],
+            ["¿me lo puede enseñar?", "können Sie es mir zeigen?", "can you show me?"],
+            ["¿puede escribirlo?", "können Sie das aufschreiben?", "can you write it down?"],
+            ["¿puedo …?", "darf ich …? / kann ich …?", "may I …? / can I …?"],
+            ["¿tiene …?", "haben Sie …?", "do you have …?"],
+            ["quería …", "ich hätte gern …", "I'd like …"],
+            ["necesito …", "ich brauche …", "I need …"],
+            ["un momento, por favor", "einen Moment, bitte", "one moment, please"],
+            ["disculpe", "Entschuldigung (um jemanden anzusprechen)", "excuse me (to get someone's attention)"],
+            ["con permiso", "Entschuldigung, darf ich mal durch?", "excuse me (may I get past?)"]
+          ]
+        },
+        {
+          "id": "v21",
+          "type": "vocab",
+          "title": {"de": "Wenn du nicht verstehst", "en": "When you don't understand"},
+          "notes": [
+            {"de": "Die wichtigsten Sätze überhaupt: Damit kommst du weiter, auch wenn du noch kaum etwas verstehst.", "en": "The most important sentences of all: they keep a conversation going even when you hardly understand anything yet."},
+            {"de": "vale ist das typisch spanische „okay“ – du hörst es ständig.", "en": "vale is the typical Spanish “OK” – you'll hear it all the time."}
+          ],
+          "words": [
+            ["no entiendo", "ich verstehe nicht", "I don't understand"],
+            ["¿puede repetir?", "können Sie das wiederholen?", "can you repeat that?"],
+            ["más despacio, por favor", "langsamer, bitte", "slower, please"],
+            ["¿habla inglés?", "sprechen Sie Englisch?", "do you speak English?"],
+            ["no sé", "ich weiß nicht", "I don't know"],
+            ["¿cómo se dice … en español?", "wie sagt man … auf Spanisch?", "how do you say … in Spanish?"],
+            ["¿qué significa …?", "was bedeutet …?", "what does … mean?"],
+            ["la palabra", "das Wort", "the word"],
+            ["vale", "okay / in Ordnung", "OK / all right"],
+            ["claro", "klar / natürlich", "sure / of course"],
+            ["no pasa nada", "macht nichts / kein Problem", "never mind / no problem"]
+          ]
+        },
+        {
+          "id": "v07",
+          "type": "vocab",
+          "title": {"de": "Zahlen 11–30", "en": "Numbers 11–30"},
+          "notes": [
+            {"de": "16 bis 29 schreibt man in einem Wort (dieciséis, veintidós), ab 31 mit y: treinta y uno.", "en": "16 to 29 are written as one word (dieciséis, veintidós); from 31 on with y: treinta y uno."}
+          ],
+          "words": [
+            ["once", "elf", "eleven"],
+            ["doce", "zwölf", "twelve"],
+            ["trece", "dreizehn", "thirteen"],
+            ["catorce", "vierzehn", "fourteen"],
+            ["quince", "fünfzehn", "fifteen"],
+            ["dieciséis", "sechzehn", "sixteen"],
+            ["diecisiete", "siebzehn", "seventeen"],
+            ["dieciocho", "achtzehn", "eighteen"],
+            ["diecinueve", "neunzehn", "nineteen"],
+            ["veinte", "zwanzig", "twenty"],
+            ["veintiuno", "einundzwanzig", "twenty-one"],
+            ["treinta", "dreißig", "thirty"]
+          ]
+        },
+        {
+          "id": "v10",
+          "type": "vocab",
+          "title": {"de": "Wie spät ist es?", "en": "What time is it?"},
+          "notes": [
+            {"de": "Die Antwort: Es la una. (Es ist ein Uhr.) Son las tres. (Es ist drei Uhr.) Ab zwei Uhr also son las …", "en": "The answer: Es la una. (It's one o'clock.) Son las tres. (It's three o'clock.) From two o'clock on it's son las …"},
+            {"de": "mañana heißt „morgen“, la mañana „der Morgen“: mañana por la mañana = morgen früh.", "en": "mañana means “tomorrow”, la mañana “the morning”: mañana por la mañana = tomorrow morning."}
+          ],
+          "words": [
+            ["¿qué hora es?", "wie spät ist es?", "what time is it?"],
+            ["la hora", "die Stunde / die Uhrzeit", "the hour / the time"],
+            ["el minuto", "die Minute", "the minute"],
+            ["ahora", "jetzt", "now"],
+            ["después", "danach / später", "afterwards / later"],
+            ["antes", "vorher", "before"],
+            ["temprano", "früh", "early"],
+            ["tarde", "spät", "late"],
+            ["ya", "schon / gleich", "already / right away"],
+            ["la mañana", "der Morgen / der Vormittag", "the morning"],
+            ["la tarde", "der Nachmittag", "the afternoon"],
+            ["la noche", "die Nacht / der Abend", "the night / the evening"]
+          ]
+        },
+        {
+          "id": "v09",
+          "type": "vocab",
+          "title": {"de": "Welcher Tag ist heute?", "en": "What day is it today?"},
+          "notes": [
+            {"de": "Wochentage schreibt man klein und mit Artikel: el lunes = am Montag, los lunes = montags.", "en": "Days are written in lower case and used with the article: el lunes = on Monday, los lunes = on Mondays."}
+          ],
+          "words": [
+            ["¿qué día es hoy?", "welcher Tag ist heute?", "what day is it today?"],
+            ["hoy", "heute", "today"],
+            ["mañana", "morgen", "tomorrow"],
+            ["ayer", "gestern", "yesterday"],
+            ["lunes", "Montag", "Monday"],
+            ["martes", "Dienstag", "Tuesday"],
+            ["miércoles", "Mittwoch", "Wednesday"],
+            ["jueves", "Donnerstag", "Thursday"],
+            ["viernes", "Freitag", "Friday"],
+            ["sábado", "Samstag", "Saturday"],
+            ["domingo", "Sonntag", "Sunday"],
+            ["el día", "der Tag", "the day"],
+            ["la semana", "die Woche", "the week"],
+            ["el fin de semana", "das Wochenende", "the weekend"]
+          ]
+        },
+        {
+          "id": "v23",
+          "type": "vocab",
+          "title": {"de": "Sich vorstellen", "en": "Introducing yourself"},
+          "notes": [
+            {"de": "encantado sagen Männer, encantada Frauen. ¿Cómo se llama? ist höflich (usted), ¿Cómo te llamas? sagt man zu Leuten, die man duzt.", "en": "Men say encantado, women say encantada. ¿Cómo se llama? is polite (usted), ¿Cómo te llamas? is for people you call tú."},
+            {"de": "Sprachen und Nationalitäten schreibt man klein: alemán, español. Länder groß und meist ohne Artikel: Soy de Alemania.", "en": "Languages and nationalities are written in lower case: alemán, español. Countries are capitalised and usually have no article: Soy de Alemania."}
+          ],
+          "words": [
+            ["me llamo …", "ich heiße …", "my name is …"],
+            ["¿cómo te llamas?", "wie heißt du?", "what's your name? (informal)"],
+            ["¿cómo se llama?", "wie heißen Sie?", "what's your name? (polite)"],
+            ["encantado / encantada", "freut mich", "nice to meet you"],
+            ["el nombre", "der Name", "the name"],
+            ["soy de …", "ich komme aus …", "I'm from …"],
+            ["vivo en …", "ich wohne in …", "I live in …"],
+            ["hablo un poco de español", "ich spreche ein bisschen Spanisch", "I speak a little Spanish"],
+            ["Alemania", "Deutschland", "Germany"],
+            ["alemán", "deutsch / Deutsch", "German"],
+            ["inglés", "englisch / Englisch", "English"],
+            ["español", "spanisch / Spanisch", "Spanish"]
+          ]
+        },
+        {
+          "id": "v12",
+          "type": "vocab",
+          "title": {"de": "In der Bar: bestellen", "en": "At the bar: ordering"},
+          "notes": [
+            {"de": "In Spanien bestellt man an der Bar ganz direkt: ¿Me pone un café? Etwas höflicher: Quería un café, por favor.", "en": "In Spain you order at the bar quite directly: ¿Me pone un café? A bit more polite: Quería un café, por favor."},
+            {"de": "agua ist weiblich, aber vor betontem a- steht el: el agua fría.", "en": "agua is feminine, but before a stressed a- you use el: el agua fría."},
+            {"de": "zumo sagt man in Spanien (Lateinamerika: jugo). Das Mittagessen heißt in Spanien oft auch la comida.", "en": "zumo is used in Spain (Latin America: jugo). In Spain lunch is often also called la comida."}
+          ],
+          "words": [
+            ["¿me pone …?", "ich hätte gern … (an der Bar)", "can I have …? (at the bar)"],
+            ["el café", "der Kaffee", "the coffee"],
+            ["el café con leche", "der Milchkaffee", "the white coffee / coffee with milk"],
+            ["el agua", "das Wasser", "the water"],
+            ["una caña", "ein kleines Bier vom Fass", "a small draught beer"],
+            ["la cerveza", "das Bier", "the beer"],
+            ["el vino", "der Wein", "the wine"],
+            ["el zumo", "der Saft", "the juice"],
+            ["el té", "der Tee", "the tea"],
+            ["la leche", "die Milch", "the milk"],
+            ["el azúcar", "der Zucker", "the sugar"],
+            ["la cuenta, por favor", "die Rechnung, bitte", "the bill, please"]
+          ]
+        },
+        {
+          "id": "v24",
+          "type": "vocab",
+          "title": {"de": "Bezahlen: Was kostet das?", "en": "Paying: how much is it?"},
+          "words": [
+            ["¿cuánto cuesta?", "wie viel kostet das?", "how much is it?"],
+            ["¿cuánto es?", "was macht das?", "how much is that (in total)?"],
+            ["el dinero", "das Geld", "the money"],
+            ["el euro", "der Euro", "the euro"],
+            ["el céntimo", "der Cent", "the cent"],
+            ["la tarjeta", "die Karte (Bankkarte)", "the (bank) card"],
+            ["¿puedo pagar con tarjeta?", "kann ich mit Karte zahlen?", "can I pay by card?"],
+            ["en efectivo", "bar", "in cash"],
+            ["el precio", "der Preis", "the price"],
+            ["caro", "teuer", "expensive"],
+            ["barato", "billig", "cheap"],
+            ["la caja", "die Kasse", "the till / checkout"]
+          ]
+        },
+        {
+          "id": "v15",
+          "type": "vocab",
+          "title": {"de": "Unterwegs: Fahrkarten & Verkehrsmittel", "en": "Getting around: tickets & transport"},
+          "notes": [
+            {"de": "coche und billete sagt man in Spanien (Lateinamerika: carro / auto, boleto).", "en": "coche and billete are used in Spain (Latin America: carro / auto, boleto)."}
+          ],
+          "words": [
+            ["el billete", "die Fahrkarte / das Ticket", "the ticket"],
+            ["un billete para …", "eine Fahrkarte nach …", "a ticket to …"],
+            ["¿a qué hora sale …?", "wann fährt … ab?", "what time does … leave?"],
+            ["el autobús", "der Bus", "the bus"],
+            ["el tren", "der Zug", "the train"],
+            ["el metro", "die U-Bahn", "the underground / metro"],
+            ["la parada", "die Haltestelle", "the (bus) stop"],
+            ["la estación", "der Bahnhof", "the (train) station"],
+            ["el taxi", "das Taxi", "the taxi"],
+            ["el aeropuerto", "der Flughafen", "the airport"],
+            ["el coche", "das Auto", "the car"],
+            ["el avión", "das Flugzeug", "the plane"],
+            ["la bicicleta", "das Fahrrad", "the bicycle"]
+          ]
+        },
+        {
+          "id": "v14",
+          "type": "vocab",
+          "title": {"de": "Wichtige Orte in der Stadt", "en": "Important places in town"},
+          "words": [
+            ["la farmacia", "die Apotheke", "the pharmacy"],
+            ["el supermercado", "der Supermarkt", "the supermarket"],
+            ["el cajero", "der Geldautomat", "the cash machine / ATM"],
+            ["el restaurante", "das Restaurant", "the restaurant"],
+            ["el banco", "die Bank", "the bank"],
+            ["la tienda", "der Laden / das Geschäft", "the shop"],
+            ["el hospital", "das Krankenhaus", "the hospital"],
+            ["abierto", "geöffnet / offen", "open"],
+            ["cerrado", "geschlossen", "closed"],
+            ["¿a qué hora abre …?", "wann öffnet …?", "what time does … open?"],
+            ["la calle", "die Straße", "the street"],
+            ["la ciudad", "die Stadt", "the city / town"],
+            ["la iglesia", "die Kirche", "the church"],
+            ["la escuela", "die Schule", "the school"]
+          ]
+        },
+        {
+          "id": "v25",
+          "type": "vocab",
+          "title": {"de": "Im Restaurant", "en": "At the restaurant"},
+          "notes": [
+            {"de": "Mittags bieten viele Restaurants das menú del día an: Vorspeise, Hauptgericht, Nachtisch und Getränk zum Festpreis.", "en": "At lunchtime many restaurants offer the menú del día: starter, main course, dessert and a drink at a fixed price."},
+            {"de": "carta ist die Speisekarte, menú meist das feste Menü.", "en": "carta is the menu, menú usually the set menu."}
+          ],
+          "words": [
+            ["una mesa para dos", "ein Tisch für zwei", "a table for two"],
+            ["la carta", "die Speisekarte", "the menu"],
+            ["el menú del día", "das Tagesmenü", "the set menu of the day"],
+            ["el camarero", "der Kellner", "the waiter"],
+            ["el postre", "der Nachtisch", "the dessert"],
+            ["¡que aproveche!", "guten Appetit!", "enjoy your meal!"],
+            ["¡salud!", "Prost! / Gesundheit!", "cheers! / bless you!"],
+            ["la propina", "das Trinkgeld", "the tip"],
+            ["el desayuno", "das Frühstück", "the breakfast"],
+            ["el almuerzo", "das Mittagessen", "the lunch"],
+            ["la cena", "das Abendessen", "the dinner"],
+            ["la sal", "das Salz", "the salt"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": {"de": "Einfache Grammatik", "en": "Simple grammar"},
+      "subtitle": {"de": "Verben auf -ar, Verneinung & Fragen", "en": "-ar verbs, negation & questions"},
+      "lessons": [
+        {
+          "id": "g06",
+          "type": "grammar",
+          "title": {"de": "Verben auf -ar", "en": "Verbs ending in -ar"},
+          "explanation": {
+            "de": [
+              {"p": "Die meisten Verben enden auf -ar. Man streicht -ar und hängt die Endung für die Person an:"},
+              {
+                "table": [
+                  ["Person", "Endung", "hablar (sprechen)"],
+                  ["yo", "-o", "hablo"],
+                  ["tú", "-as", "hablas"],
+                  ["él / ella / usted", "-a", "habla"],
+                  ["nosotros / nosotras", "-amos", "hablamos"],
+                  ["vosotros / vosotras", "-áis", "habláis"],
+                  ["ellos / ellas / ustedes", "-an", "hablan"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Hablo alemán e inglés.", "Ich spreche Deutsch und Englisch."],
+                  ["¿Dónde trabajas?", "Wo arbeitest du?"],
+                  ["Ella estudia en Madrid.", "Sie studiert in Madrid."],
+                  ["Compramos pan.", "Wir kaufen Brot."]
+                ]
+              },
+              {"tip": "Genauso funktionieren z. B. trabajar, estudiar, comprar, pagar, cocinar, viajar und viele mehr."},
+              {"tip": "Vor einem i- wird y (und) zu e: alemán e inglés."}
+            ],
+            "en": [
+              {"p": "Most verbs end in -ar. Drop the -ar and add the ending for the person:"},
+              {
+                "table": [
+                  ["Person", "Ending", "hablar (to speak)"],
+                  ["yo", "-o", "hablo"],
+                  ["tú", "-as", "hablas"],
+                  ["él / ella / usted", "-a", "habla"],
+                  ["nosotros / nosotras", "-amos", "hablamos"],
+                  ["vosotros / vosotras", "-áis", "habláis"],
+                  ["ellos / ellas / ustedes", "-an", "hablan"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Hablo alemán e inglés.", "I speak German and English."],
+                  ["¿Dónde trabajas?", "Where do you work?"],
+                  ["Ella estudia en Madrid.", "She studies in Madrid."],
+                  ["Compramos pan.", "We buy bread."]
+                ]
+              },
+              {"tip": "These work the same way: trabajar, estudiar, comprar, pagar, cocinar, viajar and many more."},
+              {"tip": "Before an i- sound, y (and) becomes e: alemán e inglés."}
+            ]
+          },
+          "exercises": [
+            ["Yo ___ español. (hablar)", "hablo", {"de": "Ich spreche Spanisch.", "en": "I speak Spanish."}, ["hablo", "hablas", "habla", "hablan"]],
+            ["¿Tú ___ alemán? (hablar)", "hablas", {"de": "Sprichst du Deutsch?", "en": "Do you speak German?"}, ["hablo", "hablas", "habla", "hablamos"]],
+            [
+              "Ella ___ en Madrid. (trabajar)",
+              "trabaja",
+              {"de": "Sie arbeitet in Madrid.", "en": "She works in Madrid."},
+              ["trabajo", "trabajas", "trabaja", "trabajan"]
+            ],
+            [
+              "Nosotros ___ mucho. (estudiar)",
+              "estudiamos",
+              {"de": "Wir lernen viel.", "en": "We study a lot."},
+              ["estudian", "estudiamos", "estudia", "estudiáis"]
+            ],
+            ["Ellos ___ pan. (comprar)", "compran", {"de": "Sie kaufen Brot.", "en": "They buy bread."}, ["compra", "compramos", "compran", "compro"]],
+            [
+              "¿Vosotros ___ inglés? (hablar)",
+              "habláis",
+              {"de": "Sprecht ihr Englisch?", "en": "Do you (all) speak English?"},
+              ["habla", "hablan", "habláis", "hablas"]
+            ],
+            ["Yo ___ español. (estudiar)", "estudio", {"de": "Ich lerne Spanisch.", "en": "I'm learning Spanish."}, null],
+            ["¿Dónde ___ tú? (trabajar)", "trabajas", {"de": "Wo arbeitest du?", "en": "Where do you work?"}, null],
+            ["Pedro ___ mucho. (trabajar)", "trabaja", {"de": "Pedro arbeitet viel.", "en": "Pedro works a lot."}, null],
+            ["Nosotros ___ el café. (pagar)", "pagamos", {"de": "Wir bezahlen den Kaffee.", "en": "We pay for the coffee."}, null],
+            ["¿Usted ___ inglés? (hablar)", "habla", {"de": "Sprechen Sie Englisch?", "en": "Do you speak English? (polite)"}, null],
+            ["Vosotros ___ mucho. (viajar)", "viajáis", {"de": "Ihr reist viel.", "en": "You (all) travel a lot."}, null],
+            ["Ellas ___ en casa. (cocinar)", "cocinan", {"de": "Sie kochen zu Hause.", "en": "They cook at home."}, null]
+          ]
+        },
+        {
+          "id": "g07",
+          "type": "grammar",
+          "title": {"de": "Verneinung & Fragen", "en": "Negation & questions"},
+          "explanation": {
+            "de": [
+              {"p": "Verneinen ist einfach: no steht direkt vor dem Verb."},
+              {
+                "ex": [
+                  ["No hablo inglés.", "Ich spreche kein Englisch."],
+                  ["Pedro no está en casa.", "Pedro ist nicht zu Hause."],
+                  ["No tengo tiempo.", "Ich habe keine Zeit."]
+                ]
+              },
+              {"h": "Ja/Nein-Fragen"},
+              {"p": "Ja/Nein-Fragen bildet man mit der Stimme – die Wortstellung kann gleich bleiben. Geschrieben steht vorne ¿ und hinten ?"},
+              {"ex": [["¿Hablas español?", "Sprichst du Spanisch?"], ["¿Ana está en casa?", "Ist Ana zu Hause?"]]},
+              {"h": "Fragen mit Fragewort"},
+              {"p": "Das Fragewort steht am Anfang und trägt immer einen Akzent:"},
+              {"ex": [["¿Dónde vives?", "Wo wohnst du?"], ["¿Por qué estás triste?", "Warum bist du traurig?"], ["¿Cuánto cuesta?", "Wie viel kostet das?"]]},
+              {"tip": "Doppelte Verneinung ist im Spanischen richtig: No tengo nada. (Ich habe nichts.)"}
+            ],
+            "en": [
+              {"p": "Negating is easy: no goes directly in front of the verb."},
+              {
+                "ex": [
+                  ["No hablo inglés.", "I don't speak English."],
+                  ["Pedro no está en casa.", "Pedro isn't at home."],
+                  ["No tengo tiempo.", "I don't have time."]
+                ]
+              },
+              {"h": "Yes/no questions"},
+              {"p": "Yes/no questions are made with intonation – the word order can stay the same. In writing, ¿ goes at the start and ? at the end."},
+              {"ex": [["¿Hablas español?", "Do you speak Spanish?"], ["¿Ana está en casa?", "Is Ana at home?"]]},
+              {"h": "Questions with a question word"},
+              {"p": "The question word comes first and always carries an accent:"},
+              {"ex": [["¿Dónde vives?", "Where do you live?"], ["¿Por qué estás triste?", "Why are you sad?"], ["¿Cuánto cuesta?", "How much is it?"]]},
+              {"tip": "Double negatives are correct in Spanish: No tengo nada. (I don't have anything.)"}
+            ]
+          },
+          "exercises": [
+            [
+              {"de": "Ich bin nicht müde.", "en": "I'm not tired."},
+              "No estoy cansado.",
+              "",
+              ["No estoy cansado.", "Estoy no cansado.", "Estoy cansado no."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            [
+              {"de": "Wir haben kein Auto.", "en": "We don't have a car."},
+              "No tenemos coche.",
+              "",
+              ["Tenemos no coche.", "No tenemos coche.", "Nosotros tenemos coche no."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["¿___ vives?", "Dónde", {"de": "Wo wohnst du?", "en": "Where do you live?"}, ["Dónde", "Quién", "Cuándo", "Cómo"]],
+            ["¿___ es él?", "Quién", {"de": "Wer ist er?", "en": "Who is he?"}, ["Qué", "Quién", "Dónde", "Cuál"]],
+            [
+              "¿___ cuesta el billete?",
+              "Cuánto",
+              {"de": "Wie viel kostet die Fahrkarte?", "en": "How much is the ticket?"},
+              ["Cuánto", "Cómo", "Cuándo", "Quién"]
+            ],
+            ["¿___ estás?", "Cómo", {"de": "Wie geht es dir?", "en": "How are you?"}, ["Dónde", "Cómo", "Cuánto", "Porque"]],
+            ["¿___ es esto?", "Qué", {"de": "Was ist das?", "en": "What is this?"}, ["Quién", "Qué", "Cuánto", "Cuándo"]],
+            ["Yo ___ entiendo.", "no", {"de": "Ich verstehe nicht.", "en": "I don't understand."}, null],
+            ["¿___ vienes? – Mañana.", "Cuándo", {"de": "Wann kommst du? – Morgen.", "en": "When are you coming? – Tomorrow."}, null],
+            ["¿___ estás triste?", "Por qué", {"de": "Warum bist du traurig?", "en": "Why are you sad?"}, null],
+            ["¿De ___ eres? – Soy de Alemania.", "dónde", {"de": "Woher kommst du? – Aus Deutschland.", "en": "Where are you from? – From Germany."}, null],
+            ["¿Tienes hambre? – No, no ___ hambre.", "tengo", {"de": "Hast du Hunger? – Nein.", "en": "Are you hungry? – No."}, null],
+            ["Pedro ___ trabaja hoy.", "no", {"de": "Pedro arbeitet heute nicht.", "en": "Pedro isn't working today."}, null]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": {"de": "Alltagswortschatz", "en": "Everyday vocabulary"},
+      "subtitle": {"de": "Essen, Eigenschaften, über dich erzählen", "en": "Food, describing things, talking about yourself"},
+      "lessons": [
+        {
+          "id": "v11",
+          "type": "vocab",
+          "title": {"de": "Essen", "en": "Food"},
+          "notes": [
+            {"de": "el pescado ist Fisch als Essen – der lebende Fisch heißt el pez. jamón york ist Kochschinken, jamón serrano der luftgetrocknete.", "en": "el pescado is fish as food – a live fish is el pez. jamón york is cooked ham, jamón serrano the cured kind."}
+          ],
+          "words": [
+            ["la comida", "das Essen", "the food"],
+            ["el pan", "das Brot", "the bread"],
+            ["la carne", "das Fleisch", "the meat"],
+            ["el pescado", "der Fisch", "the fish"],
+            ["el arroz", "der Reis", "the rice"],
+            ["el queso", "der Käse", "the cheese"],
+            ["el huevo", "das Ei", "the egg"],
+            ["la fruta", "das Obst", "the fruit"],
+            ["el jamón york", "der Kochschinken", "the (cooked) ham"],
+            ["la mantequilla", "die Butter", "the butter"],
+            ["la manzana", "der Apfel", "the apple"],
+            ["la naranja", "die Orange", "the orange"]
+          ]
+        },
+        {
+          "id": "v18",
+          "type": "vocab",
+          "title": {"de": "Eigenschaften 1", "en": "Describing things 1"},
+          "notes": [
+            {"de": "Vor einem männlichen Nomen werden bueno und malo zu buen und mal: un buen día.", "en": "Before a masculine noun bueno and malo become buen and mal: un buen día."}
+          ],
+          "words": [
+            ["bueno", "gut", "good"],
+            ["malo", "schlecht", "bad"],
+            ["grande", "groß", "big"],
+            ["pequeño", "klein", "small"],
+            ["caliente", "heiß / warm", "hot / warm"],
+            ["frío", "kalt", "cold"],
+            ["nuevo", "neu / jung", "new / young"],
+            ["viejo", "alt", "old"],
+            ["fácil", "einfach / leicht", "easy"],
+            ["difícil", "schwierig", "difficult"],
+            ["bonito", "schön", "pretty / beautiful"],
+            ["feo", "hässlich", "ugly"]
+          ]
+        },
+        {
+          "id": "v04",
+          "type": "vocab",
+          "title": {"de": "Über dich erzählen: Familie", "en": "Talking about yourself: family"},
+          "notes": [
+            {"de": "Die männliche Mehrzahl steht auch für gemischte Gruppen: los padres (die Eltern), los hermanos (die Geschwister).", "en": "The masculine plural also covers mixed groups: los padres (the parents), los hermanos (the siblings)."}
+          ],
+          "words": [
+            ["¿tienes hijos?", "hast du Kinder?", "do you have children?"],
+            ["estoy casado / estoy casada", "ich bin verheiratet", "I'm married"],
+            ["la familia", "die Familie", "the family"],
+            ["el marido", "der Ehemann", "the husband"],
+            ["la mujer", "die Frau / die Ehefrau", "the woman / the wife"],
+            ["el hijo", "der Sohn", "the son"],
+            ["la hija", "die Tochter", "the daughter"],
+            ["los padres", "die Eltern", "the parents"],
+            ["el padre", "der Vater", "the father"],
+            ["la madre", "die Mutter", "the mother"],
+            ["el hermano", "der Bruder", "the brother"],
+            ["la hermana", "die Schwester", "the sister"]
+          ]
+        },
+        {
+          "id": "v19",
+          "type": "vocab",
+          "title": {"de": "Wie oft? & Eigenschaften 2", "en": "How often? & describing things 2"},
+          "words": [
+            ["siempre", "immer", "always"],
+            ["a veces", "manchmal", "sometimes"],
+            ["nunca", "nie", "never"],
+            ["cansado", "müde", "tired"],
+            ["ocupado", "beschäftigt / besetzt", "busy / occupied"],
+            ["libre", "frei", "free"],
+            ["simpático", "nett", "nice / friendly"],
+            ["rápido", "schnell", "fast"],
+            ["lento", "langsam", "slow"],
+            ["alto", "hoch / groß (Person)", "high / tall"],
+            ["bajo", "niedrig / klein (Person)", "low / short"],
+            ["feliz", "glücklich", "happy"],
+            ["triste", "traurig", "sad"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": {"de": "Grundgrammatik", "en": "Core grammar"},
+      "subtitle": {"de": "Adjektive", "en": "Adjectives"},
+      "lessons": [
+        {
+          "id": "g08",
+          "type": "grammar",
+          "title": {"de": "Adjektive anpassen", "en": "Adjective agreement"},
+          "explanation": {
+            "de": [
+              {"p": "Adjektive stehen meist hinter dem Nomen und passen sich in Geschlecht und Zahl an:"},
+              {"table": [["", "Singular", "Plural"], ["männlich", "el coche nuevo", "los coches nuevos"], ["weiblich", "la casa nueva", "las casas nuevas"]]},
+              {"p": "Adjektive auf -e oder auf einen Konsonanten haben für männlich und weiblich dieselbe Form:"},
+              {
+                "ex": [
+                  ["un hombre feliz / una mujer feliz", "ein glücklicher Mann / eine glückliche Frau"],
+                  ["el libro grande / la casa grande", "das große Buch / das große Haus"],
+                  ["los niños felices", "die glücklichen Kinder"]
+                ]
+              },
+              {"tip": "Nach ser und estar passt sich das Adjektiv genauso an: La sopa está fría. Ellos son simpáticos."}
+            ],
+            "en": [
+              {"p": "Adjectives usually come after the noun and agree with it in gender and number:"},
+              {"table": [["", "singular", "plural"], ["masculine", "el coche nuevo", "los coches nuevos"], ["feminine", "la casa nueva", "las casas nuevas"]]},
+              {"p": "Adjectives ending in -e or a consonant have the same form for masculine and feminine:"},
+              {
+                "ex": [
+                  ["un hombre feliz / una mujer feliz", "a happy man / a happy woman"],
+                  ["el libro grande / la casa grande", "the big book / the big house"],
+                  ["los niños felices", "the happy children"]
+                ]
+              },
+              {"tip": "After ser and estar the adjective agrees in the same way: La sopa está fría. Ellos son simpáticos."}
+            ]
+          },
+          "exercises": [
+            ["la casa ___ (bonito)", "bonita", {"de": "das schöne Haus", "en": "the beautiful house"}, ["bonito", "bonita", "bonitos", "bonitas"]],
+            ["los libros ___ (nuevo)", "nuevos", {"de": "die neuen Bücher", "en": "the new books"}, ["nuevo", "nueva", "nuevos", "nuevas"]],
+            ["las mesas ___ (pequeño)", "pequeñas", {"de": "die kleinen Tische", "en": "the small tables"}, ["pequeño", "pequeña", "pequeños", "pequeñas"]],
+            ["un hombre ___ (simpático)", "simpático", {"de": "ein netter Mann", "en": "a nice man"}, ["simpático", "simpática", "simpáticos"]],
+            ["una ciudad ___ (grande)", "grande", {"de": "eine große Stadt", "en": "a big city"}, ["grande", "granda", "grandes"]],
+            ["La sopa está ___. (frío)", "fría", {"de": "Die Suppe ist kalt.", "en": "The soup is cold."}, ["frío", "fría", "fríos", "frías"]],
+            ["Ellas son ___. (alto)", "altas", {"de": "Sie sind groß.", "en": "They are tall."}, ["alto", "alta", "altos", "altas"]],
+            ["el coche ___ (viejo)", "viejo", {"de": "das alte Auto", "en": "the old car"}, null],
+            ["la chica ___ (alto)", "alta", {"de": "das große Mädchen", "en": "the tall girl"}, null],
+            ["los billetes ___ (caro)", "caros", {"de": "die teuren Fahrkarten", "en": "the expensive tickets"}, null],
+            ["las casas ___ (blanco)", "blancas", {"de": "die weißen Häuser", "en": "the white houses"}, null],
+            ["Los amigos están ___. (cansado)", "cansados", {"de": "Die Freunde sind müde.", "en": "The friends are tired."}, null],
+            ["Ana es muy ___. (simpático)", "simpática", {"de": "Ana ist sehr nett.", "en": "Ana is very nice."}, null],
+            ["los niños ___ (feliz)", "felices", {"de": "die glücklichen Kinder", "en": "the happy children"}, null]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "title": {"de": "Erweiterter Wortschatz", "en": "Extended vocabulary"},
+      "subtitle": {"de": "Menschen um dich herum, Wohnung, Farben", "en": "People around you, your home, colours"},
+      "lessons": [
+        {
+          "id": "v05",
+          "type": "vocab",
+          "title": {"de": "Menschen um dich herum", "en": "People around you"},
+          "words": [
+            ["el amigo", "der Freund", "the friend (male)"],
+            ["la amiga", "die Freundin", "the friend (female)"],
+            ["el novio", "der (feste) Freund", "the boyfriend"],
+            ["la novia", "die (feste) Freundin", "the girlfriend"],
+            ["el compañero", "der Kollege / der Mitschüler", "the colleague / the classmate"],
+            ["el vecino", "der Nachbar", "the neighbour"],
+            ["el hombre", "der Mann", "the man"],
+            ["el chico", "der Junge", "the boy"],
+            ["la chica", "das Mädchen", "the girl"],
+            ["el niño / la niña", "das Kind", "the child"],
+            ["el bebé", "das Baby", "the baby"],
+            ["el abuelo", "der Großvater", "the grandfather"],
+            ["la abuela", "die Großmutter", "the grandmother"]
+          ]
+        },
+        {
+          "id": "v13",
+          "type": "vocab",
+          "title": {"de": "Zu Hause", "en": "At home"},
+          "notes": [
+            {"de": "piso sagt man in Spanien für die Wohnung (Lateinamerika: departamento / apartamento).", "en": "piso is the word for a flat in Spain (Latin America: departamento / apartamento)."}
+          ],
+          "words": [
+            ["la casa", "das Haus / das Zuhause", "the house / home"],
+            ["el piso", "die Wohnung", "the flat / apartment"],
+            ["la habitación", "das Zimmer / das Schlafzimmer", "the room / bedroom"],
+            ["la llave", "der Schlüssel", "the key"],
+            ["la cocina", "die Küche", "the kitchen"],
+            ["el salón", "das Wohnzimmer", "the living room"],
+            ["la puerta", "die Tür", "the door"],
+            ["la ventana", "das Fenster", "the window"],
+            ["la mesa", "der Tisch", "the table"],
+            ["la silla", "der Stuhl", "the chair"],
+            ["la cama", "das Bett", "the bed"]
+          ]
+        },
+        {
+          "id": "v08",
+          "type": "vocab",
+          "title": {"de": "Farben", "en": "Colours"},
+          "notes": [
+            {"de": "Farben auf -o passen sich an: el coche blanco, la casa blanca. Farben auf -e oder Konsonant nicht: verde, azul, gris.", "en": "Colours ending in -o agree with the noun: el coche blanco, la casa blanca. Colours ending in -e or a consonant don't: verde, azul, gris."}
+          ],
+          "words": [
+            ["¿lo tiene en otro color?", "haben Sie das in einer anderen Farbe?", "do you have it in another colour?"],
+            ["el color", "die Farbe", "the colour"],
+            ["negro", "schwarz", "black"],
+            ["blanco", "weiß", "white"],
+            ["azul", "blau", "blue"],
+            ["rojo", "rot", "red"],
+            ["verde", "grün", "green"],
+            ["gris", "grau", "grey"],
+            ["marrón", "braun", "brown"],
+            ["amarillo", "gelb", "yellow"],
+            ["rosa", "rosa", "pink"],
+            ["naranja", "orange (Farbe)", "orange (colour)"],
+            ["morado", "lila", "purple"]
+          ]
+        }
+      ]
+    }
+  ]
+}

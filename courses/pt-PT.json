@@ -1,0 +1,2801 @@
+{
+  "id": "pt-PT",
+  "language": "pt",
+  "tag": "PT",
+  "name": {"de": "Portugiesisch (Portugal)", "en": "Portuguese (Portugal)"},
+  "short": {"de": "Portugiesisch", "en": "Portuguese"},
+  "variant": {"de": "Europäisches Portugiesisch (Portugal)", "en": "European Portuguese (Portugal)"},
+  "level": "A1",
+  "natives": ["de", "en"],
+  "accents": "ãâáàçéêíóôõú",
+  "articles": ["o", "a", "os", "as", "um", "uma", "uns", "umas"],
+  "equivalents": {},
+  "units": [
+    {
+      "id": "u1",
+      "title": {"de": "Grundwortschatz", "en": "Core words"},
+      "subtitle": {"de": "Die Wörter, die du überall brauchst", "en": "The words you need everywhere"},
+      "lessons": [
+        {
+          "id": "v01",
+          "type": "vocab",
+          "title": {"de": "Begrüßen & Höflichkeit", "en": "Greetings & politeness"},
+          "notes": [
+            {"de": "obrigado sagen Männer, obrigada sagen Frauen – es richtet sich nach der Person, die sich bedankt.", "en": "Men say obrigado, women say obrigada – it depends on the person saying thank you."}
+          ],
+          "words": [
+            ["olá", "hallo", "hello"],
+            ["obrigado / obrigada", "danke", "thank you"],
+            ["por favor", "bitte", "please"],
+            ["desculpe", "Entschuldigung", "sorry / excuse me"],
+            ["de nada", "gern geschehen", "you're welcome"],
+            ["bom dia", "guten Morgen", "good morning"],
+            ["boa tarde", "guten Tag (nachmittags)", "good afternoon"],
+            ["boa noite", "guten Abend / gute Nacht", "good evening / good night"],
+            ["tudo bem?", "alles gut?", "all good?"],
+            ["adeus", "tschüss / auf Wiedersehen", "bye / goodbye"],
+            ["até logo", "bis später", "see you later"],
+            ["até amanhã", "bis morgen", "see you tomorrow"]
+          ]
+        },
+        {
+          "id": "v02",
+          "type": "vocab",
+          "title": {"de": "Kleine Wörter", "en": "Small words"},
+          "words": [
+            ["sim", "ja", "yes"],
+            ["não", "nein / nicht", "no / not"],
+            ["e", "und", "and"],
+            ["mas", "aber", "but"],
+            ["com", "mit", "with"],
+            ["sem", "ohne", "without"],
+            ["muito", "sehr / viel", "very / a lot"],
+            ["aqui", "hier", "here"],
+            ["ali", "dort", "there"],
+            ["também", "auch", "also"],
+            ["ou", "oder", "or"],
+            ["talvez", "vielleicht", "maybe"]
+          ]
+        },
+        {
+          "id": "v03",
+          "type": "vocab",
+          "title": {"de": "Personen", "en": "People"},
+          "notes": [
+            {"de": "In Portugal duzt man Freunde und Familie mit tu. Fremde spricht man höflich mit o senhor / a senhora an. você ist neutral, klingt aber manchmal etwas distanziert.", "en": "In Portugal you use tu with friends and family. Strangers are addressed politely with o senhor / a senhora. você is neutral but can sound a bit distant."},
+            {"de": "vocês heißt „ihr“ – und ist auch die höfliche Mehrzahl („Sie“ zu mehreren Personen).", "en": "vocês means “you” (plural) – both informal and polite."}
+          ],
+          "words": [
+            ["eu", "ich", "I"],
+            ["tu", "du", "you (informal)"],
+            ["você", "Sie (höflich)", "you (polite)"],
+            ["o senhor", "der Herr / Sie (höflich, zu einem Mann)", "the gentleman / you (polite, to a man)"],
+            ["a senhora", "die Dame / Sie (höflich, zu einer Frau)", "the lady / you (polite, to a woman)"],
+            ["ele", "er", "he"],
+            ["ela", "sie (eine Person)", "she"],
+            ["nós", "wir", "we"],
+            ["vocês", "ihr", "you (plural)"],
+            ["eles", "sie (mehrere, männlich/gemischt)", "they (masculine / mixed)"],
+            ["elas", "sie (mehrere, weiblich)", "they (feminine)"],
+            ["a pessoa", "die Person", "the person"]
+          ]
+        },
+        {
+          "id": "v20",
+          "type": "vocab",
+          "title": {"de": "Fragewörter", "en": "Question words"},
+          "notes": [
+            {"de": "Allein oder am Satzende fragt man mit porquê: Porquê? (Warum?). Am Satzanfang schreibt man porque: Porque é que estás triste?", "en": "On its own or at the end of a sentence, “why” is porquê: Porquê? At the start of a question it's written porque: Porque é que estás triste?"},
+            {"de": "porque ohne Frage heißt „weil“: Fico em casa porque está a chover.", "en": "porque without a question means “because”: Fico em casa porque está a chover."}
+          ],
+          "words": [
+            ["onde", "wo", "where"],
+            ["quanto", "wie viel", "how much"],
+            ["o que", "was", "what"],
+            ["quando", "wann", "when"],
+            ["como", "wie", "how"],
+            ["quem", "wer", "who"],
+            ["qual", "welche(r, s)", "which"],
+            ["a que horas", "um wie viel Uhr", "at what time"],
+            ["porquê", "warum", "why"],
+            ["porque", "weil", "because"],
+            ["de onde", "woher", "where from"],
+            ["para onde", "wohin", "where to"]
+          ]
+        },
+        {
+          "id": "v16",
+          "type": "vocab",
+          "title": {"de": "Wichtige Verben 1", "en": "Key verbs 1"},
+          "notes": [
+            {"de": "Hier lernst du die Grundform (Infinitiv). Wie man die Verben beugt, kommt im Grammatik-Teil.", "en": "Here you learn the basic form (infinitive). How to conjugate the verbs comes in the grammar part."},
+            {"de": "ser und estar heißen beide „sein“. Den Unterschied lernst du in Teil 2.", "en": "ser and estar both mean “to be”. You'll learn the difference in part 2."}
+          ],
+          "words": [
+            ["ser", "sein (dauerhaft)", "to be (permanent)"],
+            ["estar", "sein (vorübergehend)", "to be (temporary)"],
+            ["ter", "haben", "to have"],
+            ["querer", "wollen", "to want"],
+            ["poder", "können / dürfen", "can / may"],
+            ["ir", "gehen / fahren", "to go"],
+            ["falar", "sprechen", "to speak"],
+            ["comer", "essen", "to eat"],
+            ["beber", "trinken", "to drink"],
+            ["fazer", "machen / tun", "to make / to do"],
+            ["vir", "kommen", "to come"],
+            ["morar", "wohnen", "to live (reside)"]
+          ]
+        },
+        {
+          "id": "v17",
+          "type": "vocab",
+          "title": {"de": "Wichtige Verben 2", "en": "Key verbs 2"},
+          "notes": [
+            {"de": "perceber ist in Portugal das übliche Wort für „verstehen“: Não percebo. = Ich verstehe nicht.", "en": "perceber is the usual word for “to understand” in Portugal: Não percebo. = I don't understand."}
+          ],
+          "words": [
+            ["perceber", "verstehen", "to understand"],
+            ["saber", "wissen / können (gelernt)", "to know (facts) / can (skills)"],
+            ["precisar de", "brauchen", "to need"],
+            ["pagar", "bezahlen", "to pay"],
+            ["comprar", "kaufen", "to buy"],
+            ["gostar de", "mögen", "to like"],
+            ["ver", "sehen", "to see"],
+            ["conhecer", "kennen / kennenlernen", "to know (people, places) / to meet"],
+            ["trabalhar", "arbeiten", "to work"],
+            ["ler", "lesen", "to read"],
+            ["escrever", "schreiben", "to write"],
+            ["ouvir", "hören", "to hear"]
+          ]
+        },
+        {
+          "id": "v06",
+          "type": "vocab",
+          "title": {"de": "Zahlen 0–10", "en": "Numbers 0–10"},
+          "notes": [
+            {"de": "Eins und zwei haben eine männliche und eine weibliche Form: um livro, uma casa – dois livros, duas casas.", "en": "One and two have a masculine and a feminine form: um livro, uma casa – dois livros, duas casas."}
+          ],
+          "words": [
+            ["zero", "null", "zero"],
+            ["um / uma", "eins", "one"],
+            ["dois / duas", "zwei", "two"],
+            ["três", "drei", "three"],
+            ["quatro", "vier", "four"],
+            ["cinco", "fünf", "five"],
+            ["seis", "sechs", "six"],
+            ["sete", "sieben", "seven"],
+            ["oito", "acht", "eight"],
+            ["nove", "neun", "nine"],
+            ["dez", "zehn", "ten"],
+            ["o número", "die Zahl / die Nummer", "the number"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": {"de": "Erste Grammatik", "en": "First grammar"},
+      "subtitle": {"de": "Artikel, Plural, ser, estar, ter & há, querer & poder", "en": "Articles, plural, ser, estar, ter & há, querer & poder"},
+      "lessons": [
+        {
+          "id": "g01",
+          "type": "grammar",
+          "title": {"de": "Artikel: o, a, um, uma", "en": "Articles: o, a, um, uma"},
+          "explanation": {
+            "de": [
+              {"p": "Jedes Nomen ist im Portugiesischen männlich oder weiblich. Ein sächliches Geschlecht wie „das“ gibt es nicht."},
+              {
+                "table": [
+                  ["", "männlich", "weiblich"],
+                  ["der / die / das", "o", "a"],
+                  ["ein / eine", "um", "uma"],
+                  ["die (Plural)", "os", "as"],
+                  ["einige", "uns", "umas"]
+                ]
+              },
+              {"p": "Faustregel: Nomen auf -o sind meist männlich, Nomen auf -a meist weiblich. Wörter auf -ção und -dade sind immer weiblich."},
+              {
+                "ex": [
+                  ["o livro", "das Buch"],
+                  ["a casa", "das Haus"],
+                  ["um carro", "ein Auto"],
+                  ["uma mesa", "ein Tisch"],
+                  ["a estação", "der Bahnhof"],
+                  ["a cidade", "die Stadt"]
+                ]
+              },
+              {"tip": "Ausnahmen gibt es: o dia (der Tag), o mapa (die Karte), a mão (die Hand). Lerne Nomen deshalb immer mit Artikel."}
+            ],
+            "en": [
+              {"p": "Every noun in Portuguese is either masculine or feminine. There is no neuter."},
+              {"table": [["", "masculine", "feminine"], ["the", "o", "a"], ["a / an", "um", "uma"], ["the (plural)", "os", "as"], ["some", "uns", "umas"]]},
+              {"p": "Rule of thumb: nouns ending in -o are usually masculine, nouns ending in -a usually feminine. Words ending in -ção and -dade are always feminine."},
+              {
+                "ex": [
+                  ["o livro", "the book"],
+                  ["a casa", "the house"],
+                  ["um carro", "a car"],
+                  ["uma mesa", "a table"],
+                  ["a estação", "the station"],
+                  ["a cidade", "the city"]
+                ]
+              },
+              {"tip": "There are exceptions: o dia (the day), o mapa (the map), a mão (the hand). So always learn nouns together with their article."}
+            ]
+          },
+          "exercises": [
+            ["___ livro", "o", {"de": "das Buch", "en": "the book"}, ["o", "a"]],
+            ["___ casa", "a", {"de": "das Haus", "en": "the house"}, ["o", "a"]],
+            ["___ mesa", "a", {"de": "der Tisch", "en": "the table"}, ["o", "a"]],
+            ["___ carro", "o", {"de": "das Auto", "en": "the car"}, ["o", "a"]],
+            ["___ cidade", "a", {"de": "die Stadt", "en": "the city"}, ["o", "a"]],
+            ["___ dia", "o", {"de": "der Tag", "en": "the day"}, ["o", "a"]],
+            ["___ amigo", "um", {"de": "ein Freund", "en": "a friend"}, ["um", "uma"]],
+            ["___ janela", "uma", {"de": "ein Fenster", "en": "a window"}, ["um", "uma"]],
+            ["___ livros", "os", {"de": "die Bücher", "en": "the books"}, ["o", "os", "a", "as"]],
+            ["___ cadeiras", "as", {"de": "die Stühle", "en": "the chairs"}, ["o", "os", "a", "as"]],
+            ["Tenho ___ irmã.", "uma", {"de": "Ich habe eine Schwester.", "en": "I have a sister."}, ["um", "uma", "o", "a"]],
+            ["___ rua", "a", {"de": "die Straße", "en": "the street"}, null],
+            ["___ quarto", "o", {"de": "das Zimmer", "en": "the room"}, null],
+            ["___ estação", "a", {"de": "der Bahnhof", "en": "the station"}, null],
+            ["___ chave", "uma", {"de": "ein Schlüssel", "en": "a key"}, null],
+            ["___ comboios", "os", {"de": "die Züge", "en": "the trains"}, null],
+            ["___ mão", "a", {"de": "die Hand", "en": "the hand"}, null]
+          ]
+        },
+        {
+          "id": "g02",
+          "type": "grammar",
+          "title": {"de": "Der Plural", "en": "The plural"},
+          "explanation": {
+            "de": [
+              {"p": "Meist hängt man einfach -s an – auch an den Artikel:"},
+              {
+                "ex": [
+                  ["o livro → os livros", "das Buch → die Bücher"],
+                  ["a casa → as casas", "das Haus → die Häuser"],
+                  ["o carro → os carros", "das Auto → die Autos"]
+                ]
+              },
+              {
+                "table": [
+                  ["Endung", "Plural", "Beispiel"],
+                  ["Vokal", "+ s", "a mesa → as mesas"],
+                  ["-r, -z", "+ es", "a mulher → as mulheres, o rapaz → os rapazes"],
+                  ["-m", "-ns", "o homem → os homens"],
+                  ["-l", "-is", "o animal → os animais, o hotel → os hotéis"],
+                  ["-ão", "meist -ões", "a estação → as estações"]
+                ]
+              },
+              {"tip": "Bei -ão gibt es Ausnahmen, die man einzeln lernt: o pão → os pães, a mão → as mãos, o irmão → os irmãos."},
+              {"p": "Auch Adjektive bekommen das Plural-s: os carros novos, as casas grandes."}
+            ],
+            "en": [
+              {"p": "Usually you simply add -s – to the article as well:"},
+              {
+                "ex": [
+                  ["o livro → os livros", "the book → the books"],
+                  ["a casa → as casas", "the house → the houses"],
+                  ["o carro → os carros", "the car → the cars"]
+                ]
+              },
+              {
+                "table": [
+                  ["Ending", "Plural", "Example"],
+                  ["vowel", "+ s", "a mesa → as mesas"],
+                  ["-r, -z", "+ es", "a mulher → as mulheres, o rapaz → os rapazes"],
+                  ["-m", "-ns", "o homem → os homens"],
+                  ["-l", "-is", "o animal → os animais, o hotel → os hotéis"],
+                  ["-ão", "usually -ões", "a estação → as estações"]
+                ]
+              },
+              {"tip": "There are exceptions with -ão that you learn one by one: o pão → os pães, a mão → as mãos, o irmão → os irmãos."},
+              {"p": "Adjectives take the plural -s too: os carros novos, as casas grandes."}
+            ]
+          },
+          "exercises": [
+            ["a casa → as ___", "casas", {"de": "die Häuser", "en": "the houses"}, ["casa", "casas", "cases"]],
+            ["o homem → os ___", "homens", {"de": "die Männer", "en": "the men"}, ["homems", "homens", "homenes"]],
+            ["a mulher → as ___", "mulheres", {"de": "die Frauen", "en": "the women"}, ["mulhers", "mulheres", "mulher"]],
+            ["a estação → as ___", "estações", {"de": "die Bahnhöfe", "en": "the stations"}, ["estaçãos", "estações", "estaçães"]],
+            ["o animal → os ___", "animais", {"de": "die Tiere", "en": "the animals"}, ["animals", "animais", "animales"]],
+            ["o pão → os ___", "pães", {"de": "die Brote", "en": "the loaves of bread"}, ["pãos", "pães", "pões"]],
+            ["o irmão → os ___", "irmãos", {"de": "die Brüder / die Geschwister", "en": "the brothers / the siblings"}, ["irmãos", "irmões", "irmães"]],
+            ["o livro → os ___", "livros", {"de": "die Bücher", "en": "the books"}, null],
+            ["a cidade → as ___", "cidades", {"de": "die Städte", "en": "the cities"}, null],
+            ["a flor → as ___", "flores", {"de": "die Blumen", "en": "the flowers"}, null],
+            ["o rapaz → os ___", "rapazes", {"de": "die Jungen", "en": "the boys"}, null],
+            ["o hotel → os ___", "hotéis", {"de": "die Hotels", "en": "the hotels"}, null],
+            ["a mão → as ___", "mãos", {"de": "die Hände", "en": "the hands"}, null],
+            ["o bilhete → os ___", "bilhetes", {"de": "die Fahrkarten", "en": "the tickets"}, null]
+          ]
+        },
+        {
+          "id": "g03",
+          "type": "grammar",
+          "title": {"de": "Ich bin …: ser", "en": "I am …: ser"},
+          "explanation": {
+            "de": [
+              {"p": "ser heißt „sein“ – für alles, was dauerhaft zu jemandem gehört: Name, Herkunft, Nationalität, Beruf, Charakter."},
+              {"table": [["Person", "ser"], ["eu", "sou"], ["tu", "és"], ["ele / ela / você", "é"], ["nós", "somos"], ["eles / elas / vocês", "são"]]},
+              {
+                "ex": [
+                  ["Eu sou a Ana.", "Ich bin Ana."],
+                  ["Tu és alemão?", "Bist du Deutscher?"],
+                  ["Ele é professor.", "Er ist Lehrer."],
+                  ["Nós somos de Berlim.", "Wir sind aus Berlin."],
+                  ["Elas são simpáticas.", "Sie sind nett."]
+                ]
+              },
+              {"p": "você und vocês nehmen die Verbform der 3. Person: Você é … / Vocês são …"},
+              {"tip": "Das Pronomen lässt man oft weg, weil die Verbform schon zeigt, wer gemeint ist: Sou alemão. = Ich bin Deutscher."},
+              {"tip": "Bei Berufen steht kein Artikel: Ele é médico. Vor Namen steht in Portugal dagegen meist ein Artikel: a Ana, o Pedro."}
+            ],
+            "en": [
+              {"p": "ser means “to be” – for everything that permanently belongs to someone: name, origin, nationality, job, character."},
+              {"table": [["Person", "ser"], ["eu", "sou"], ["tu", "és"], ["ele / ela / você", "é"], ["nós", "somos"], ["eles / elas / vocês", "são"]]},
+              {
+                "ex": [
+                  ["Eu sou a Ana.", "I'm Ana."],
+                  ["Tu és alemão?", "Are you German?"],
+                  ["Ele é professor.", "He is a teacher."],
+                  ["Nós somos de Berlim.", "We are from Berlin."],
+                  ["Elas são simpáticas.", "They are nice."]
+                ]
+              },
+              {"p": "você and vocês use the third-person verb form: Você é … / Vocês são …"},
+              {"tip": "The pronoun is often left out because the verb form already shows who is meant: Sou alemão. = I'm German."},
+              {"tip": "No article before jobs: Ele é médico. Before names, however, Portuguese usually puts an article: a Ana, o Pedro."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ alemão.", "sou", {"de": "Ich bin Deutscher.", "en": "I'm German."}, ["sou", "és", "é", "somos"]],
+            ["Tu ___ português?", "és", {"de": "Bist du Portugiese?", "en": "Are you Portuguese?"}, ["sou", "és", "é", "são"]],
+            ["Ela ___ professora.", "é", {"de": "Sie ist Lehrerin.", "en": "She is a teacher."}, ["és", "é", "somos", "são"]],
+            ["Nós ___ amigos.", "somos", {"de": "Wir sind Freunde.", "en": "We are friends."}, ["são", "sou", "somos", "é"]],
+            ["Eles ___ de Lisboa.", "são", {"de": "Sie sind aus Lissabon.", "en": "They are from Lisbon."}, ["é", "somos", "são", "és"]],
+            ["Vocês ___ irmãos?", "são", {"de": "Seid ihr Geschwister?", "en": "Are you (all) siblings?"}, ["são", "somos", "és", "é"]],
+            ["___ somos alemães.", "Nós", {"de": "Wir sind Deutsche.", "en": "We are German."}, ["Eu", "Tu", "Nós", "Eles"]],
+            ["___ és muito simpático.", "Tu", {"de": "Du bist sehr nett.", "en": "You are very nice."}, ["Eu", "Tu", "Ele", "Vocês"]],
+            ["Eu ___ da Alemanha.", "sou", {"de": "Ich bin aus Deutschland.", "en": "I'm from Germany."}, null],
+            ["A casa ___ muito grande.", "é", {"de": "Das Haus ist sehr groß.", "en": "The house is very big."}, null],
+            ["O Pedro e a Ana ___ portugueses.", "são", {"de": "Pedro und Ana sind Portugiesen.", "en": "Pedro and Ana are Portuguese."}, null],
+            ["Nós ___ estudantes.", "somos", {"de": "Wir sind Studenten.", "en": "We are students."}, null],
+            ["Tu ___ o João?", "és", {"de": "Bist du João?", "en": "Are you João?"}, null],
+            ["O senhor ___ médico?", "é", {"de": "Sind Sie Arzt?", "en": "Are you a doctor? (polite)"}, null]
+          ]
+        },
+        {
+          "id": "g04",
+          "type": "grammar",
+          "title": {"de": "estar – und ser oder estar?", "en": "estar – and ser or estar?"},
+          "explanation": {
+            "de": [
+              {"p": "estar heißt auch „sein“ – aber für Zustände, die sich ändern können: wie es jemandem geht, Stimmung, Wetter, und wo sich jemand oder etwas gerade befindet."},
+              {
+                "table": [
+                  ["Person", "estar"],
+                  ["eu", "estou"],
+                  ["tu", "estás"],
+                  ["ele / ela / você", "está"],
+                  ["nós", "estamos"],
+                  ["eles / elas / vocês", "estão"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Como estás? – Estou bem.", "Wie geht's dir? – Mir geht's gut."],
+                  ["Ela está cansada.", "Sie ist müde."],
+                  ["Nós estamos em Lisboa.", "Wir sind in Lissabon."],
+                  ["O café está frio.", "Der Kaffee ist kalt (geworden)."]
+                ]
+              },
+              {"h": "ser oder estar?"},
+              {
+                "table": [
+                  ["ser (dauerhaft)", "estar (vorübergehend / Ort)"],
+                  ["Ele é simpático.", "Ele está cansado."],
+                  ["A sopa é boa.", "A sopa está quente."],
+                  ["Sou de Lisboa.", "Estou em Lisboa."]
+                ]
+              },
+              {"tip": "Faustregel: Wer oder was bist du? → ser. Wie geht's dir, wo bist du gerade? → estar."}
+            ],
+            "en": [
+              {"p": "estar also means “to be” – but for states that can change: how someone is, mood, weather, and where someone or something is right now."},
+              {
+                "table": [
+                  ["Person", "estar"],
+                  ["eu", "estou"],
+                  ["tu", "estás"],
+                  ["ele / ela / você", "está"],
+                  ["nós", "estamos"],
+                  ["eles / elas / vocês", "estão"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Como estás? – Estou bem.", "How are you? – I'm fine."],
+                  ["Ela está cansada.", "She is tired."],
+                  ["Nós estamos em Lisboa.", "We are in Lisbon."],
+                  ["O café está frio.", "The coffee is (has gone) cold."]
+                ]
+              },
+              {"h": "ser or estar?"},
+              {
+                "table": [
+                  ["ser (permanent)", "estar (temporary / location)"],
+                  ["Ele é simpático.", "Ele está cansado."],
+                  ["A sopa é boa.", "A sopa está quente."],
+                  ["Sou de Lisboa.", "Estou em Lisboa."]
+                ]
+              },
+              {"tip": "Rule of thumb: Who or what are you? → ser. How are you, where are you right now? → estar."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ cansado.", "estou", {"de": "Ich bin müde.", "en": "I'm tired."}, ["estou", "estás", "está", "estão"]],
+            ["Como ___, João?", "estás", {"de": "Wie geht's dir, João?", "en": "How are you, João?"}, ["estou", "estás", "estamos", "estão"]],
+            ["A Ana ___ em casa.", "está", {"de": "Ana ist zu Hause.", "en": "Ana is at home."}, ["estou", "está", "estamos", "estão"]],
+            ["Nós ___ em Lisboa.", "estamos", {"de": "Wir sind in Lissabon.", "en": "We are in Lisbon."}, ["estão", "estamos", "estás", "está"]],
+            ["Eles ___ ocupados.", "estão", {"de": "Sie sind beschäftigt.", "en": "They are busy."}, ["está", "estamos", "estão", "estou"]],
+            ["O Pedro ___ professor.", "é", {"de": "Pedro ist Lehrer.", "en": "Pedro is a teacher."}, ["é", "está"]],
+            ["O café ___ quente.", "está", {"de": "Der Kaffee ist heiß.", "en": "The coffee is hot."}, ["é", "está"]],
+            ["A Maria ___ alemã.", "é", {"de": "Maria ist Deutsche.", "en": "Maria is German."}, ["é", "está"]],
+            ["Onde ___ a chave?", "está", {"de": "Wo ist der Schlüssel?", "en": "Where is the key?"}, ["é", "está"]],
+            ["Eu ___ bem, obrigado.", "estou", {"de": "Mir geht's gut, danke.", "en": "I'm fine, thanks."}, null],
+            ["Vocês ___ cansados?", "estão", {"de": "Seid ihr müde?", "en": "Are you (all) tired?"}, null],
+            ["Tu ___ em casa?", "estás", {"de": "Bist du zu Hause?", "en": "Are you at home?"}, null],
+            ["Eu ___ de Berlim.", "sou", {"de": "Ich bin aus Berlin.", "en": "I'm from Berlin."}, null],
+            ["Hoje a Ana ___ triste.", "está", {"de": "Heute ist Ana traurig.", "en": "Today Ana is sad."}, null],
+            ["Lisboa ___ uma cidade bonita.", "é", {"de": "Lissabon ist eine schöne Stadt.", "en": "Lisbon is a beautiful city."}, null]
+          ]
+        },
+        {
+          "id": "g05",
+          "type": "grammar",
+          "title": {"de": "ter (haben) & há (es gibt)", "en": "ter (to have) & há (there is)"},
+          "explanation": {
+            "de": [
+              {"p": "ter heißt „haben“. Damit sagt man auch, wie alt man ist, und dass man Hunger oder Durst hat."},
+              {"table": [["Person", "ter"], ["eu", "tenho"], ["tu", "tens"], ["ele / ela / você", "tem"], ["nós", "temos"], ["eles / elas / vocês", "têm"]]},
+              {
+                "ex": [
+                  ["Tenho dois irmãos.", "Ich habe zwei Geschwister."],
+                  ["Quantos anos tens? – Tenho vinte anos.", "Wie alt bist du? – Ich bin zwanzig."],
+                  ["Temos fome.", "Wir haben Hunger."]
+                ]
+              },
+              {"tip": "ele tem (er hat) und eles têm (sie haben) klingen fast gleich – in der Schrift unterscheidet sie nur der Zirkumflex."},
+              {"h": "há – es gibt"},
+              {"p": "há heißt „es gibt“ und verändert sich nie:"},
+              {"ex": [["Há um supermercado aqui perto.", "Es gibt hier in der Nähe einen Supermarkt."], ["Não há pão.", "Es gibt kein Brot."]]},
+              {"tip": "In Brasilien sagt man oft tem für „es gibt“. In Portugal heißt es há."}
+            ],
+            "en": [
+              {"p": "ter means “to have”. It's also used to say how old you are and that you're hungry or thirsty."},
+              {"table": [["Person", "ter"], ["eu", "tenho"], ["tu", "tens"], ["ele / ela / você", "tem"], ["nós", "temos"], ["eles / elas / vocês", "têm"]]},
+              {
+                "ex": [
+                  ["Tenho dois irmãos.", "I have two siblings."],
+                  ["Quantos anos tens? – Tenho vinte anos.", "How old are you? – I'm twenty."],
+                  ["Temos fome.", "We're hungry."]
+                ]
+              },
+              {"tip": "ele tem (he has) and eles têm (they have) sound almost the same – in writing only the circumflex tells them apart."},
+              {"h": "há – there is / there are"},
+              {"p": "há means “there is / there are” and never changes:"},
+              {"ex": [["Há um supermercado aqui perto.", "There's a supermarket near here."], ["Não há pão.", "There's no bread."]]},
+              {"tip": "In Brazil people often say tem for “there is”. In Portugal it's há."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ dois irmãos.", "tenho", {"de": "Ich habe zwei Geschwister.", "en": "I have two siblings."}, ["tenho", "tens", "tem", "temos"]],
+            ["Tu ___ um carro?", "tens", {"de": "Hast du ein Auto?", "en": "Do you have a car?"}, ["tenho", "tens", "têm", "temos"]],
+            ["Ela ___ vinte anos.", "tem", {"de": "Sie ist zwanzig Jahre alt.", "en": "She is twenty years old."}, ["tem", "têm", "tens", "tenho"]],
+            ["Nós ___ fome.", "temos", {"de": "Wir haben Hunger.", "en": "We are hungry."}, ["tem", "temos", "têm", "tenho"]],
+            ["Eles ___ uma casa grande.", "têm", {"de": "Sie haben ein großes Haus.", "en": "They have a big house."}, ["tem", "têm", "temos", "tens"]],
+            ["___ um banco aqui perto?", "Há", {"de": "Gibt es hier in der Nähe eine Bank?", "en": "Is there a bank near here?"}, ["Há", "Tem", "Tenho", "É"]],
+            ["Quantos anos ___?", "tens", {"de": "Wie alt bist du?", "en": "How old are you?"}, ["és", "estás", "tens"]],
+            ["Eu ___ sede.", "tenho", {"de": "Ich habe Durst.", "en": "I'm thirsty."}, null],
+            ["Vocês ___ tempo?", "têm", {"de": "Habt ihr Zeit?", "en": "Do you (all) have time?"}, null],
+            ["O Pedro ___ um cão.", "tem", {"de": "Pedro hat einen Hund.", "en": "Pedro has a dog."}, null],
+            ["Não ___ leite.", "há", {"de": "Es gibt keine Milch.", "en": "There's no milk."}, null],
+            ["Nós ___ uma filha.", "temos", {"de": "Wir haben eine Tochter.", "en": "We have a daughter."}, null],
+            [
+              "Quantos anos tem o senhor? – ___ trinta anos.",
+              "Tenho",
+              {"de": "Wie alt sind Sie? – Ich bin dreißig.", "en": "How old are you? (polite) – I'm thirty."},
+              null
+            ]
+          ]
+        },
+        {
+          "id": "g11",
+          "type": "grammar",
+          "title": {"de": "querer (wollen) & poder (können)", "en": "querer (to want) & poder (can)"},
+          "explanation": {
+            "de": [
+              {"p": "querer und poder stehen oft mit einem zweiten Verb in der Grundform:"},
+              {
+                "table": [
+                  ["Person", "querer", "poder"],
+                  ["eu", "quero", "posso"],
+                  ["tu", "queres", "podes"],
+                  ["ele / ela / você", "quer", "pode"],
+                  ["nós", "queremos", "podemos"],
+                  ["eles / elas / vocês", "querem", "podem"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Queres ir ao cinema?", "Willst du ins Kino gehen?"],
+                  ["Posso pagar com cartão?", "Kann ich mit Karte zahlen?"],
+                  ["Pode repetir, por favor?", "Können Sie das bitte wiederholen?"]
+                ]
+              },
+              {"tip": "Höflich bestellen: Queria um café, se faz favor. (Ich hätte gern einen Kaffee.) Das klingt freundlicher als quero."},
+              {"tip": "Etwas Gelerntes können (schwimmen, eine Sprache) heißt saber: Sei nadar. – poder bedeutet eher „dürfen“ oder „die Möglichkeit haben“."}
+            ],
+            "en": [
+              {"p": "querer and poder often go with a second verb in the infinitive:"},
+              {
+                "table": [
+                  ["Person", "querer", "poder"],
+                  ["eu", "quero", "posso"],
+                  ["tu", "queres", "podes"],
+                  ["ele / ela / você", "quer", "pode"],
+                  ["nós", "queremos", "podemos"],
+                  ["eles / elas / vocês", "querem", "podem"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Queres ir ao cinema?", "Do you want to go to the cinema?"],
+                  ["Posso pagar com cartão?", "Can I pay by card?"],
+                  ["Pode repetir, por favor?", "Could you repeat that, please?"]
+                ]
+              },
+              {"tip": "Ordering politely: Queria um café, se faz favor. (I'd like a coffee, please.) It sounds friendlier than quero."},
+              {"tip": "Being able to do something you learned (swimming, a language) is saber: Sei nadar. – poder is more “may” or “to be able to” because of circumstances."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ um café. (querer)", "quero", {"de": "Ich will einen Kaffee.", "en": "I want a coffee."}, ["quero", "queres", "quer", "querem"]],
+            ["Tu ___ vir? (querer)", "queres", {"de": "Willst du kommen?", "en": "Do you want to come?"}, ["quero", "queres", "quer", "queremos"]],
+            ["___ pagar com cartão? (poder, eu)", "Posso", {"de": "Kann ich mit Karte zahlen?", "en": "Can I pay by card?"}, ["Posso", "Podo", "Pode", "Podes"]],
+            [
+              "Nós não ___ ir hoje. (poder)",
+              "podemos",
+              {"de": "Wir können heute nicht gehen.", "en": "We can't go today."},
+              ["pode", "podem", "podemos", "posso"]
+            ],
+            [
+              "Eles ___ comer peixe. (querer)",
+              "querem",
+              {"de": "Sie wollen Fisch essen.", "en": "They want to eat fish."},
+              ["quer", "queremos", "querem", "quero"]
+            ],
+            [
+              {"de": "Ich hätte gern ein Wasser.", "en": "I'd like a water, please."},
+              "Queria uma água.",
+              "",
+              ["Queria uma água.", "Quero de água.", "Posso uma água."],
+              {"de": "Wähle die höfliche Bestellung", "en": "Choose the polite way to order"}
+            ],
+            ["O senhor ___ repetir, por favor? (poder)", "pode", {"de": "Können Sie das bitte wiederholen?", "en": "Could you repeat that, please?"}, null],
+            ["Tu ___ ajudar-me? (poder)", "podes", {"de": "Kannst du mir helfen?", "en": "Can you help me?"}, null],
+            ["A Ana ___ ir à praia. (querer)", "quer", {"de": "Ana will an den Strand gehen.", "en": "Ana wants to go to the beach."}, null],
+            ["Eu não ___ trabalhar amanhã. (poder)", "posso", {"de": "Ich kann morgen nicht arbeiten.", "en": "I can't work tomorrow."}, null],
+            ["Vocês ___ um bolo? (querer)", "querem", {"de": "Wollt ihr einen Kuchen?", "en": "Do you (all) want a cake?"}, null],
+            ["Nós ___ aprender português. (querer)", "queremos", {"de": "Wir wollen Portugiesisch lernen.", "en": "We want to learn Portuguese."}, null]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": {"de": "Einfache Bitten & Fragen", "en": "Simple requests & questions"},
+      "subtitle": {"de": "Wo bin ich? Wo ist …? Können Sie bitte …? Uhrzeit, Datum, bestellen, bezahlen, Fahrkarten", "en": "Where am I? Where is …? Can you please …? Time, date, ordering, paying, tickets"},
+      "lessons": [
+        {
+          "id": "v45",
+          "type": "vocab",
+          "title": {"de": "Wo bin ich? Wo ist …?", "en": "Where am I? Where is …?"},
+          "notes": [
+            {"de": "casa de banho sagt man in Portugal für Bad und Toilette (Brasilien: banheiro).", "en": "In Portugal casa de banho means both bathroom and toilet (Brazil: banheiro)."},
+            {"de": "onde é …? und onde fica …? heißen beide „wo ist …?“. Für Orte in der Stadt nimmt man gern onde fica: Onde fica a estação?", "en": "onde é …? and onde fica …? both mean “where is …?”. For places in town onde fica is the usual choice: Onde fica a estação?"}
+          ],
+          "words": [
+            ["onde estou?", "wo bin ich?", "where am I?"],
+            ["estou perdido / estou perdida", "ich habe mich verlaufen", "I'm lost"],
+            ["onde é a casa de banho?", "wo ist die Toilette?", "where is the toilet?"],
+            ["a casa de banho", "das Badezimmer / die Toilette", "the bathroom / toilet"],
+            ["onde fica …?", "wo ist …? (Ort)", "where is …? (place)"],
+            ["é aqui perto?", "ist das hier in der Nähe?", "is it near here?"],
+            ["é longe?", "ist es weit?", "is it far?"],
+            ["à esquerda", "links", "(on the) left"],
+            ["à direita", "rechts", "(on the) right"],
+            ["em frente", "geradeaus", "straight ahead"],
+            ["perto", "nah", "near"],
+            ["longe", "weit weg", "far away"],
+            ["o mapa", "die Landkarte / der Stadtplan", "the map"]
+          ]
+        },
+        {
+          "id": "v50",
+          "type": "vocab",
+          "title": {"de": "Können Sie bitte …? Einfache Bitten", "en": "Can you please …? Simple requests"},
+          "notes": [
+            {"de": "pode …? (können Sie …?) ist die höfliche Form für o senhor / a senhora. Zu Freunden sagt man podes …?", "en": "pode …? (can you …?) is the polite form for o senhor / a senhora. To friends you say podes …?"},
+            {"de": "queria … ist die höfliche Art zu bitten oder zu bestellen: Queria um café, se faz favor.", "en": "queria … (I'd like …) is the polite way to ask for or order something: Queria um café, se faz favor."},
+            {"de": "se faz favor ist typisch portugiesisch: zum Bestellen, Bitten oder um den Kellner zu rufen.", "en": "se faz favor is typically Portuguese: for ordering, asking, or calling the waiter."}
+          ],
+          "words": [
+            ["pode ajudar-me?", "können Sie mir helfen?", "can you help me?"],
+            ["pode dizer-me …?", "können Sie mir sagen …?", "can you tell me …?"],
+            ["pode mostrar-me?", "können Sie es mir zeigen?", "can you show me?"],
+            ["pode escrever?", "können Sie das aufschreiben?", "can you write it down?"],
+            ["posso …?", "darf ich …? / kann ich …?", "may I …? / can I …?"],
+            ["tem …?", "haben Sie …?", "do you have …?"],
+            ["queria …", "ich hätte gern …", "I'd like …"],
+            ["preciso de …", "ich brauche …", "I need …"],
+            ["um momento, por favor", "einen Moment, bitte", "one moment, please"],
+            ["se faz favor", "bitte (beim Bestellen / Rufen)", "please (when ordering / calling someone)"],
+            ["com licença", "Entschuldigung (darf ich mal?)", "excuse me (may I get past?)"]
+          ]
+        },
+        {
+          "id": "v37",
+          "type": "vocab",
+          "title": {"de": "Wenn du nicht verstehst", "en": "When you don't understand"},
+          "notes": [
+            {"de": "Die wichtigsten Sätze überhaupt: Damit kommst du weiter, auch wenn du noch kaum etwas verstehst.", "en": "The most important sentences of all: they keep a conversation going even when you hardly understand anything yet."}
+          ],
+          "words": [
+            ["não percebo", "ich verstehe nicht", "I don't understand"],
+            ["pode repetir?", "können Sie das wiederholen?", "can you repeat that?"],
+            ["mais devagar, por favor", "langsamer, bitte", "slower, please"],
+            ["fala inglês?", "sprechen Sie Englisch?", "do you speak English?"],
+            ["não sei", "ich weiß nicht", "I don't know"],
+            ["como se diz … em português?", "wie sagt man … auf Portugiesisch?", "how do you say … in Portuguese?"],
+            ["o que significa …?", "was bedeutet …?", "what does … mean?"],
+            ["a palavra", "das Wort", "the word"],
+            ["está bem", "in Ordnung / okay", "OK / all right"],
+            ["claro", "klar / natürlich", "sure / of course"],
+            ["não faz mal", "macht nichts", "never mind / no problem"]
+          ]
+        },
+        {
+          "id": "v07",
+          "type": "vocab",
+          "title": {"de": "Zahlen 11–30", "en": "Numbers 11–30"},
+          "notes": [
+            {"de": "dezasseis, dezassete und dezanove schreibt man nur in Portugal so (Brasilien: dezesseis …).", "en": "dezasseis, dezassete and dezanove are spelled this way only in Portugal (Brazil: dezesseis …)."},
+            {"de": "Zusammengesetzte Zahlen verbindet man mit e: vinte e dois (22), trinta e cinco (35).", "en": "Compound numbers are joined with e: vinte e dois (22), trinta e cinco (35)."}
+          ],
+          "words": [
+            ["onze", "elf", "eleven"],
+            ["doze", "zwölf", "twelve"],
+            ["treze", "dreizehn", "thirteen"],
+            ["catorze", "vierzehn", "fourteen"],
+            ["quinze", "fünfzehn", "fifteen"],
+            ["dezasseis", "sechzehn", "sixteen"],
+            ["dezassete", "siebzehn", "seventeen"],
+            ["dezoito", "achtzehn", "eighteen"],
+            ["dezanove", "neunzehn", "nineteen"],
+            ["vinte", "zwanzig", "twenty"],
+            ["vinte e um", "einundzwanzig", "twenty-one"],
+            ["trinta", "dreißig", "thirty"]
+          ]
+        },
+        {
+          "id": "v10",
+          "type": "vocab",
+          "title": {"de": "Wie spät ist es?", "en": "What time is it?"},
+          "notes": [
+            {"de": "Die Antwort: São três horas. (Es ist drei Uhr.) Wie man die Uhrzeit genau sagt, lernst du in Teil 4.", "en": "The answer: São três horas. (It's three o'clock.) You'll learn to tell the time exactly in part 4."},
+            {"de": "Am Morgen / Nachmittag / Abend: de manhã, à tarde, à noite.", "en": "In the morning / afternoon / evening: de manhã, à tarde, à noite."}
+          ],
+          "words": [
+            ["que horas são?", "wie spät ist es?", "what time is it?"],
+            ["a hora", "die Stunde / die Uhrzeit", "the hour / the time"],
+            ["o minuto", "die Minute", "the minute"],
+            ["o meio-dia", "der Mittag", "midday / noon"],
+            ["agora", "jetzt", "now"],
+            ["depois", "danach / später", "afterwards / later"],
+            ["antes", "vorher", "before"],
+            ["cedo", "früh", "early"],
+            ["tarde", "spät", "late"],
+            ["já", "schon / gleich", "already / right away"],
+            ["a manhã", "der Morgen / der Vormittag", "the morning"],
+            ["a tarde", "der Nachmittag", "the afternoon"],
+            ["a noite", "die Nacht / der Abend", "the night / the evening"]
+          ]
+        },
+        {
+          "id": "v09",
+          "type": "vocab",
+          "title": {"de": "Welcher Tag ist heute?", "en": "What day is it today?"},
+          "notes": [
+            {"de": "Wochentage schreibt man klein. Oft lässt man -feira weg: na segunda = am Montag.", "en": "Days of the week are written in lower case. -feira is often dropped: na segunda = on Monday."}
+          ],
+          "words": [
+            ["que dia é hoje?", "welcher Tag ist heute?", "what day is it today?"],
+            ["hoje", "heute", "today"],
+            ["amanhã", "morgen", "tomorrow"],
+            ["ontem", "gestern", "yesterday"],
+            ["segunda-feira", "Montag", "Monday"],
+            ["terça-feira", "Dienstag", "Tuesday"],
+            ["quarta-feira", "Mittwoch", "Wednesday"],
+            ["quinta-feira", "Donnerstag", "Thursday"],
+            ["sexta-feira", "Freitag", "Friday"],
+            ["sábado", "Samstag", "Saturday"],
+            ["domingo", "Sonntag", "Sunday"],
+            ["o dia", "der Tag", "the day"],
+            ["a semana", "die Woche", "the week"],
+            ["o fim de semana", "das Wochenende", "the weekend"]
+          ]
+        },
+        {
+          "id": "v46",
+          "type": "vocab",
+          "title": {"de": "Sich vorstellen", "en": "Introducing yourself"},
+          "notes": [
+            {"de": "como se chama? ist höflich (o senhor / a senhora), como te chamas? sagt man zu Leuten, die man duzt.", "en": "como se chama? is polite (o senhor / a senhora), como te chamas? is for people you call tu."},
+            {"de": "Sprachen und Nationalitäten schreibt man klein. Weibliche Formen: alemã, portuguesa, inglesa, espanhola, francesa.", "en": "Languages and nationalities are written in lower case. Feminine forms: alemã, portuguesa, inglesa, espanhola, francesa."}
+          ],
+          "words": [
+            ["chamo-me …", "ich heiße …", "my name is …"],
+            ["como se chama?", "wie heißen Sie?", "what's your name? (polite)"],
+            ["como te chamas?", "wie heißt du?", "what's your name? (informal)"],
+            ["muito prazer", "freut mich", "nice to meet you"],
+            ["o nome", "der Name", "the name"],
+            ["sou de …", "ich komme aus …", "I'm from …"],
+            ["moro em …", "ich wohne in …", "I live in …"],
+            ["falo um pouco de português", "ich spreche ein bisschen Portugiesisch", "I speak a little Portuguese"],
+            ["a Alemanha", "Deutschland", "Germany"],
+            ["alemão", "deutsch / Deutsch", "German"],
+            ["inglês", "englisch / Englisch", "English"],
+            ["português", "portugiesisch / Portugiesisch", "Portuguese"]
+          ]
+        },
+        {
+          "id": "v12",
+          "type": "vocab",
+          "title": {"de": "Im Café: bestellen", "en": "At the café: ordering"},
+          "notes": [
+            {"de": "sumo und pequeno-almoço sind typisch für Portugal (Brasilien: suco, café da manhã).", "en": "sumo and pequeno-almoço are typical of Portugal (Brazil: suco, café da manhã)."}
+          ],
+          "words": [
+            ["o café", "der Kaffee", "the coffee"],
+            ["a bica", "der Espresso (Lissabon)", "the espresso (Lisbon)"],
+            ["a água", "das Wasser", "the water"],
+            ["a cerveja", "das Bier", "the beer"],
+            ["o vinho", "der Wein", "the wine"],
+            ["o sumo", "der Saft", "the juice"],
+            ["o chá", "der Tee", "the tea"],
+            ["o leite", "die Milch", "the milk"],
+            ["o copo", "das Glas", "the glass"],
+            ["o açúcar", "der Zucker", "the sugar"],
+            ["a conta, por favor", "die Rechnung, bitte", "the bill, please"]
+          ]
+        },
+        {
+          "id": "v29",
+          "type": "vocab",
+          "title": {"de": "Bezahlen: Was kostet das?", "en": "Paying: how much is it?"},
+          "notes": [{"de": "cêntimo ist die portugiesische Form (Brasilien: centavo).", "en": "cêntimo is the Portuguese form (Brazil: centavo)."}],
+          "words": [
+            ["quanto custa?", "wie viel kostet das?", "how much is it?"],
+            ["quanto é?", "was macht das?", "how much is that (in total)?"],
+            ["o dinheiro", "das Geld", "the money"],
+            ["o euro", "der Euro", "the euro"],
+            ["o cêntimo", "der Cent", "the cent"],
+            ["o cartão", "die Karte (Bankkarte)", "the (bank) card"],
+            ["posso pagar com cartão?", "kann ich mit Karte zahlen?", "can I pay by card?"],
+            ["o preço", "der Preis", "the price"],
+            ["caro", "teuer", "expensive"],
+            ["barato", "billig", "cheap"],
+            ["a caixa", "die Kasse", "the till / checkout"],
+            ["o saco", "die Tüte", "the bag"]
+          ]
+        },
+        {
+          "id": "v15",
+          "type": "vocab",
+          "title": {"de": "Unterwegs: Fahrkarten & Verkehrsmittel", "en": "Getting around: tickets & transport"},
+          "notes": [
+            {"de": "autocarro, comboio und paragem sagt man nur in Portugal (Brasilien: ônibus, trem, parada).", "en": "autocarro, comboio and paragem are only used in Portugal (Brazil: ônibus, trem, parada)."}
+          ],
+          "words": [
+            ["o bilhete", "die Fahrkarte / das Ticket", "the ticket"],
+            ["um bilhete para …", "eine Fahrkarte nach …", "a ticket to …"],
+            ["a que horas parte …?", "wann fährt … ab?", "what time does … leave?"],
+            ["o autocarro", "der Bus", "the bus"],
+            ["o comboio", "der Zug", "the train"],
+            ["o metro", "die U-Bahn", "the underground / metro"],
+            ["a paragem", "die Haltestelle", "the (bus) stop"],
+            ["a estação", "der Bahnhof", "the (train) station"],
+            ["o táxi", "das Taxi", "the taxi"],
+            ["o aeroporto", "der Flughafen", "the airport"],
+            ["o carro", "das Auto", "the car"],
+            ["o avião", "das Flugzeug", "the plane"],
+            ["a bicicleta", "das Fahrrad", "the bicycle"]
+          ]
+        },
+        {
+          "id": "v14",
+          "type": "vocab",
+          "title": {"de": "Wichtige Orte in der Stadt", "en": "Important places in town"},
+          "notes": [
+            {"de": "multibanco ist in Portugal der Geldautomat (und das Kartenzahlungs-System).", "en": "multibanco is the cash machine in Portugal (and the card payment system)."}
+          ],
+          "words": [
+            ["a farmácia", "die Apotheke", "the pharmacy"],
+            ["o supermercado", "der Supermarkt", "the supermarket"],
+            ["o multibanco", "der Geldautomat", "the cash machine / ATM"],
+            ["o restaurante", "das Restaurant", "the restaurant"],
+            ["o banco", "die Bank", "the bank"],
+            ["a loja", "der Laden / das Geschäft", "the shop"],
+            ["o mercado", "der Markt", "the market"],
+            ["o hospital", "das Krankenhaus", "the hospital"],
+            ["aberto", "geöffnet / offen", "open"],
+            ["fechado", "geschlossen", "closed"],
+            ["a que horas abre …?", "wann öffnet …?", "what time does … open?"],
+            ["a rua", "die Straße", "the street"],
+            ["a cidade", "die Stadt", "the city / town"]
+          ]
+        },
+        {
+          "id": "v30",
+          "type": "vocab",
+          "title": {"de": "Im Restaurant", "en": "At the restaurant"},
+          "notes": [
+            {"de": "ementa sagt man nur in Portugal (Brasilien: cardápio).", "en": "ementa is only used in Portugal (Brazil: cardápio)."},
+            {"de": "Den Kellner ruft man höflich mit: Se faz favor!", "en": "To call the waiter politely: Se faz favor!"}
+          ],
+          "words": [
+            ["uma mesa para dois", "ein Tisch für zwei", "a table for two"],
+            ["a ementa", "die Speisekarte", "the menu"],
+            ["o empregado", "der Kellner", "the waiter"],
+            ["o prato do dia", "das Tagesgericht", "the dish of the day"],
+            ["a sopa", "die Suppe", "the soup"],
+            ["a sobremesa", "der Nachtisch", "the dessert"],
+            ["a conta", "die Rechnung", "the bill"],
+            ["bom apetite", "guten Appetit", "enjoy your meal"],
+            ["saúde!", "Prost! / Gesundheit!", "cheers! / bless you!"],
+            ["a gorjeta", "das Trinkgeld", "the tip"],
+            ["o almoço", "das Mittagessen", "the lunch"],
+            ["o jantar", "das Abendessen", "the dinner"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": {"de": "Einfache Grammatik", "en": "Simple grammar"},
+      "subtitle": {"de": "Verben auf -ar, Verneinung & Fragen, die Uhrzeit, ir & fazer", "en": "-ar verbs, negation & questions, telling the time, ir & fazer"},
+      "lessons": [
+        {
+          "id": "g06",
+          "type": "grammar",
+          "title": {"de": "Verben auf -ar", "en": "Verbs ending in -ar"},
+          "explanation": {
+            "de": [
+              {"p": "Die meisten Verben enden auf -ar. Man streicht -ar und hängt die Endung für die Person an:"},
+              {
+                "table": [
+                  ["Person", "Endung", "falar (sprechen)"],
+                  ["eu", "-o", "falo"],
+                  ["tu", "-as", "falas"],
+                  ["ele / ela / você", "-a", "fala"],
+                  ["nós", "-amos", "falamos"],
+                  ["eles / elas / vocês", "-am", "falam"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Falo alemão e inglês.", "Ich spreche Deutsch und Englisch."],
+                  ["Onde moras?", "Wo wohnst du?"],
+                  ["Ela trabalha em Lisboa.", "Sie arbeitet in Lissabon."],
+                  ["Nós estudamos português.", "Wir lernen Portugiesisch."]
+                ]
+              },
+              {"tip": "Genauso funktionieren z. B. morar, trabalhar, estudar, comprar, pagar, gostar, cozinhar und viajar."}
+            ],
+            "en": [
+              {"p": "Most verbs end in -ar. Drop the -ar and add the ending for the person:"},
+              {
+                "table": [
+                  ["Person", "Ending", "falar (to speak)"],
+                  ["eu", "-o", "falo"],
+                  ["tu", "-as", "falas"],
+                  ["ele / ela / você", "-a", "fala"],
+                  ["nós", "-amos", "falamos"],
+                  ["eles / elas / vocês", "-am", "falam"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Falo alemão e inglês.", "I speak German and English."],
+                  ["Onde moras?", "Where do you live?"],
+                  ["Ela trabalha em Lisboa.", "She works in Lisbon."],
+                  ["Nós estudamos português.", "We are learning Portuguese."]
+                ]
+              },
+              {"tip": "These work the same way: morar, trabalhar, estudar, comprar, pagar, gostar, cozinhar, viajar and many more."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ português. (falar)", "falo", {"de": "Ich spreche Portugiesisch.", "en": "I speak Portuguese."}, ["falo", "falas", "fala", "falam"]],
+            ["Tu ___ alemão? (falar)", "falas", {"de": "Sprichst du Deutsch?", "en": "Do you speak German?"}, ["falo", "falas", "fala", "falamos"]],
+            ["Ela ___ em Lisboa. (morar)", "mora", {"de": "Sie wohnt in Lissabon.", "en": "She lives in Lisbon."}, ["moro", "moras", "mora", "moram"]],
+            [
+              "Nós ___ muito. (trabalhar)",
+              "trabalhamos",
+              {"de": "Wir arbeiten viel.", "en": "We work a lot."},
+              ["trabalham", "trabalhamos", "trabalha", "trabalho"]
+            ],
+            ["Eles ___ pão. (comprar)", "compram", {"de": "Sie kaufen Brot.", "en": "They buy bread."}, ["compra", "compramos", "compram", "compro"]],
+            ["Vocês ___ inglês? (falar)", "falam", {"de": "Sprecht ihr Englisch?", "en": "Do you (all) speak English?"}, ["fala", "falam", "falamos", "falas"]],
+            ["Eu ___ português. (estudar)", "estudo", {"de": "Ich lerne Portugiesisch.", "en": "I'm learning Portuguese."}, null],
+            ["Onde ___ tu? (morar)", "moras", {"de": "Wo wohnst du?", "en": "Where do you live?"}, null],
+            ["O Pedro ___ muito. (trabalhar)", "trabalha", {"de": "Pedro arbeitet viel.", "en": "Pedro works a lot."}, null],
+            ["Nós ___ o café. (pagar)", "pagamos", {"de": "Wir bezahlen den Kaffee.", "en": "We pay for the coffee."}, null],
+            ["Eles ___ de viajar. (gostar)", "gostam", {"de": "Sie reisen gern.", "en": "They like travelling."}, null],
+            ["Tu ___ bem! (cozinhar)", "cozinhas", {"de": "Du kochst gut!", "en": "You cook well!"}, null],
+            ["A senhora ___ inglês? (falar)", "fala", {"de": "Sprechen Sie Englisch?", "en": "Do you speak English? (polite)"}, null]
+          ]
+        },
+        {
+          "id": "g07",
+          "type": "grammar",
+          "title": {"de": "Verneinung & Fragen", "en": "Negation & questions"},
+          "explanation": {
+            "de": [
+              {"p": "Verneinen ist einfach: não steht direkt vor dem Verb."},
+              {
+                "ex": [
+                  ["Não falo inglês.", "Ich spreche kein Englisch."],
+                  ["O Pedro não está em casa.", "Pedro ist nicht zu Hause."],
+                  ["Não tenho tempo.", "Ich habe keine Zeit."]
+                ]
+              },
+              {"h": "Ja/Nein-Fragen"},
+              {"p": "Ja/Nein-Fragen bildet man nur mit der Stimme – die Wortstellung bleibt gleich:"},
+              {"ex": [["Falas português?", "Sprichst du Portugiesisch?"], ["A Ana está em casa?", "Ist Ana zu Hause?"]]},
+              {"tip": "In Portugal antwortet man gern mit dem Verb statt mit sim: Falas português? – Falo. (Ja.) / Não, não falo. (Nein.)"},
+              {"h": "Fragen mit Fragewort"},
+              {"p": "Das Fragewort steht am Anfang. Sehr typisch für Portugal ist die Form „… é que …“:"},
+              {
+                "ex": [
+                  ["Onde moras? / Onde é que moras?", "Wo wohnst du?"],
+                  ["Porque é que estás triste?", "Warum bist du traurig?"],
+                  ["Quanto custa?", "Wie viel kostet das?"]
+                ]
+              }
+            ],
+            "en": [
+              {"p": "Negating is easy: não goes directly in front of the verb."},
+              {
+                "ex": [
+                  ["Não falo inglês.", "I don't speak English."],
+                  ["O Pedro não está em casa.", "Pedro isn't at home."],
+                  ["Não tenho tempo.", "I don't have time."]
+                ]
+              },
+              {"h": "Yes/no questions"},
+              {"p": "Yes/no questions are made with intonation only – the word order stays the same:"},
+              {"ex": [["Falas português?", "Do you speak Portuguese?"], ["A Ana está em casa?", "Is Ana at home?"]]},
+              {"tip": "In Portugal people like to answer with the verb instead of sim: Falas português? – Falo. (Yes.) / Não, não falo. (No.)"},
+              {"h": "Questions with a question word"},
+              {"p": "The question word comes first. The form “… é que …” is very typical of Portugal:"},
+              {
+                "ex": [
+                  ["Onde moras? / Onde é que moras?", "Where do you live?"],
+                  ["Porque é que estás triste?", "Why are you sad?"],
+                  ["Quanto custa?", "How much is it?"]
+                ]
+              }
+            ]
+          },
+          "exercises": [
+            [
+              {"de": "Ich bin nicht müde.", "en": "I'm not tired."},
+              "Não estou cansado.",
+              "",
+              ["Não estou cansado.", "Estou não cansado.", "Estou cansado não."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            [
+              {"de": "Wir haben kein Auto.", "en": "We don't have a car."},
+              "Não temos carro.",
+              "",
+              ["Temos não carro.", "Não temos carro.", "Nós temos carro não."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["___ moras?", "Onde", {"de": "Wo wohnst du?", "en": "Where do you live?"}, ["Onde", "Quem", "Quando", "Como"]],
+            ["___ é ele?", "Quem", {"de": "Wer ist er?", "en": "Who is he?"}, ["O que", "Quem", "Onde", "Qual"]],
+            ["___ custa o bilhete?", "Quanto", {"de": "Wie viel kostet die Fahrkarte?", "en": "How much is the ticket?"}, ["Quanto", "Como", "Quando", "Quem"]],
+            ["___ estás?", "Como", {"de": "Wie geht es dir?", "en": "How are you?"}, ["Onde", "Como", "Quanto", "Porque"]],
+            ["___ é isto?", "O que", {"de": "Was ist das?", "en": "What is this?"}, ["Quem", "O que", "Quanto", "Quando"]],
+            ["Falas inglês? – Sim, ___.", "falo", {"de": "Sprichst du Englisch? – Ja.", "en": "Do you speak English? – Yes."}, ["falo", "falas", "fala"]],
+            ["Eu ___ percebo.", "não", {"de": "Ich verstehe nicht.", "en": "I don't understand."}, null],
+            ["___ vens? – Amanhã.", "Quando", {"de": "Wann kommst du? – Morgen.", "en": "When are you coming? – Tomorrow."}, null],
+            ["___ é que estás triste?", "Porque", {"de": "Warum bist du traurig?", "en": "Why are you sad?"}, null],
+            ["De ___ és? – Sou da Alemanha.", "onde", {"de": "Woher kommst du? – Aus Deutschland.", "en": "Where are you from? – From Germany."}, null],
+            ["Tens fome? – Não, não ___.", "tenho", {"de": "Hast du Hunger? – Nein.", "en": "Are you hungry? – No."}, null],
+            ["O Pedro ___ trabalha hoje.", "não", {"de": "Pedro arbeitet heute nicht.", "en": "Pedro isn't working today."}, null]
+          ]
+        },
+        {
+          "id": "g17",
+          "type": "grammar",
+          "title": {"de": "Die Uhrzeit", "en": "Telling the time"},
+          "explanation": {
+            "de": [
+              {"p": "Nach der Uhrzeit fragt man: Que horas são? Die Antwort beginnt mit são (Plural) – nur bei ein Uhr, Mittag und Mitternacht mit é:"},
+              {
+                "ex": [
+                  ["É uma hora.", "Es ist ein Uhr."],
+                  ["São duas horas.", "Es ist zwei Uhr."],
+                  ["São três e dez.", "Es ist zehn nach drei."],
+                  ["São quatro e um quarto.", "Es ist Viertel nach vier."],
+                  ["São cinco e meia.", "Es ist halb sechs."],
+                  ["São seis menos um quarto.", "Es ist Viertel vor sechs."],
+                  ["É meio-dia. / É meia-noite.", "Es ist Mittag. / Es ist Mitternacht."]
+                ]
+              },
+              {"tip": "Achtung: e meia heißt „halb nach“! São cinco e meia ist 5:30 – auf Deutsch „halb sechs“."},
+              {"p": "Um wie viel Uhr? → A que horas …? Die Antwort mit à / às (a + Artikel):"},
+              {
+                "ex": [
+                  ["A que horas abre a loja? – Às nove.", "Um wie viel Uhr öffnet der Laden? – Um neun."],
+                  ["O comboio parte à uma.", "Der Zug fährt um eins ab."]
+                ]
+              }
+            ],
+            "en": [
+              {"p": "To ask the time: Que horas são? The answer starts with são (plural) – only for one o'clock, midday and midnight with é:"},
+              {
+                "ex": [
+                  ["É uma hora.", "It's one o'clock."],
+                  ["São duas horas.", "It's two o'clock."],
+                  ["São três e dez.", "It's ten past three."],
+                  ["São quatro e um quarto.", "It's quarter past four."],
+                  ["São cinco e meia.", "It's half past five."],
+                  ["São seis menos um quarto.", "It's quarter to six."],
+                  ["É meio-dia. / É meia-noite.", "It's midday. / It's midnight."]
+                ]
+              },
+              {"tip": "e = past, menos = to: São seis menos um quarto (5:45), São dez menos cinco (9:55)."},
+              {"p": "At what time? → A que horas …? The answer uses à / às (a + article):"},
+              {
+                "ex": [
+                  ["A que horas abre a loja? – Às nove.", "What time does the shop open? – At nine."],
+                  ["O comboio parte à uma.", "The train leaves at one."]
+                ]
+              }
+            ]
+          },
+          "exercises": [
+            ["___ uma hora.", "É", {"de": "Es ist ein Uhr.", "en": "It's one o'clock."}, ["É", "São"]],
+            ["___ três horas.", "São", {"de": "Es ist drei Uhr.", "en": "It's three o'clock."}, ["É", "São"]],
+            ["São cinco e ___. (5:30)", "meia", {"de": "Es ist halb sechs.", "en": "It's half past five."}, ["meia", "meio", "quarto"]],
+            ["São duas e um ___. (2:15)", "quarto", {"de": "Es ist Viertel nach zwei.", "en": "It's quarter past two."}, ["quarto", "meia", "menos"]],
+            ["É ___. (12:00)", "meio-dia", {"de": "Es ist Mittag.", "en": "It's midday."}, ["meio-dia", "meia-noite", "doze"]],
+            ["A loja abre ___ nove.", "às", {"de": "Der Laden öffnet um neun.", "en": "The shop opens at nine."}, ["às", "à", "as", "na"]],
+            [
+              {"de": "Es ist Viertel vor acht.", "en": "It's quarter to eight."},
+              "São oito menos um quarto.",
+              "",
+              ["São sete menos um quarto.", "São oito menos um quarto.", "São oito e um quarto."],
+              {"de": "Wähle die richtige Uhrzeit", "en": "Choose the correct time"}
+            ],
+            ["Que horas ___?", "são", {"de": "Wie spät ist es?", "en": "What time is it?"}, null],
+            ["São quatro e ___. (4:30)", "meia", {"de": "Es ist halb fünf.", "en": "It's half past four."}, null],
+            ["___ dez horas. (10:00)", "São", {"de": "Es ist zehn Uhr.", "en": "It's ten o'clock."}, null],
+            ["O comboio parte ___ uma.", "à", {"de": "Der Zug fährt um eins ab.", "en": "The train leaves at one."}, null],
+            ["___ que horas jantas?", "A", {"de": "Um wie viel Uhr isst du zu Abend?", "en": "What time do you have dinner?"}, null],
+            ["São seis ___ um quarto. (5:45)", "menos", {"de": "Es ist Viertel vor sechs.", "en": "It's quarter to six."}, null]
+          ]
+        },
+        {
+          "id": "g10",
+          "type": "grammar",
+          "title": {"de": "ir (gehen) & fazer (machen)", "en": "ir (to go) & fazer (to do)"},
+          "explanation": {
+            "de": [
+              {"p": "Zwei sehr häufige unregelmäßige Verben: ir (gehen, fahren) und fazer (machen, tun)."},
+              {
+                "table": [
+                  ["Person", "ir", "fazer"],
+                  ["eu", "vou", "faço"],
+                  ["tu", "vais", "fazes"],
+                  ["ele / ela / você", "vai", "faz"],
+                  ["nós", "vamos", "fazemos"],
+                  ["eles / elas / vocês", "vão", "fazem"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Vou a Lisboa.", "Ich fahre nach Lissabon."],
+                  ["Vamos à praia!", "Lass uns an den Strand gehen!"],
+                  ["O que fazes?", "Was machst du?"],
+                  ["Faz frio.", "Es ist kalt."]
+                ]
+              },
+              {"tip": "Mit Verkehrsmitteln sagt man de: ir de comboio (mit dem Zug fahren), ir de carro. Aber: ir a pé (zu Fuß gehen)."},
+              {"tip": "Wohin? wird mit a ausgedrückt: Vou ao supermercado (a + o = ao). Mehr dazu in der Lektion über Präpositionen."}
+            ],
+            "en": [
+              {"p": "Two very common irregular verbs: ir (to go) and fazer (to make, to do)."},
+              {
+                "table": [
+                  ["Person", "ir", "fazer"],
+                  ["eu", "vou", "faço"],
+                  ["tu", "vais", "fazes"],
+                  ["ele / ela / você", "vai", "faz"],
+                  ["nós", "vamos", "fazemos"],
+                  ["eles / elas / vocês", "vão", "fazem"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Vou a Lisboa.", "I'm going to Lisbon."],
+                  ["Vamos à praia!", "Let's go to the beach!"],
+                  ["O que fazes?", "What are you doing?"],
+                  ["Faz frio.", "It's cold."]
+                ]
+              },
+              {"tip": "With means of transport you use de: ir de comboio (to go by train), ir de carro. But: ir a pé (to go on foot)."},
+              {"tip": "“Where to?” is expressed with a: Vou ao supermercado (a + o = ao). More on this in the lesson on prepositions."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ ao cinema. (ir)", "vou", {"de": "Ich gehe ins Kino.", "en": "I'm going to the cinema."}, ["vou", "vais", "vai", "vamos"]],
+            ["Tu ___ de comboio? (ir)", "vais", {"de": "Fährst du mit dem Zug?", "en": "Are you going by train?"}, ["vou", "vais", "vão", "vamos"]],
+            ["Nós ___ à praia. (ir)", "vamos", {"de": "Wir gehen an den Strand.", "en": "We're going to the beach."}, ["vão", "vamos", "vai", "vou"]],
+            ["Eles ___ para casa. (ir)", "vão", {"de": "Sie gehen nach Hause.", "en": "They're going home."}, ["vai", "vamos", "vão", "vais"]],
+            ["O que ___ tu? (fazer)", "fazes", {"de": "Was machst du?", "en": "What are you doing?"}, ["faço", "fazes", "faz", "fazem"]],
+            ["Eu ___ o jantar. (fazer)", "faço", {"de": "Ich mache das Abendessen.", "en": "I'm making dinner."}, ["faço", "fazo", "faz", "fazes"]],
+            [
+              {"de": "Ich fahre mit dem Auto.", "en": "I'm going by car."},
+              "Vou de carro.",
+              "",
+              ["Vou com carro.", "Vou de carro.", "Vou no carro."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["A Ana ___ ao supermercado. (ir)", "vai", {"de": "Ana geht zum Supermarkt.", "en": "Ana is going to the supermarket."}, null],
+            ["Nós ___ um bolo. (fazer)", "fazemos", {"de": "Wir backen einen Kuchen.", "en": "We're baking a cake."}, null],
+            ["Vocês ___ a pé? (ir)", "vão", {"de": "Geht ihr zu Fuß?", "en": "Are you (all) going on foot?"}, null],
+            ["O que ___ o senhor? (fazer)", "faz", {"de": "Was machen Sie (beruflich)?", "en": "What do you do (for a living)? (polite)"}, null],
+            ["Eu ___ de autocarro. (ir)", "vou", {"de": "Ich fahre mit dem Bus.", "en": "I'm going by bus."}, null],
+            ["Eles ___ muito desporto. (fazer)", "fazem", {"de": "Sie treiben viel Sport.", "en": "They do a lot of sport."}, null]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": {"de": "Alltagswortschatz", "en": "Everyday vocabulary"},
+      "subtitle": {"de": "Essen, Apotheke, Notfall, Hotel, Einkaufen, Verabredungen, über dich erzählen", "en": "Food, pharmacy, emergencies, hotel, shopping, making plans, talking about yourself"},
+      "lessons": [
+        {
+          "id": "v11",
+          "type": "vocab",
+          "title": {"de": "Essen", "en": "Food"},
+          "words": [
+            ["a comida", "das Essen", "the food"],
+            ["o pão", "das Brot", "the bread"],
+            ["a carne", "das Fleisch", "the meat"],
+            ["o peixe", "der Fisch", "the fish"],
+            ["o frango", "das Hähnchen", "the chicken (meat)"],
+            ["o arroz", "der Reis", "the rice"],
+            ["o queijo", "der Käse", "the cheese"],
+            ["o ovo", "das Ei", "the egg"],
+            ["a fruta", "das Obst", "the fruit"],
+            ["os legumes", "das Gemüse", "the vegetables"],
+            ["a batata", "die Kartoffel", "the potato"],
+            ["o pequeno-almoço", "das Frühstück", "the breakfast"]
+          ]
+        },
+        {
+          "id": "v18",
+          "type": "vocab",
+          "title": {"de": "Eigenschaften 1", "en": "Describing things 1"},
+          "notes": [
+            {"de": "Adjektive auf -o haben eine weibliche Form auf -a: novo → nova. Mehr dazu in Teil 6.", "en": "Adjectives ending in -o have a feminine form in -a: novo → nova. More on that in part 6."}
+          ],
+          "words": [
+            ["bom", "gut", "good"],
+            ["mau", "schlecht", "bad"],
+            ["grande", "groß", "big"],
+            ["pequeno", "klein", "small"],
+            ["quente", "heiß / warm", "hot / warm"],
+            ["frio", "kalt", "cold"],
+            ["novo", "neu / jung", "new / young"],
+            ["velho", "alt", "old"],
+            ["fácil", "einfach / leicht", "easy"],
+            ["difícil", "schwierig", "difficult"],
+            ["bonito", "schön", "pretty / beautiful"],
+            ["feio", "hässlich", "ugly"]
+          ]
+        },
+        {
+          "id": "v24",
+          "type": "vocab",
+          "title": {"de": "In der Apotheke & beim Arzt", "en": "At the pharmacy & the doctor's"},
+          "notes": [{"de": "Schmerzen: Dói-me a cabeça. = Mir tut der Kopf weh.", "en": "Pain: Dói-me a cabeça. = My head hurts."}],
+          "words": [
+            ["dói-me …", "mir tut … weh", "my … hurts"],
+            ["doente", "krank", "ill / sick"],
+            ["preciso de um médico", "ich brauche einen Arzt", "I need a doctor"],
+            ["o médico", "der Arzt", "the doctor"],
+            ["o comprimido", "die Tablette", "the pill / tablet"],
+            ["a receita", "das Rezept", "the prescription"],
+            ["a cabeça", "der Kopf", "the head"],
+            ["a barriga", "der Bauch", "the stomach / belly"],
+            ["a garganta", "der Hals (innen)", "the throat"],
+            ["as costas", "der Rücken", "the back"],
+            ["o enfermeiro", "der Krankenpfleger", "the nurse"]
+          ]
+        },
+        {
+          "id": "v48",
+          "type": "vocab",
+          "title": {"de": "Notfall", "en": "Emergencies"},
+          "notes": [{"de": "Notruf in Portugal (und in der ganzen EU): 112.", "en": "Emergency number in Portugal (and the whole EU): 112."}],
+          "words": [
+            ["socorro!", "Hilfe!", "help!"],
+            ["preciso de ajuda", "ich brauche Hilfe", "I need help"],
+            ["cuidado!", "Vorsicht!", "careful! / watch out!"],
+            ["chame a polícia!", "rufen Sie die Polizei!", "call the police!"],
+            ["a polícia", "die Polizei", "the police"],
+            ["a ambulância", "der Krankenwagen", "the ambulance"],
+            ["o acidente", "der Unfall", "the accident"],
+            ["perdi …", "ich habe … verloren", "I've lost …"],
+            ["o passaporte", "der Reisepass", "the passport"],
+            ["a carteira", "der Geldbeutel / die Brieftasche", "the wallet"],
+            ["o telemóvel", "das Handy", "the mobile phone"],
+            ["ajudar", "helfen", "to help"]
+          ]
+        },
+        {
+          "id": "v38",
+          "type": "vocab",
+          "title": {"de": "Im Hotel", "en": "At the hotel"},
+          "notes": [
+            {"de": "rés-do-chão, frigorífico und renda sind typisch für Portugal (Brasilien: térreo, geladeira, aluguel).", "en": "rés-do-chão, frigorífico and renda are typical of Portugal (Brazil: térreo, geladeira, aluguel)."}
+          ],
+          "words": [
+            ["tenho uma reserva", "ich habe eine Reservierung", "I have a reservation"],
+            ["a reserva", "die Reservierung", "the reservation"],
+            ["o hotel", "das Hotel", "the hotel"],
+            ["o quarto", "das Zimmer / das Schlafzimmer", "the room / bedroom"],
+            ["o quarto duplo", "das Doppelzimmer", "the double room"],
+            ["por uma noite", "für eine Nacht", "for one night"],
+            ["o pequeno-almoço está incluído?", "ist das Frühstück inklusive?", "is breakfast included?"],
+            ["a chave", "der Schlüssel", "the key"],
+            ["o elevador", "der Aufzug", "the lift / elevator"],
+            ["o andar", "das Stockwerk / die Etagenwohnung", "the floor (storey) / the flat"],
+            ["o rés-do-chão", "das Erdgeschoss", "the ground floor"],
+            ["a mala", "der Koffer", "the suitcase"]
+          ]
+        },
+        {
+          "id": "v21",
+          "type": "vocab",
+          "title": {"de": "Zahlen bis 1000", "en": "Numbers up to 1000"},
+          "notes": [
+            {"de": "Genau 100 heißt cem, ab 101 sagt man cento: cento e vinte (120).", "en": "Exactly 100 is cem; from 101 on it's cento: cento e vinte (120)."},
+            {"de": "Die Hunderter haben eine weibliche Form: duzentas pessoas (200 Personen).", "en": "The hundreds have a feminine form: duzentas pessoas (200 people)."}
+          ],
+          "words": [
+            ["quarenta", "vierzig", "forty"],
+            ["cinquenta", "fünfzig", "fifty"],
+            ["sessenta", "sechzig", "sixty"],
+            ["setenta", "siebzig", "seventy"],
+            ["oitenta", "achtzig", "eighty"],
+            ["noventa", "neunzig", "ninety"],
+            ["cem", "hundert", "a hundred"],
+            ["cento e um", "hunderteins", "a hundred and one"],
+            ["duzentos", "zweihundert", "two hundred"],
+            ["trezentos", "dreihundert", "three hundred"],
+            ["quinhentos", "fünfhundert", "five hundred"],
+            ["mil", "tausend", "a thousand"]
+          ]
+        },
+        {
+          "id": "v22",
+          "type": "vocab",
+          "title": {"de": "Monate & Datum", "en": "Months & dates"},
+          "notes": [
+            {"de": "Das Datum: Hoje é dia 5 de maio. (Heute ist der 5. Mai.)", "en": "The date: Hoje é dia 5 de maio. (Today is 5 May.)"},
+            {"de": "Monate schreibt man in Portugal klein. Im Januar = em janeiro.", "en": "In Portugal months are written in lower case. In January = em janeiro."}
+          ],
+          "words": [
+            ["o mês", "der Monat", "the month"],
+            ["o ano", "das Jahr", "the year"],
+            ["janeiro", "Januar", "January"],
+            ["fevereiro", "Februar", "February"],
+            ["março", "März", "March"],
+            ["abril", "April", "April"],
+            ["maio", "Mai", "May"],
+            ["junho", "Juni", "June"],
+            ["julho", "Juli", "July"],
+            ["agosto", "August", "August"],
+            ["setembro", "September", "September"],
+            ["outubro", "Oktober", "October"],
+            ["novembro", "November", "November"],
+            ["dezembro", "Dezember", "December"]
+          ]
+        },
+        {
+          "id": "v23",
+          "type": "vocab",
+          "title": {"de": "Wie oft? Jahreszeiten & Ferien", "en": "How often? Seasons & holidays"},
+          "words": [
+            ["sempre", "immer", "always"],
+            ["às vezes", "manchmal", "sometimes"],
+            ["nunca", "nie", "never"],
+            ["as férias", "die Ferien / der Urlaub", "the holidays / vacation"],
+            ["o aniversário", "der Geburtstag", "the birthday"],
+            ["o verão", "der Sommer", "the summer"],
+            ["o inverno", "der Winter", "the winter"],
+            ["a primavera", "der Frühling", "the spring"],
+            ["o outono", "der Herbst", "the autumn"]
+          ]
+        },
+        {
+          "id": "v25",
+          "type": "vocab",
+          "title": {"de": "Kleidung kaufen", "en": "Buying clothes"},
+          "notes": [
+            {"de": "camisola heißt in Portugal „Pullover“ (in Brasilien dagegen „Nachthemd“!).", "en": "camisola means “jumper / sweater” in Portugal (but “nightshirt” in Brazil!)."},
+            {"de": "calças steht immer im Plural: as calças.", "en": "calças is always plural: as calças."}
+          ],
+          "words": [
+            ["posso experimentar?", "kann ich das anprobieren?", "can I try it on?"],
+            ["o tamanho", "die Größe", "the size"],
+            ["a promoção", "das Sonderangebot", "the special offer"],
+            ["a roupa", "die Kleidung", "the clothes"],
+            ["a t-shirt", "das T-Shirt", "the T-shirt"],
+            ["as calças", "die Hose", "the trousers"],
+            ["os sapatos", "die Schuhe", "the shoes"],
+            ["o casaco", "die Jacke / der Mantel", "the jacket / coat"],
+            ["a camisola", "der Pullover", "the jumper / sweater"],
+            ["a camisa", "das Hemd", "the shirt"],
+            ["o vestido", "das Kleid", "the dress"],
+            ["a saia", "der Rock", "the skirt"],
+            ["as meias", "die Socken", "the socks"]
+          ]
+        },
+        {
+          "id": "v31",
+          "type": "vocab",
+          "title": {"de": "Auf dem Markt & im Supermarkt", "en": "At the market & supermarket"},
+          "notes": [{"de": "fiambre ist in Portugal gekochter Schinken (Brasilien: presunto).", "en": "fiambre is cooked ham in Portugal (Brazil: presunto)."}],
+          "words": [
+            ["um quilo de …", "ein Kilo …", "a kilo of …"],
+            ["a maçã", "der Apfel", "the apple"],
+            ["a laranja", "die Orange", "the orange"],
+            ["o tomate", "die Tomate", "the tomato"],
+            ["a cebola", "die Zwiebel", "the onion"],
+            ["a alface", "der Kopfsalat", "the lettuce"],
+            ["a manteiga", "die Butter", "the butter"],
+            ["o fiambre", "der Kochschinken", "the (cooked) ham"],
+            ["o azeite", "das Olivenöl", "the olive oil"],
+            ["o sal", "das Salz", "the salt"],
+            ["a massa", "die Nudeln", "the pasta"],
+            ["o feijão", "die Bohnen", "the beans"]
+          ]
+        },
+        {
+          "id": "v40",
+          "type": "vocab",
+          "title": {"de": "Freizeit & Verabredungen", "en": "Free time & making plans"},
+          "notes": [{"de": "desporto ist die portugiesische Form (Brasilien: esporte).", "en": "desporto is the Portuguese form (Brazil: esporte)."}],
+          "words": [
+            ["vamos …?", "gehen wir …? / wollen wir …?", "shall we …? / let's …"],
+            ["o tempo livre", "die Freizeit", "free time"],
+            ["o cinema", "das Kino", "the cinema"],
+            ["o filme", "der Film", "the film"],
+            ["o museu", "das Museum", "the museum"],
+            ["a igreja", "die Kirche", "the church"],
+            ["o concerto", "das Konzert", "the concert"],
+            ["a festa", "die Party / das Fest", "the party"],
+            ["o futebol", "der Fußball", "football"],
+            ["o desporto", "der Sport", "sport"],
+            ["a música", "die Musik", "the music"],
+            ["o passeio", "der Spaziergang / der Ausflug", "the walk / the outing"]
+          ]
+        },
+        {
+          "id": "v04",
+          "type": "vocab",
+          "title": {"de": "Über dich erzählen: Familie", "en": "Talking about yourself: family"},
+          "words": [
+            ["tens filhos?", "hast du Kinder?", "do you have children?"],
+            ["sou casado / sou casada", "ich bin verheiratet", "I'm married"],
+            ["a família", "die Familie", "the family"],
+            ["o marido", "der Ehemann", "the husband"],
+            ["a mulher", "die Frau / die Ehefrau", "the woman / the wife"],
+            ["o filho", "der Sohn", "the son"],
+            ["a filha", "die Tochter", "the daughter"],
+            ["os pais", "die Eltern", "the parents"],
+            ["o pai", "der Vater", "the father"],
+            ["a mãe", "die Mutter", "the mother"],
+            ["o irmão", "der Bruder", "the brother"],
+            ["a irmã", "die Schwester", "the sister"]
+          ]
+        },
+        {
+          "id": "v28",
+          "type": "vocab",
+          "title": {"de": "Über dich erzählen: Arbeit & Studium", "en": "Talking about yourself: work & studies"},
+          "notes": [
+            {"de": "Weibliche Berufe enden meist auf -a: a professora, a médica, a enfermeira. Wörter auf -e bleiben gleich: a estudante.", "en": "Feminine job titles usually end in -a: a professora, a médica, a enfermeira. Words ending in -e stay the same: a estudante."}
+          ],
+          "words": [
+            ["o que fazes?", "was machst du beruflich?", "what do you do (for a living)?"],
+            ["o trabalho", "die Arbeit", "the work"],
+            ["o emprego", "die Stelle / der Job", "the job"],
+            ["a empresa", "die Firma", "the company"],
+            ["o escritório", "das Büro", "the office"],
+            ["o estudante", "der Student", "the student"],
+            ["estudar", "lernen / studieren", "to study / to learn"],
+            ["a escola", "die Schule", "the school"],
+            ["o professor", "der Lehrer", "the teacher"],
+            ["o engenheiro", "der Ingenieur", "the engineer"],
+            ["o cozinheiro", "der Koch", "the cook"],
+            ["o vendedor", "der Verkäufer", "the salesperson"]
+          ]
+        },
+        {
+          "id": "v32",
+          "type": "vocab",
+          "title": {"de": "Verben im Alltag", "en": "Everyday verbs"},
+          "notes": [
+            {"de": "levantar-se ist ein reflexives Verb (sich …). Wie man es benutzt, lernst du in Teil 6.", "en": "levantar-se is a reflexive verb. You'll learn how to use it in part 6."}
+          ],
+          "words": [
+            ["acordar", "aufwachen", "to wake up"],
+            ["levantar-se", "aufstehen", "to get up"],
+            ["dormir", "schlafen", "to sleep"],
+            ["tomar", "nehmen / trinken", "to take / to have (a drink)"],
+            ["sair", "hinausgehen / ausgehen", "to go out / to leave"],
+            ["chegar", "ankommen", "to arrive"],
+            ["voltar", "zurückkommen", "to come back"],
+            ["começar", "anfangen", "to begin"],
+            ["acabar", "aufhören / beenden", "to finish / to stop"],
+            ["cozinhar", "kochen", "to cook"],
+            ["lavar", "waschen", "to wash"],
+            ["limpar", "putzen / sauber machen", "to clean"]
+          ]
+        },
+        {
+          "id": "v33",
+          "type": "vocab",
+          "title": {"de": "Verben: reden & helfen", "en": "Verbs: talking & helping"},
+          "notes": [
+            {"de": "trazer = herbringen (zu mir), levar = mitnehmen / hinbringen (von mir weg).", "en": "trazer = to bring (here, to me), levar = to take (away from me)."}
+          ],
+          "words": [
+            ["abrir", "öffnen", "to open"],
+            ["fechar", "schließen", "to close"],
+            ["dar", "geben", "to give"],
+            ["trazer", "bringen", "to bring"],
+            ["levar", "mitnehmen / hinbringen", "to take (along)"],
+            ["dizer", "sagen", "to say"],
+            ["perguntar", "fragen", "to ask"],
+            ["responder", "antworten", "to answer"],
+            ["esperar", "warten / hoffen", "to wait / to hope"],
+            ["procurar", "suchen", "to look for"],
+            ["encontrar", "finden / treffen", "to find / to meet"],
+            ["pensar", "denken", "to think"]
+          ]
+        },
+        {
+          "id": "v36",
+          "type": "vocab",
+          "title": {"de": "Wo? Ortsangaben", "en": "Where? Prepositions"},
+          "notes": [
+            {"de": "de und em verschmelzen mit dem Artikel: ao lado do banco, em cima da mesa. Das lernst du in Teil 6 genauer.", "en": "de and em merge with the article: ao lado do banco, em cima da mesa. You'll learn this in detail in part 6."}
+          ],
+          "words": [
+            ["em", "in / an / auf", "in / at / on"],
+            ["de", "von / aus", "of / from"],
+            ["para", "für / nach (Richtung)", "for / to (direction)"],
+            ["perto de", "in der Nähe von", "near"],
+            ["longe de", "weit weg von", "far from"],
+            ["ao lado de", "neben", "next to"],
+            ["à frente de", "vor", "in front of"],
+            ["atrás de", "hinter", "behind"],
+            ["em cima de", "auf / über", "on top of / above"],
+            ["debaixo de", "unter", "under"],
+            ["dentro de", "in / innerhalb von", "inside"],
+            ["entre", "zwischen", "between"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": {"de": "Grundgrammatik", "en": "Core grammar"},
+      "subtitle": {"de": "Adjektive, Verben auf -er/-ir, Präpositionen, mögen, Zukunft, Possessiva, reflexive Verben", "en": "Adjectives, -er/-ir verbs, prepositions, liking, future, possessives, reflexive verbs"},
+      "lessons": [
+        {
+          "id": "g08",
+          "type": "grammar",
+          "title": {"de": "Adjektive anpassen", "en": "Adjective agreement"},
+          "explanation": {
+            "de": [
+              {"p": "Adjektive stehen meist hinter dem Nomen und passen sich in Geschlecht und Zahl an:"},
+              {"table": [["", "Singular", "Plural"], ["männlich", "o carro novo", "os carros novos"], ["weiblich", "a casa nova", "as casas novas"]]},
+              {"p": "Adjektive auf -e oder auf einen Konsonanten haben für männlich und weiblich dieselbe Form:"},
+              {
+                "ex": [
+                  ["um homem feliz / uma mulher feliz", "ein glücklicher Mann / eine glückliche Frau"],
+                  ["o livro grande / a casa grande", "das große Buch / das große Haus"],
+                  ["os livros grandes", "die großen Bücher"]
+                ]
+              },
+              {"tip": "Nach ser und estar passt sich das Adjektiv genauso an: A sopa está fria. Eles são simpáticos."}
+            ],
+            "en": [
+              {"p": "Adjectives usually come after the noun and agree with it in gender and number:"},
+              {"table": [["", "singular", "plural"], ["masculine", "o carro novo", "os carros novos"], ["feminine", "a casa nova", "as casas novas"]]},
+              {"p": "Adjectives ending in -e or a consonant have the same form for masculine and feminine:"},
+              {
+                "ex": [
+                  ["um homem feliz / uma mulher feliz", "a happy man / a happy woman"],
+                  ["o livro grande / a casa grande", "the big book / the big house"],
+                  ["os livros grandes", "the big books"]
+                ]
+              },
+              {"tip": "After ser and estar the adjective agrees in the same way: A sopa está fria. Eles são simpáticos."}
+            ]
+          },
+          "exercises": [
+            ["a casa ___ (bonito)", "bonita", {"de": "das schöne Haus", "en": "the beautiful house"}, ["bonito", "bonita", "bonitos", "bonitas"]],
+            ["os livros ___ (novo)", "novos", {"de": "die neuen Bücher", "en": "the new books"}, ["novo", "nova", "novos", "novas"]],
+            ["as mesas ___ (pequeno)", "pequenas", {"de": "die kleinen Tische", "en": "the small tables"}, ["pequeno", "pequena", "pequenos", "pequenas"]],
+            ["um homem ___ (simpático)", "simpático", {"de": "ein netter Mann", "en": "a nice man"}, ["simpático", "simpática", "simpáticos"]],
+            ["uma cidade ___ (grande)", "grande", {"de": "eine große Stadt", "en": "a big city"}, ["grande", "granda", "grandes"]],
+            ["A sopa está ___. (frio)", "fria", {"de": "Die Suppe ist kalt.", "en": "The soup is cold."}, ["frio", "fria", "frios", "frias"]],
+            ["Elas são ___. (alto)", "altas", {"de": "Sie sind groß.", "en": "They are tall."}, ["alto", "alta", "altos", "altas"]],
+            ["o carro ___ (velho)", "velho", {"de": "das alte Auto", "en": "the old car"}, null],
+            ["a rapariga ___ (alto)", "alta", {"de": "das große Mädchen", "en": "the tall girl"}, null],
+            ["os bilhetes ___ (caro)", "caros", {"de": "die teuren Fahrkarten", "en": "the expensive tickets"}, null],
+            ["as casas ___ (branco)", "brancas", {"de": "die weißen Häuser", "en": "the white houses"}, null],
+            ["Os amigos estão ___. (cansado)", "cansados", {"de": "Die Freunde sind müde.", "en": "The friends are tired."}, null],
+            ["A Ana é muito ___. (simpático)", "simpática", {"de": "Ana ist sehr nett.", "en": "Ana is very nice."}, null],
+            ["as crianças ___ (feliz)", "felizes", {"de": "die glücklichen Kinder", "en": "the happy children"}, null]
+          ]
+        },
+        {
+          "id": "g09",
+          "type": "grammar",
+          "title": {"de": "Verben auf -er und -ir", "en": "Verbs ending in -er and -ir"},
+          "explanation": {
+            "de": [
+              {"p": "Neben -ar gibt es Verben auf -er und -ir. Sie funktionieren genauso – nur die Endungen sind etwas anders:"},
+              {
+                "table": [
+                  ["Person", "comer (essen)", "abrir (öffnen)"],
+                  ["eu", "como", "abro"],
+                  ["tu", "comes", "abres"],
+                  ["ele / ela / você", "come", "abre"],
+                  ["nós", "comemos", "abrimos"],
+                  ["eles / elas / vocês", "comem", "abrem"]
+                ]
+              },
+              {"tip": "-er und -ir unterscheiden sich nur bei nós: comemos, aber abrimos."},
+              {
+                "ex": [
+                  ["Comemos peixe ao domingo.", "Sonntags essen wir Fisch."],
+                  ["Bebes café?", "Trinkst du Kaffee?"],
+                  ["A loja abre às nove.", "Der Laden öffnet um neun."],
+                  ["Eles vivem em Faro.", "Sie leben in Faro."]
+                ]
+              },
+              {"tip": "Einige Verben sind nur in der eu-Form unregelmäßig: dormir → durmo, ouvir → oiço (oder ouço), sair → saio."}
+            ],
+            "en": [
+              {"p": "Besides -ar there are verbs ending in -er and -ir. They work the same way – only the endings are slightly different:"},
+              {
+                "table": [
+                  ["Person", "comer (to eat)", "abrir (to open)"],
+                  ["eu", "como", "abro"],
+                  ["tu", "comes", "abres"],
+                  ["ele / ela / você", "come", "abre"],
+                  ["nós", "comemos", "abrimos"],
+                  ["eles / elas / vocês", "comem", "abrem"]
+                ]
+              },
+              {"tip": "-er and -ir only differ in the nós form: comemos, but abrimos."},
+              {
+                "ex": [
+                  ["Comemos peixe ao domingo.", "We eat fish on Sundays."],
+                  ["Bebes café?", "Do you drink coffee?"],
+                  ["A loja abre às nove.", "The shop opens at nine."],
+                  ["Eles vivem em Faro.", "They live in Faro."]
+                ]
+              },
+              {"tip": "Some verbs are irregular only in the eu form: dormir → durmo, ouvir → oiço (or ouço), sair → saio."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ fruta. (comer)", "como", {"de": "Ich esse Obst.", "en": "I eat fruit."}, ["como", "comes", "come", "comem"]],
+            ["Tu ___ vinho? (beber)", "bebes", {"de": "Trinkst du Wein?", "en": "Do you drink wine?"}, ["bebo", "bebes", "bebe", "bebem"]],
+            ["Ela ___ em Faro. (viver)", "vive", {"de": "Sie lebt in Faro.", "en": "She lives in Faro."}, ["vivo", "vives", "vive", "vivem"]],
+            ["Nós ___ a porta. (abrir)", "abrimos", {"de": "Wir öffnen die Tür.", "en": "We open the door."}, ["abremos", "abrimos", "abrem", "abre"]],
+            ["Nós ___ muito. (comer)", "comemos", {"de": "Wir essen viel.", "en": "We eat a lot."}, ["comimos", "comemos", "comem", "come"]],
+            [
+              "Eles ___ português. (aprender)",
+              "aprendem",
+              {"de": "Sie lernen Portugiesisch.", "en": "They are learning Portuguese."},
+              ["aprende", "aprendemos", "aprendem", "aprendes"]
+            ],
+            ["Eu ___ uma carta. (escrever)", "escrevo", {"de": "Ich schreibe einen Brief.", "en": "I'm writing a letter."}, null],
+            ["A farmácia ___ às nove. (abrir)", "abre", {"de": "Die Apotheke öffnet um neun.", "en": "The pharmacy opens at nine."}, null],
+            ["Vocês ___ cerveja? (beber)", "bebem", {"de": "Trinkt ihr Bier?", "en": "Do you (all) drink beer?"}, null],
+            ["Tu ___ muito. (correr)", "corres", {"de": "Du läufst viel.", "en": "You run a lot."}, null],
+            ["Nós ___ em Lisboa. (viver)", "vivemos", {"de": "Wir leben in Lissabon.", "en": "We live in Lisbon."}, null],
+            ["Eu não ___ bem. (dormir)", "durmo", {"de": "Ich schlafe nicht gut.", "en": "I don't sleep well."}, null],
+            ["Ela ___ sempre. (responder)", "responde", {"de": "Sie antwortet immer.", "en": "She always answers."}, null]
+          ]
+        },
+        {
+          "id": "g12",
+          "type": "grammar",
+          "title": {"de": "Präposition + Artikel: do, na, ao …", "en": "Preposition + article: do, na, ao …"},
+          "explanation": {
+            "de": [
+              {"p": "Die Präpositionen de, em und a verschmelzen mit dem Artikel – und zwar immer:"},
+              {
+                "table": [
+                  ["", "o", "a", "os", "as"],
+                  ["de (von, aus)", "do", "da", "dos", "das"],
+                  ["em (in, an, auf)", "no", "na", "nos", "nas"],
+                  ["a (zu, nach)", "ao", "à", "aos", "às"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Sou do Porto.", "Ich bin aus Porto."],
+                  ["O livro está na mesa.", "Das Buch liegt auf dem Tisch."],
+                  ["Moro no centro.", "Ich wohne im Zentrum."],
+                  ["Vou ao supermercado.", "Ich gehe zum Supermarkt."],
+                  ["Vamos à praia.", "Wir gehen an den Strand."]
+                ]
+              },
+              {"tip": "Länder haben meist einen Artikel (a Alemanha → Sou da Alemanha), Städte meist nicht (Sou de Berlim, Moro em Lisboa). Ausnahme: o Porto."},
+              {"tip": "em + um / uma wird zu num / numa: Trabalho num banco."}
+            ],
+            "en": [
+              {"p": "The prepositions de, em and a merge with the article – always:"},
+              {
+                "table": [
+                  ["", "o", "a", "os", "as"],
+                  ["de (of, from)", "do", "da", "dos", "das"],
+                  ["em (in, at, on)", "no", "na", "nos", "nas"],
+                  ["a (to)", "ao", "à", "aos", "às"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Sou do Porto.", "I'm from Porto."],
+                  ["O livro está na mesa.", "The book is on the table."],
+                  ["Moro no centro.", "I live in the centre."],
+                  ["Vou ao supermercado.", "I'm going to the supermarket."],
+                  ["Vamos à praia.", "We're going to the beach."]
+                ]
+              },
+              {"tip": "Countries usually have an article (a Alemanha → Sou da Alemanha), cities usually don't (Sou de Berlim, Moro em Lisboa). Exception: o Porto."},
+              {"tip": "em + um / uma becomes num / numa: Trabalho num banco."}
+            ]
+          },
+          "exercises": [
+            ["Sou ___ Alemanha. (de + a)", "da", {"de": "Ich bin aus Deutschland.", "en": "I'm from Germany."}, ["do", "da", "de", "na"]],
+            ["O livro está ___ mesa. (em + a)", "na", {"de": "Das Buch liegt auf dem Tisch.", "en": "The book is on the table."}, ["no", "na", "da", "à"]],
+            ["Moro ___ centro. (em + o)", "no", {"de": "Ich wohne im Zentrum.", "en": "I live in the centre."}, ["no", "na", "do", "ao"]],
+            ["Vou ___ supermercado. (a + o)", "ao", {"de": "Ich gehe zum Supermarkt.", "en": "I'm going to the supermarket."}, ["ao", "à", "no", "do"]],
+            ["Vamos ___ praia. (a + a)", "à", {"de": "Wir gehen an den Strand.", "en": "We're going to the beach."}, ["ao", "à", "na", "da"]],
+            ["As chaves estão ___ carro.", "no", {"de": "Die Schlüssel sind im Auto.", "en": "The keys are in the car."}, ["no", "na", "ao", "do"]],
+            ["Ela é ___ Porto.", "do", {"de": "Sie ist aus Porto.", "en": "She is from Porto."}, ["do", "da", "de", "no"]],
+            ["O gato está ___ cozinha.", "na", {"de": "Die Katze ist in der Küche.", "en": "The cat is in the kitchen."}, null],
+            ["Vou ___ farmácia.", "à", {"de": "Ich gehe zur Apotheke.", "en": "I'm going to the pharmacy."}, null],
+            ["É o carro ___ Pedro.", "do", {"de": "Das ist Pedros Auto.", "en": "That's Pedro's car."}, null],
+            ["Trabalho ___ hospital.", "no", {"de": "Ich arbeite im Krankenhaus.", "en": "I work at the hospital."}, null],
+            ["Vamos ___ restaurante?", "ao", {"de": "Gehen wir ins Restaurant?", "en": "Shall we go to the restaurant?"}, null],
+            ["Moro ___ Lisboa.", "em", {"de": "Ich wohne in Lissabon.", "en": "I live in Lisbon."}, null],
+            ["Ele trabalha ___ banco. (em + um)", "num", {"de": "Er arbeitet in einer Bank.", "en": "He works in a bank."}, null]
+          ]
+        },
+        {
+          "id": "g19",
+          "type": "grammar",
+          "title": {"de": "Mögen: gostar de", "en": "To like: gostar de"},
+          "explanation": {
+            "de": [
+              {"p": "gostar (mögen) braucht immer de. Vor einem Artikel verschmelzen beide (de + o = do usw.):"},
+              {
+                "ex": [
+                  ["Gosto de café.", "Ich mag Kaffee."],
+                  ["Gosto do Porto.", "Ich mag Porto."],
+                  ["Gostas da minha casa?", "Gefällt dir mein Haus?"],
+                  ["Gostamos muito dos nossos vizinhos.", "Wir mögen unsere Nachbarn sehr."]
+                ]
+              },
+              {"p": "Mit einem Verb bedeutet es „gern etwas tun“:"},
+              {"ex": [["Gosto de ler.", "Ich lese gern."], ["Não gostamos de acordar cedo.", "Wir wachen nicht gern früh auf."]]},
+              {"p": "Auf die Frage Gostas …? antwortet man kurz mit Gosto. (Ja.) oder Não gosto. (Nein.)"},
+              {"tip": "Höflich etwas wünschen: Gostava de … (Ich hätte gern / Ich würde gern …): Gostava de um café. Gostava de reservar uma mesa."}
+            ],
+            "en": [
+              {"p": "gostar (to like) always needs de. Before an article the two merge (de + o = do etc.):"},
+              {
+                "ex": [
+                  ["Gosto de café.", "I like coffee."],
+                  ["Gosto do Porto.", "I like Porto."],
+                  ["Gostas da minha casa?", "Do you like my house?"],
+                  ["Gostamos muito dos nossos vizinhos.", "We like our neighbours a lot."]
+                ]
+              },
+              {"p": "With a verb it means “to like doing something”:"},
+              {"ex": [["Gosto de ler.", "I like reading."], ["Não gostamos de acordar cedo.", "We don't like waking up early."]]},
+              {"p": "To the question Gostas …? you answer briefly with Gosto. (Yes.) or Não gosto. (No.)"},
+              {"tip": "Wishing for something politely: Gostava de … (I'd like …): Gostava de um café. Gostava de reservar uma mesa."}
+            ]
+          },
+          "exercises": [
+            ["Gosto ___ chocolate.", "de", {"de": "Ich mag Schokolade.", "en": "I like chocolate."}, ["de", "do", "da"]],
+            ["Gostas ___ praia?", "da", {"de": "Magst du den Strand?", "en": "Do you like the beach?"}, ["de", "do", "da", "dos"]],
+            ["Ela gosta ___ filme.", "do", {"de": "Sie mag den Film.", "en": "She likes the film."}, ["de", "do", "da"]],
+            ["Nós gostamos ___ dançar.", "de", {"de": "Wir tanzen gern.", "en": "We like dancing."}, ["de", "do", "a"]],
+            ["Gostas de peixe? – Sim, ___.", "gosto", {"de": "Magst du Fisch? – Ja.", "en": "Do you like fish? – Yes."}, ["gosto", "gostas", "gosto de"]],
+            [
+              {"de": "Ich mag keinen Kaffee.", "en": "I don't like coffee."},
+              "Não gosto de café.",
+              "",
+              ["Não gosto café.", "Não gosto de café.", "Gosto não de café."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["Eu gosto ___ viajar.", "de", {"de": "Ich reise gern.", "en": "I like travelling."}, null],
+            ["Vocês gostam ___ comida portuguesa?", "da", {"de": "Mögt ihr das portugiesische Essen?", "en": "Do you (all) like Portuguese food?"}, null],
+            ["Eles não ___ de chuva. (gostar)", "gostam", {"de": "Sie mögen keinen Regen.", "en": "They don't like rain."}, null],
+            ["Gosto muito ___ meus amigos.", "dos", {"de": "Ich mag meine Freunde sehr.", "en": "I like my friends a lot."}, null],
+            ["Tu gostas ___ Lisboa?", "de", {"de": "Magst du Lissabon?", "en": "Do you like Lisbon?"}, null],
+            [
+              {"de": "___ de um café, se faz favor. (höflich)", "en": "___ de um café, se faz favor. (polite)"},
+              "Gostava",
+              {"de": "Ich hätte gern einen Kaffee, bitte.", "en": "I'd like a coffee, please."},
+              null
+            ]
+          ]
+        },
+        {
+          "id": "g14",
+          "type": "grammar",
+          "title": {"de": "Zukunft: ir + Infinitiv", "en": "Future: ir + infinitive"},
+          "explanation": {
+            "de": [
+              {"p": "Über Pläne und die nahe Zukunft spricht man mit ir + Grundform des Verbs – wie „ich werde …“:"},
+              {
+                "table": [
+                  ["Person", "ir", "+ Infinitiv"],
+                  ["eu", "vou", "trabalhar"],
+                  ["tu", "vais", "comer"],
+                  ["ele / ela / você", "vai", "viajar"],
+                  ["nós", "vamos", "sair"],
+                  ["eles / elas / vocês", "vão", "ler"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Amanhã vou trabalhar.", "Morgen werde ich arbeiten."],
+                  ["Vamos jantar fora?", "Gehen wir auswärts essen?"],
+                  ["O que vais fazer no fim de semana?", "Was machst du am Wochenende?"],
+                  ["Eles vão viajar para o Brasil.", "Sie werden nach Brasilien reisen."]
+                ]
+              },
+              {"tip": "Verneinung wie immer vor dem ersten Verb: Não vou sair hoje."},
+              {"tip": "Bei „gehen“ selbst sagt man einfach vou: Amanhã vou a Lisboa. (nicht: vou ir)"}
+            ],
+            "en": [
+              {"p": "Plans and the near future are expressed with ir + the infinitive – like “I'm going to …”:"},
+              {
+                "table": [
+                  ["Person", "ir", "+ infinitive"],
+                  ["eu", "vou", "trabalhar"],
+                  ["tu", "vais", "comer"],
+                  ["ele / ela / você", "vai", "viajar"],
+                  ["nós", "vamos", "sair"],
+                  ["eles / elas / vocês", "vão", "ler"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Amanhã vou trabalhar.", "Tomorrow I'm going to work."],
+                  ["Vamos jantar fora?", "Shall we eat out?"],
+                  ["O que vais fazer no fim de semana?", "What are you going to do at the weekend?"],
+                  ["Eles vão viajar para o Brasil.", "They're going to travel to Brazil."]
+                ]
+              },
+              {"tip": "Negation as always before the first verb: Não vou sair hoje."},
+              {"tip": "For “to go” itself you just say vou: Amanhã vou a Lisboa. (not: vou ir)"}
+            ]
+          },
+          "exercises": [
+            ["Amanhã eu ___ trabalhar.", "vou", {"de": "Morgen werde ich arbeiten.", "en": "Tomorrow I'm going to work."}, ["vou", "vais", "vai", "vamos"]],
+            ["Tu ___ comer connosco?", "vais", {"de": "Isst du mit uns?", "en": "Are you going to eat with us?"}, ["vou", "vais", "vão", "vamos"]],
+            ["Nós ___ viajar em agosto.", "vamos", {"de": "Wir verreisen im August.", "en": "We're going to travel in August."}, ["vão", "vamos", "vai", "vou"]],
+            [
+              {"de": "Ich werde ein Buch lesen.", "en": "I'm going to read a book."},
+              "Vou ler um livro.",
+              "",
+              ["Vou ler um livro.", "Vou leio um livro.", "Leio vou um livro."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            [
+              {"de": "Wir gehen heute nicht aus.", "en": "We're not going out today."},
+              "Hoje não vamos sair.",
+              "",
+              ["Hoje vamos não sair.", "Hoje não vamos sair.", "Hoje vamos sair não."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            [
+              {"de": "Was wirst du machen?", "en": "What are you going to do?"},
+              "O que vais fazer?",
+              "",
+              ["O que vais fazer?", "O que fazes ir?", "O que vais faz?"],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["Eles ___ jantar fora.", "vão", {"de": "Sie werden auswärts essen.", "en": "They're going to eat out."}, null],
+            ["Eu vou ___ português. (estudar)", "estudar", {"de": "Ich werde Portugiesisch lernen.", "en": "I'm going to learn Portuguese."}, null],
+            ["A Ana ___ comprar pão.", "vai", {"de": "Ana wird Brot kaufen.", "en": "Ana is going to buy bread."}, null],
+            ["Vocês ___ ver o filme?", "vão", {"de": "Werdet ihr den Film sehen?", "en": "Are you (all) going to watch the film?"}, null],
+            ["Nós ___ sair logo à noite.", "vamos", {"de": "Wir gehen heute Abend aus.", "en": "We're going out tonight."}, null],
+            ["O que ___ fazer amanhã, Pedro?", "vais", {"de": "Was machst du morgen, Pedro?", "en": "What are you doing tomorrow, Pedro?"}, null]
+          ]
+        },
+        {
+          "id": "g13",
+          "type": "grammar",
+          "title": {"de": "Mein, dein, unser: Possessivpronomen", "en": "My, your, our: possessives"},
+          "explanation": {
+            "de": [
+              {"p": "In Portugal steht vor dem Possessivpronomen normalerweise der Artikel. Es richtet sich nach dem Besitz, nicht nach dem Besitzer:"},
+              {
+                "table": [
+                  ["", "männlich", "weiblich", "Plural (m / w)"],
+                  ["mein", "o meu", "a minha", "os meus / as minhas"],
+                  ["dein", "o teu", "a tua", "os teus / as tuas"],
+                  ["Ihr (höflich)", "o seu", "a sua", "os seus / as suas"],
+                  ["unser", "o nosso", "a nossa", "os nossos / as nossas"]
+                ]
+              },
+              {"ex": [["o meu carro", "mein Auto"], ["a minha casa", "mein Haus"], ["os teus amigos", "deine Freunde"], ["a nossa cidade", "unsere Stadt"]]},
+              {"h": "sein und ihr: dele / dela"},
+              {"p": "Für „sein“ und „ihr“ nimmt man im Alltag meist dele / dela (= von ihm / von ihr) hinter dem Nomen. o seu / a sua heißt dann meist „Ihr“ (höflich):"},
+              {
+                "ex": [
+                  ["o carro dele", "sein Auto"],
+                  ["a casa dela", "ihr Haus"],
+                  ["os pais deles", "ihre Eltern"],
+                  ["O seu nome, por favor?", "Ihr Name, bitte?"]
+                ]
+              }
+            ],
+            "en": [
+              {"p": "In Portugal the possessive normally comes with the article. It agrees with the thing owned, not with the owner:"},
+              {
+                "table": [
+                  ["", "masculine", "feminine", "plural (m / f)"],
+                  ["my", "o meu", "a minha", "os meus / as minhas"],
+                  ["your", "o teu", "a tua", "os teus / as tuas"],
+                  ["your (polite)", "o seu", "a sua", "os seus / as suas"],
+                  ["our", "o nosso", "a nossa", "os nossos / as nossas"]
+                ]
+              },
+              {"ex": [["o meu carro", "my car"], ["a minha casa", "my house"], ["os teus amigos", "your friends"], ["a nossa cidade", "our city"]]},
+              {"h": "his and her: dele / dela"},
+              {"p": "For “his” and “her” people usually say dele / dela (= of him / of her) after the noun. o seu / a sua then usually means the polite “your”:"},
+              {
+                "ex": [
+                  ["o carro dele", "his car"],
+                  ["a casa dela", "her house"],
+                  ["os pais deles", "their parents"],
+                  ["O seu nome, por favor?", "Your name, please?"]
+                ]
+              }
+            ]
+          },
+          "exercises": [
+            [{"de": "___ casa (mein)", "en": "___ casa (my)"}, "a minha", {"de": "mein Haus", "en": "my house"}, ["o meu", "a minha", "os meus", "as minhas"]],
+            [{"de": "___ carro (mein)", "en": "___ carro (my)"}, "o meu", {"de": "mein Auto", "en": "my car"}, ["o meu", "a minha", "o teu", "a tua"]],
+            [
+              {"de": "___ amigos (dein)", "en": "___ amigos (your)"},
+              "os teus",
+              {"de": "deine Freunde", "en": "your friends"},
+              ["o teu", "a tua", "os teus", "as tuas"]
+            ],
+            [
+              {"de": "___ cidade (unser)", "en": "___ cidade (our)"},
+              "a nossa",
+              {"de": "unsere Stadt", "en": "our city"},
+              ["o nosso", "a nossa", "os nossos", "as nossas"]
+            ],
+            [{"de": "o livro ___ (von ihm)", "en": "o livro ___ (his)"}, "dele", {"de": "sein Buch", "en": "his book"}, ["dele", "dela", "deles"]],
+            [{"de": "a mãe ___ (von ihr)", "en": "a mãe ___ (her)"}, "dela", {"de": "ihre Mutter", "en": "her mother"}, ["dele", "dela", "delas"]],
+            [
+              {"de": "___ nome, por favor? (höflich)", "en": "___ nome, por favor? (polite)"},
+              "O seu",
+              {"de": "Ihr Name, bitte?", "en": "Your name, please?"},
+              ["O teu", "O seu", "O meu"]
+            ],
+            [{"de": "___ irmã (mein)", "en": "___ irmã (my)"}, "a minha", {"de": "meine Schwester", "en": "my sister"}, null],
+            [{"de": "___ pais (dein)", "en": "___ pais (your)"}, "os teus", {"de": "deine Eltern", "en": "your parents"}, null],
+            [{"de": "___ chaves (mein)", "en": "___ chaves (my)"}, "as minhas", {"de": "meine Schlüssel", "en": "my keys"}, null],
+            [{"de": "o carro ___ (von ihm)", "en": "o carro ___ (his)"}, "dele", {"de": "sein Auto", "en": "his car"}, null],
+            [{"de": "___ filhos (unser)", "en": "___ filhos (our)"}, "os nossos", {"de": "unsere Kinder", "en": "our children"}, null],
+            [
+              {"de": "Onde está ___ chave? (dein)", "en": "Onde está ___ chave? (your)"},
+              "a tua",
+              {"de": "Wo ist dein Schlüssel?", "en": "Where is your key?"},
+              null
+            ]
+          ]
+        },
+        {
+          "id": "g16",
+          "type": "grammar",
+          "title": {"de": "Reflexive Verben: chamo-me", "en": "Reflexive verbs: chamo-me"},
+          "explanation": {
+            "de": [
+              {"p": "Reflexive Verben haben ein Pronomen wie „mich, dich, sich“. In Portugal steht es im normalen Aussagesatz hinter dem Verb, mit Bindestrich:"},
+              {
+                "table": [
+                  ["Person", "chamar-se (heißen)"],
+                  ["eu", "chamo-me"],
+                  ["tu", "chamas-te"],
+                  ["ele / ela / você", "chama-se"],
+                  ["nós", "chamamo-nos"],
+                  ["eles / elas / vocês", "chamam-se"]
+                ]
+              },
+              {"tip": "Bei nós fällt das -s weg: chamamos + nos → chamamo-nos."},
+              {"p": "Das Pronomen rückt VOR das Verb, wenn davor ein Verneinungswort oder ein Fragewort steht:"},
+              {
+                "ex": [
+                  ["Chamo-me Ana.", "Ich heiße Ana."],
+                  ["Não me chamo Ana.", "Ich heiße nicht Ana."],
+                  ["Como te chamas?", "Wie heißt du?"],
+                  ["Levanto-me às sete.", "Ich stehe um sieben auf."],
+                  ["A que horas te levantas?", "Um wie viel Uhr stehst du auf?"]
+                ]
+              },
+              {"tip": "In Brasilien steht das Pronomen meist vorne (Eu me chamo …). In Portugal klingt das falsch – hier also: Chamo-me …"}
+            ],
+            "en": [
+              {"p": "Reflexive verbs have a pronoun like “myself, yourself”. In Portugal it goes after the verb in a normal statement, with a hyphen:"},
+              {
+                "table": [
+                  ["Person", "chamar-se (to be called)"],
+                  ["eu", "chamo-me"],
+                  ["tu", "chamas-te"],
+                  ["ele / ela / você", "chama-se"],
+                  ["nós", "chamamo-nos"],
+                  ["eles / elas / vocês", "chamam-se"]
+                ]
+              },
+              {"tip": "With nós the -s drops: chamamos + nos → chamamo-nos."},
+              {"p": "The pronoun moves IN FRONT of the verb when it's preceded by a negation or a question word:"},
+              {
+                "ex": [
+                  ["Chamo-me Ana.", "My name is Ana."],
+                  ["Não me chamo Ana.", "My name isn't Ana."],
+                  ["Como te chamas?", "What's your name?"],
+                  ["Levanto-me às sete.", "I get up at seven."],
+                  ["A que horas te levantas?", "What time do you get up?"]
+                ]
+              },
+              {"tip": "In Brazil the pronoun usually goes first (Eu me chamo …). In Portugal that sounds wrong – so here it's: Chamo-me …"}
+            ]
+          },
+          "exercises": [
+            [
+              {"de": "___ Pedro. (Ich heiße …)", "en": "___ Pedro. (My name is …)"},
+              "Chamo-me",
+              {"de": "Ich heiße Pedro.", "en": "My name is Pedro."},
+              ["Chamo-me", "Me chamo", "Chamo-te", "Chama-se"]
+            ],
+            ["Como te ___?", "chamas", {"de": "Wie heißt du?", "en": "What's your name?"}, ["chamas", "chama", "chamo", "chamamos"]],
+            ["Ela ___ Maria.", "chama-se", {"de": "Sie heißt Maria.", "en": "Her name is Maria."}, ["chama-se", "se chama", "chamo-me", "chamas-te"]],
+            [
+              {"de": "Ich heiße nicht João.", "en": "My name isn't João."},
+              "Não me chamo João.",
+              "",
+              ["Não chamo-me João.", "Não me chamo João.", "Chamo-me não João."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            [
+              "Nós ___ às oito. (levantar-se)",
+              "levantamo-nos",
+              {"de": "Wir stehen um acht auf.", "en": "We get up at eight."},
+              ["levantamos-nos", "levantamo-nos", "nos levantamos"]
+            ],
+            [
+              {"de": "Wie heißen Sie?", "en": "What's your name? (polite)"},
+              "Como se chama?",
+              "",
+              ["Como se chama?", "Como chama-se?", "Como te chama?"],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["Eu ___ às sete. (levantar-se)", "levanto-me", {"de": "Ich stehe um sieben auf.", "en": "I get up at seven."}, null],
+            ["Tu ___ cedo? (levantar-se)", "levantas-te", {"de": "Stehst du früh auf?", "en": "Do you get up early?"}, null],
+            ["Eles ___ Rui e Rita. (chamar-se)", "chamam-se", {"de": "Sie heißen Rui und Rita.", "en": "Their names are Rui and Rita."}, null],
+            ["Como ___ chama o seu filho?", "se", {"de": "Wie heißt Ihr Sohn?", "en": "What's your son's name? (polite)"}, null],
+            ["Eu não ___ levanto cedo.", "me", {"de": "Ich stehe nicht früh auf.", "en": "I don't get up early."}, null],
+            ["___ Ana. (chamar-se, eu)", "Chamo-me", {"de": "Ich heiße Ana.", "en": "My name is Ana."}, null]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u7",
+      "title": {"de": "Erweiterter Wortschatz", "en": "Extended vocabulary"},
+      "subtitle": {"de": "Menschen, Wetter, Reisen, am Tisch, Gefühle, Eigenschaften, Wohnung, Farben, Körper, Tiere", "en": "People, weather, travel, at the table, feelings, describing, your home, colours, the body, animals"},
+      "lessons": [
+        {
+          "id": "v05",
+          "type": "vocab",
+          "title": {"de": "Menschen um dich herum", "en": "People around you"},
+          "notes": [
+            {"de": "rapaz und rapariga sind typisch für Portugal. In Brasilien sagt man menino / menina.", "en": "rapaz and rapariga are typical of Portugal. In Brazil they say menino / menina."},
+            {"de": "avô (Opa) hat ein geschlossenes ô, avó (Oma) ein offenes ó.", "en": "avô (grandpa) has a closed ô, avó (grandma) an open ó."}
+          ],
+          "words": [
+            ["o amigo", "der Freund", "the friend (male)"],
+            ["a amiga", "die Freundin", "the friend (female)"],
+            ["o namorado", "der (feste) Freund", "the boyfriend"],
+            ["a namorada", "die (feste) Freundin", "the girlfriend"],
+            ["o colega", "der Kollege", "the colleague"],
+            ["o vizinho", "der Nachbar", "the neighbour"],
+            ["o homem", "der Mann", "the man"],
+            ["a criança", "das Kind", "the child"],
+            ["o rapaz", "der Junge", "the boy"],
+            ["a rapariga", "das Mädchen", "the girl"],
+            ["o bebé", "das Baby", "the baby"],
+            ["o avô", "der Großvater", "the grandfather"],
+            ["a avó", "die Großmutter", "the grandmother"]
+          ]
+        },
+        {
+          "id": "v34",
+          "type": "vocab",
+          "title": {"de": "Verben: Freizeit", "en": "Verbs: free time"},
+          "notes": [
+            {"de": "estudar = lernen für Schule oder Uni. aprender = etwas Neues lernen: aprender a nadar (schwimmen lernen).", "en": "estudar = to study (school, university). aprender = to learn something new: aprender a nadar (to learn to swim)."}
+          ],
+          "words": [
+            ["viajar", "reisen", "to travel"],
+            ["passear", "spazieren gehen", "to go for a walk"],
+            ["descansar", "sich ausruhen", "to rest"],
+            ["jogar", "spielen (Spiel, Sport)", "to play (games, sport)"],
+            ["nadar", "schwimmen", "to swim"],
+            ["correr", "laufen / rennen", "to run"],
+            ["dançar", "tanzen", "to dance"],
+            ["cantar", "singen", "to sing"],
+            ["tocar", "spielen (Instrument) / berühren", "to play (an instrument) / to touch"],
+            ["aprender", "lernen", "to learn"],
+            ["ensinar", "unterrichten / beibringen", "to teach"],
+            ["usar", "benutzen / tragen (Kleidung)", "to use / to wear"]
+          ]
+        },
+        {
+          "id": "v26",
+          "type": "vocab",
+          "title": {"de": "Wetter", "en": "Weather"},
+          "notes": [
+            {"de": "Wetter beschreibt man mit estar: Está frio. Está sol. Está calor.", "en": "Weather is described with estar: Está frio. Está sol. Está calor."}
+          ],
+          "words": [
+            ["o tempo", "das Wetter / die Zeit", "the weather / the time"],
+            ["está calor", "es ist heiß", "it's hot"],
+            ["chove", "es regnet", "it's raining"],
+            ["o sol", "die Sonne", "the sun"],
+            ["a chuva", "der Regen", "the rain"],
+            ["o vento", "der Wind", "the wind"],
+            ["a praia", "der Strand", "the beach"],
+            ["o mar", "das Meer", "the sea"],
+            ["a neve", "der Schnee", "the snow"],
+            ["a montanha", "der Berg", "the mountain"],
+            ["o rio", "der Fluss", "the river"],
+            ["a árvore", "der Baum", "the tree"]
+          ]
+        },
+        {
+          "id": "v39",
+          "type": "vocab",
+          "title": {"de": "Reisen, Länder & Sprachen", "en": "Travel, countries & languages"},
+          "words": [
+            ["a viagem", "die Reise", "the journey / trip"],
+            ["o turista", "der Tourist", "the tourist"],
+            ["a chegada", "die Ankunft", "the arrival"],
+            ["a partida", "die Abfahrt / der Abflug", "the departure"],
+            ["o país", "das Land", "the country"],
+            ["o estrangeiro", "das Ausland / der Ausländer", "abroad / the foreigner"],
+            ["a língua", "die Sprache", "the language"],
+            ["espanhol", "spanisch / Spanisch", "Spanish"],
+            ["francês", "französisch / Französisch", "French"],
+            ["a Espanha", "Spanien", "Spain"],
+            ["a França", "Frankreich", "France"],
+            ["o Brasil", "Brasilien", "Brazil"],
+            ["a Áustria", "Österreich", "Austria"],
+            ["a Suíça", "die Schweiz", "Switzerland"]
+          ]
+        },
+        {
+          "id": "v47",
+          "type": "vocab",
+          "title": {"de": "Am Tisch", "en": "At the table"},
+          "notes": [
+            {"de": "pastel de nata: das berühmte portugiesische Puddingtörtchen – am besten warm mit Zimt.", "en": "pastel de nata: the famous Portuguese custard tart – best eaten warm with cinnamon."},
+            {"de": "gelado ist das portugiesische Wort für Eis (Brasilien: sorvete).", "en": "gelado is the Portuguese word for ice cream (Brazil: sorvete)."}
+          ],
+          "words": [
+            ["está delicioso", "es ist köstlich", "it's delicious"],
+            ["mais um, por favor", "noch eins, bitte", "another one, please"],
+            ["o prato", "der Teller / das Gericht", "the plate / the dish"],
+            ["o garfo", "die Gabel", "the fork"],
+            ["a faca", "das Messer", "the knife"],
+            ["a colher", "der Löffel", "the spoon"],
+            ["a garrafa", "die Flasche", "the bottle"],
+            ["o pastel de nata", "das Puddingtörtchen (Pastel de Nata)", "the custard tart (pastel de nata)"],
+            ["o bacalhau", "der Stockfisch", "the salt cod"],
+            ["o bolo", "der Kuchen", "the cake"],
+            ["o gelado", "das Eis", "the ice cream"]
+          ]
+        },
+        {
+          "id": "v42",
+          "type": "vocab",
+          "title": {"de": "Gefühle & Befinden", "en": "Feelings"},
+          "notes": [
+            {"de": "saudade ist ein typisch portugiesisches Wort: die Sehnsucht nach etwas oder jemandem. Tenho saudades tuas. = Ich vermisse dich.", "en": "saudade is a typically Portuguese word: longing for something or someone. Tenho saudades tuas. = I miss you."}
+          ],
+          "words": [
+            ["bem", "gut (Befinden)", "well (how you feel)"],
+            ["mal", "schlecht (Befinden)", "badly (how you feel)"],
+            ["preocupado", "besorgt", "worried"],
+            ["nervoso", "nervös", "nervous"],
+            ["zangado", "wütend / verärgert", "angry"],
+            ["aborrecido", "gelangweilt / genervt", "bored / annoyed"],
+            ["surpreendido", "überrascht", "surprised"],
+            ["calmo", "ruhig", "calm"],
+            ["apaixonado", "verliebt", "in love"],
+            ["ter medo", "Angst haben", "to be afraid"],
+            ["ter saudades", "vermissen / Sehnsucht haben", "to miss (someone) / to long for"],
+            ["o amor", "die Liebe", "the love"]
+          ]
+        },
+        {
+          "id": "v19",
+          "type": "vocab",
+          "title": {"de": "Eigenschaften 2", "en": "Describing things 2"},
+          "words": [
+            ["cansado", "müde", "tired"],
+            ["ocupado", "beschäftigt / besetzt", "busy / occupied"],
+            ["livre", "frei", "free"],
+            ["simpático", "nett", "nice / friendly"],
+            ["rápido", "schnell", "fast"],
+            ["lento", "langsam", "slow"],
+            ["alto", "hoch / groß (Person)", "high / tall"],
+            ["baixo", "niedrig / klein (Person)", "low / short"],
+            ["feliz", "glücklich", "happy"],
+            ["triste", "traurig", "sad"]
+          ]
+        },
+        {
+          "id": "v35",
+          "type": "vocab",
+          "title": {"de": "Eigenschaften 3", "en": "Describing things 3"},
+          "words": [
+            ["certo", "richtig", "right / correct"],
+            ["errado", "falsch", "wrong"],
+            ["cheio", "voll", "full"],
+            ["vazio", "leer", "empty"],
+            ["limpo", "sauber", "clean"],
+            ["sujo", "schmutzig", "dirty"],
+            ["forte", "stark", "strong"],
+            ["fraco", "schwach", "weak"],
+            ["jovem", "jung", "young"],
+            ["contente", "froh / zufrieden", "glad / content"],
+            ["gordo", "dick", "fat"],
+            ["magro", "dünn / schlank", "thin / slim"]
+          ]
+        },
+        {
+          "id": "v43",
+          "type": "vocab",
+          "title": {"de": "Mehr Verben & kleine Wörter", "en": "More verbs & small words"},
+          "notes": [
+            {"de": "viver und morar heißen beide „wohnen / leben“. morar ist nur „wohnen“, viver auch „leben“.", "en": "viver and morar both mean “to live”. morar only means living somewhere, viver also means being alive."}
+          ],
+          "words": [
+            ["ainda", "noch", "still / yet"],
+            ["pouco", "wenig", "little / not much"],
+            ["lembrar-se", "sich erinnern", "to remember"],
+            ["esquecer", "vergessen", "to forget"],
+            ["mudar", "ändern / umziehen", "to change / to move (house)"],
+            ["viver", "leben", "to live"],
+            ["terminar", "beenden / abschließen", "to end / to finish"],
+            ["amar", "lieben", "to love"]
+          ]
+        },
+        {
+          "id": "v13",
+          "type": "vocab",
+          "title": {"de": "Zu Hause", "en": "At home"},
+          "words": [
+            ["a casa", "das Haus / das Zuhause", "the house / home"],
+            ["o apartamento", "die Wohnung", "the flat / apartment"],
+            ["a sala", "das Wohnzimmer", "the living room"],
+            ["a cozinha", "die Küche", "the kitchen"],
+            ["a porta", "die Tür", "the door"],
+            ["a janela", "das Fenster", "the window"],
+            ["a mesa", "der Tisch", "the table"],
+            ["a cadeira", "der Stuhl", "the chair"],
+            ["a cama", "das Bett", "the bed"],
+            ["as escadas", "die Treppe", "the stairs"]
+          ]
+        },
+        {
+          "id": "v41",
+          "type": "vocab",
+          "title": {"de": "Wohnen & Haushalt", "en": "Home & household"},
+          "words": [
+            ["a renda", "die Miete", "the rent"],
+            ["o frigorífico", "der Kühlschrank", "the fridge"],
+            ["o fogão", "der Herd", "the cooker / stove"],
+            ["a máquina de lavar", "die Waschmaschine", "the washing machine"],
+            ["o sofá", "das Sofa", "the sofa"],
+            ["o armário", "der Schrank", "the cupboard / wardrobe"],
+            ["a parede", "die Wand", "the wall"],
+            ["o chão", "der Boden", "the floor"],
+            ["o salário", "das Gehalt", "the salary"]
+          ]
+        },
+        {
+          "id": "v08",
+          "type": "vocab",
+          "title": {"de": "Farben", "en": "Colours"},
+          "notes": [
+            {"de": "Farben sind Adjektive und passen sich an: o carro branco, a casa branca. cor-de-rosa und laranja bleiben gleich.", "en": "Colours are adjectives and agree with the noun: o carro branco, a casa branca. cor-de-rosa and laranja don't change."}
+          ],
+          "words": [
+            ["tem isto noutra cor?", "haben Sie das in einer anderen Farbe?", "do you have this in another colour?"],
+            ["a cor", "die Farbe", "the colour"],
+            ["preto", "schwarz", "black"],
+            ["branco", "weiß", "white"],
+            ["azul", "blau", "blue"],
+            ["vermelho", "rot", "red"],
+            ["verde", "grün", "green"],
+            ["cinzento", "grau", "grey"],
+            ["castanho", "braun", "brown"],
+            ["amarelo", "gelb", "yellow"],
+            ["cor-de-rosa", "rosa", "pink"],
+            ["laranja", "orange (Farbe)", "orange (colour)"],
+            ["roxo", "lila", "purple"],
+            ["o chapéu", "der Hut", "the hat"]
+          ]
+        },
+        {
+          "id": "v49",
+          "type": "vocab",
+          "title": {"de": "Der Körper", "en": "The body"},
+          "words": [
+            ["o corpo", "der Körper", "the body"],
+            ["a mão", "die Hand", "the hand"],
+            ["o pé", "der Fuß", "the foot"],
+            ["o braço", "der Arm", "the arm"],
+            ["a perna", "das Bein", "the leg"],
+            ["o olho", "das Auge", "the eye"],
+            ["a boca", "der Mund", "the mouth"],
+            ["o nariz", "die Nase", "the nose"],
+            ["a orelha", "das Ohr", "the ear"],
+            ["o coração", "das Herz", "the heart"]
+          ]
+        },
+        {
+          "id": "v44",
+          "type": "vocab",
+          "title": {"de": "Alltag & Kommunikation", "en": "Everyday life & communication"},
+          "notes": [
+            {"de": "telemóvel ist das portugiesische Wort fürs Handy (Brasilien: celular).", "en": "telemóvel is the Portuguese word for mobile phone (Brazil: celular)."}
+          ],
+          "words": [
+            ["bem-vindo", "willkommen", "welcome"],
+            ["com certeza", "auf jeden Fall / sicher", "definitely / sure"],
+            ["a pergunta", "die Frage", "the question"],
+            ["a resposta", "die Antwort", "the answer"],
+            ["o livro", "das Buch", "the book"],
+            ["o jogo", "das Spiel", "the game"],
+            ["o mundo", "die Welt", "the world"],
+            ["a lua", "der Mond", "the moon"]
+          ]
+        },
+        {
+          "id": "v27",
+          "type": "vocab",
+          "title": {"de": "Tiere & Pflanzen", "en": "Animals & plants"},
+          "words": [
+            ["o cão", "der Hund", "the dog"],
+            ["o gato", "die Katze", "the cat"],
+            ["o animal", "das Tier", "the animal"],
+            ["o pássaro", "der Vogel", "the bird"],
+            ["a flor", "die Blume", "the flower"],
+            ["a planta", "die Pflanze", "the plant"],
+            ["o jardim", "der Garten", "the garden"],
+            ["o cavalo", "das Pferd", "the horse"],
+            ["a vaca", "die Kuh", "the cow"],
+            ["o porco", "das Schwein", "the pig"],
+            ["a galinha", "das Huhn", "the hen"],
+            ["o rato", "die Maus", "the mouse"]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u8",
+      "title": {"de": "Erweiterte Grammatik: A1 abschließen", "en": "Extended grammar: completing A1"},
+      "subtitle": {"de": "Verlaufsform, dies & das, Vergangenheit, Vergleiche", "en": "Progressive, this & that, past tense, comparisons"},
+      "lessons": [
+        {
+          "id": "g15",
+          "type": "grammar",
+          "title": {"de": "Gerade dabei: estar a + Infinitiv", "en": "Right now: estar a + infinitive"},
+          "explanation": {
+            "de": [
+              {"p": "Was gerade passiert, drückt man in Portugal mit estar a + Grundform aus („ich bin gerade am …“):"},
+              {
+                "table": [
+                  ["Person", "estar", "a + Infinitiv"],
+                  ["eu", "estou", "a ler"],
+                  ["tu", "estás", "a trabalhar"],
+                  ["ele / ela / você", "está", "a dormir"],
+                  ["nós", "estamos", "a comer"],
+                  ["eles / elas / vocês", "estão", "a falar"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Estou a ler um livro.", "Ich lese gerade ein Buch."],
+                  ["O que estás a fazer?", "Was machst du gerade?"],
+                  ["Está a chover.", "Es regnet (gerade)."],
+                  ["Eles estão a jantar.", "Sie essen gerade zu Abend."]
+                ]
+              },
+              {"tip": "Das ist typisch für Portugal. In Brasilien sagt man stattdessen estou lendo – das klingt in Portugal brasilianisch."}
+            ],
+            "en": [
+              {"p": "What's happening right now is expressed in Portugal with estar a + infinitive (“I'm in the middle of …”):"},
+              {
+                "table": [
+                  ["Person", "estar", "a + infinitive"],
+                  ["eu", "estou", "a ler"],
+                  ["tu", "estás", "a trabalhar"],
+                  ["ele / ela / você", "está", "a dormir"],
+                  ["nós", "estamos", "a comer"],
+                  ["eles / elas / vocês", "estão", "a falar"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Estou a ler um livro.", "I'm reading a book."],
+                  ["O que estás a fazer?", "What are you doing?"],
+                  ["Está a chover.", "It's raining."],
+                  ["Eles estão a jantar.", "They're having dinner."]
+                ]
+              },
+              {"tip": "This is typical of Portugal. In Brazil people say estou lendo instead – which sounds Brazilian in Portugal."}
+            ]
+          },
+          "exercises": [
+            ["Eu ___ a ler.", "estou", {"de": "Ich lese gerade.", "en": "I'm reading."}, ["estou", "estás", "está", "estão"]],
+            ["O que ___ a fazer? (tu)", "estás", {"de": "Was machst du gerade?", "en": "What are you doing?"}, ["estou", "estás", "está", "estamos"]],
+            ["Ela está ___ dormir.", "a", {"de": "Sie schläft gerade.", "en": "She's sleeping."}, ["a", "de", "em", "o"]],
+            ["Está a ___. (chover)", "chover", {"de": "Es regnet gerade.", "en": "It's raining."}, ["chove", "chover", "chovendo"]],
+            [
+              {"de": "Wir essen gerade.", "en": "We're eating (right now)."},
+              "Estamos a comer.",
+              "",
+              ["Estamos comendo.", "Estamos a comer.", "Somos a comer."],
+              {"de": "Wähle die europäisch-portugiesische Form", "en": "Choose the European Portuguese form"}
+            ],
+            [
+              {"de": "Sie arbeiten gerade.", "en": "They're working (right now)."},
+              "Eles estão a trabalhar.",
+              "",
+              ["Eles estão a trabalhar.", "Eles são a trabalhar.", "Eles estão trabalhar."],
+              {"de": "Wähle den richtigen Satz", "en": "Choose the correct sentence"}
+            ],
+            ["Nós ___ a estudar.", "estamos", {"de": "Wir lernen gerade.", "en": "We're studying."}, null],
+            ["O Pedro está a ___. (cozinhar)", "cozinhar", {"de": "Pedro kocht gerade.", "en": "Pedro is cooking."}, null],
+            ["Vocês ___ a ouvir?", "estão", {"de": "Hört ihr zu?", "en": "Are you (all) listening?"}, null],
+            ["Eu estou ___ trabalhar.", "a", {"de": "Ich arbeite gerade.", "en": "I'm working."}, null],
+            ["As crianças ___ a jogar.", "estão", {"de": "Die Kinder spielen gerade.", "en": "The children are playing."}, null],
+            ["A Ana está a ___ ao telefone. (falar)", "falar", {"de": "Ana telefoniert gerade.", "en": "Ana is on the phone."}, null]
+          ]
+        },
+        {
+          "id": "g18",
+          "type": "grammar",
+          "title": {"de": "Dies & das: este, esse, aquele", "en": "This & that: este, esse, aquele"},
+          "explanation": {
+            "de": [
+              {"p": "Im Portugiesischen gibt es drei Stufen – je nachdem, wie nah etwas ist:"},
+              {
+                "table": [
+                  ["", "männlich", "weiblich", "„das“ (unbestimmt)"],
+                  ["hier bei mir", "este", "esta", "isto"],
+                  ["da bei dir", "esse", "essa", "isso"],
+                  ["dort drüben", "aquele", "aquela", "aquilo"]
+                ]
+              },
+              {"p": "Plural mit -s: estes, estas, esses, essas, aqueles, aquelas. isto, isso und aquilo stehen für unbestimmte Dinge („das“) und haben keinen Plural."},
+              {
+                "ex": [
+                  ["Este livro é bom.", "Dieses Buch (hier) ist gut."],
+                  ["Essa camisola é bonita.", "Der Pullover (da bei dir) ist schön."],
+                  ["Aquela casa é muito velha.", "Das Haus dort drüben ist sehr alt."],
+                  ["O que é isto?", "Was ist das (hier)?"],
+                  ["Isso é verdade.", "Das stimmt."]
+                ]
+              },
+              {"tip": "Auch sie verschmelzen mit de und em: deste, nesta, daquele, naquela …"}
+            ],
+            "en": [
+              {"p": "Portuguese has three levels – depending on how close something is:"},
+              {
+                "table": [
+                  ["", "masculine", "feminine", "“this / that” (thing)"],
+                  ["here, near me", "este", "esta", "isto"],
+                  ["there, near you", "esse", "essa", "isso"],
+                  ["over there", "aquele", "aquela", "aquilo"]
+                ]
+              },
+              {"p": "Plural with -s: estes, estas, esses, essas, aqueles, aquelas. isto, isso and aquilo refer to unspecified things (“this / that”) and have no plural."},
+              {
+                "ex": [
+                  ["Este livro é bom.", "This book (here) is good."],
+                  ["Essa camisola é bonita.", "That jumper (near you) is nice."],
+                  ["Aquela casa é muito velha.", "That house over there is very old."],
+                  ["O que é isto?", "What is this?"],
+                  ["Isso é verdade.", "That's true."]
+                ]
+              },
+              {"tip": "They also merge with de and em: deste, nesta, daquele, naquela …"}
+            ]
+          },
+          "exercises": [
+            ["___ livro aqui é meu.", "Este", {"de": "Dieses Buch hier gehört mir.", "en": "This book here is mine."}, ["Este", "Esta", "Isto"]],
+            ["___ casa aqui é nova.", "Esta", {"de": "Dieses Haus hier ist neu.", "en": "This house here is new."}, ["Este", "Esta", "Estes"]],
+            [{"de": "O que é ___? (hier)", "en": "O que é ___? (here)"}, "isto", {"de": "Was ist das hier?", "en": "What is this?"}, ["este", "isto", "esta"]],
+            [
+              "___ carros ali são caros.",
+              "Aqueles",
+              {"de": "Die Autos dort drüben sind teuer.", "en": "The cars over there are expensive."},
+              ["Aquele", "Aqueles", "Aquelas"]
+            ],
+            [
+              "___ camisola que tens é bonita.",
+              "Essa",
+              {"de": "Der Pullover, den du da hast, ist schön.", "en": "The jumper you're wearing is nice."},
+              ["Essa", "Esse", "Isso"]
+            ],
+            [
+              {"de": "___ é verdade! (was du sagst)", "en": "___ é verdade! (what you're saying)"},
+              "Isso",
+              {"de": "Das stimmt!", "en": "That's true!"},
+              ["Isso", "Esse", "Essa"]
+            ],
+            [
+              {"de": "___ senhora ali é a minha avó. (dort drüben)", "en": "___ senhora ali é a minha avó. (over there)"},
+              "Aquela",
+              {"de": "Die Frau dort drüben ist meine Oma.", "en": "The woman over there is my grandmother."},
+              null
+            ],
+            ["___ sapatos aqui são novos.", "Estes", {"de": "Diese Schuhe hier sind neu.", "en": "These shoes here are new."}, null],
+            [
+              {"de": "O que é ___? (dort drüben)", "en": "O que é ___? (over there)"},
+              "aquilo",
+              {"de": "Was ist das dort drüben?", "en": "What is that over there?"},
+              null
+            ],
+            ["Gosto ___ cidade. (de + esta)", "desta", {"de": "Ich mag diese Stadt.", "en": "I like this city."}, null],
+            [
+              {"de": "___ chaves são tuas? (da bei dir)", "en": "___ chaves são tuas? (there, near you)"},
+              "Essas",
+              {"de": "Sind das da deine Schlüssel?", "en": "Are those your keys?"},
+              null
+            ]
+          ]
+        },
+        {
+          "id": "g20",
+          "type": "grammar",
+          "title": {"de": "Vergangenheit 1: regelmäßige Verben", "en": "Past tense 1: regular verbs"},
+          "explanation": {
+            "de": [
+              {"p": "Für abgeschlossene Handlungen in der Vergangenheit („ich habe gesprochen“, „ich sprach“) nimmt man das pretérito perfeito. Es ist die wichtigste Vergangenheitsform."},
+              {
+                "table": [
+                  ["Person", "falar", "comer", "abrir"],
+                  ["eu", "falei", "comi", "abri"],
+                  ["tu", "falaste", "comeste", "abriste"],
+                  ["ele / ela / você", "falou", "comeu", "abriu"],
+                  ["nós", "falámos", "comemos", "abrimos"],
+                  ["eles / elas / vocês", "falaram", "comeram", "abriram"]
+                ]
+              },
+              {"tip": "In Portugal schreibt man falámos (Vergangenheit) mit Akzent – so unterscheidet es sich von falamos (Gegenwart). Bei -er und -ir sind die nós-Formen gleich wie in der Gegenwart."},
+              {
+                "ex": [
+                  ["Ontem trabalhei muito.", "Gestern habe ich viel gearbeitet."],
+                  ["Já comeste?", "Hast du schon gegessen?"],
+                  ["Ela comprou um carro.", "Sie hat ein Auto gekauft."],
+                  ["No sábado jantámos fora.", "Am Samstag haben wir auswärts gegessen."]
+                ]
+              },
+              {"p": "Typische Zeitangaben: ontem (gestern), na semana passada (letzte Woche), no ano passado (letztes Jahr), já (schon)."},
+              {"tip": "Bei eu ändert sich manchmal die Schreibung: pagar → paguei, chegar → cheguei, começar → comecei."}
+            ],
+            "en": [
+              {"p": "For completed actions in the past (“I spoke”, “I have spoken”) you use the pretérito perfeito. It's the most important past tense."},
+              {
+                "table": [
+                  ["Person", "falar", "comer", "abrir"],
+                  ["eu", "falei", "comi", "abri"],
+                  ["tu", "falaste", "comeste", "abriste"],
+                  ["ele / ela / você", "falou", "comeu", "abriu"],
+                  ["nós", "falámos", "comemos", "abrimos"],
+                  ["eles / elas / vocês", "falaram", "comeram", "abriram"]
+                ]
+              },
+              {"tip": "In Portugal falámos (past) is written with an accent – that distinguishes it from falamos (present). With -er and -ir the nós forms are the same as in the present."},
+              {
+                "ex": [
+                  ["Ontem trabalhei muito.", "Yesterday I worked a lot."],
+                  ["Já comeste?", "Have you eaten yet?"],
+                  ["Ela comprou um carro.", "She bought a car."],
+                  ["No sábado jantámos fora.", "On Saturday we ate out."]
+                ]
+              },
+              {"p": "Typical time expressions: ontem (yesterday), na semana passada (last week), no ano passado (last year), já (already)."},
+              {"tip": "The spelling sometimes changes in the eu form: pagar → paguei, chegar → cheguei, começar → comecei."}
+            ]
+          },
+          "exercises": [
+            [
+              "Ontem eu ___ muito. (trabalhar)",
+              "trabalhei",
+              {"de": "Gestern habe ich viel gearbeitet.", "en": "Yesterday I worked a lot."},
+              ["trabalho", "trabalhei", "trabalhou", "trabalhámos"]
+            ],
+            ["Tu já ___? (comer)", "comeste", {"de": "Hast du schon gegessen?", "en": "Have you eaten yet?"}, ["comeste", "comes", "comeu", "comi"]],
+            [
+              "Ela ___ um carro. (comprar)",
+              "comprou",
+              {"de": "Sie hat ein Auto gekauft.", "en": "She bought a car."},
+              ["compra", "comprei", "comprou", "compraram"]
+            ],
+            [
+              "No sábado nós ___ fora. (jantar)",
+              "jantámos",
+              {"de": "Am Samstag haben wir auswärts gegessen.", "en": "On Saturday we ate out."},
+              ["jantamos", "jantámos", "jantaram", "jantei"]
+            ],
+            [
+              "Eles ___ a porta. (abrir)",
+              "abriram",
+              {"de": "Sie haben die Tür geöffnet.", "en": "They opened the door."},
+              ["abrem", "abriu", "abriram", "abrimos"]
+            ],
+            ["Eu ___ o café. (pagar)", "paguei", {"de": "Ich habe den Kaffee bezahlt.", "en": "I paid for the coffee."}, ["pagei", "paguei", "pagou"]],
+            ["Ontem eu ___ português. (estudar)", "estudei", {"de": "Gestern habe ich Portugiesisch gelernt.", "en": "Yesterday I studied Portuguese."}, null],
+            ["O Pedro ___ tarde. (chegar)", "chegou", {"de": "Pedro ist spät angekommen.", "en": "Pedro arrived late."}, null],
+            ["Tu ___ a carta? (escrever)", "escreveste", {"de": "Hast du den Brief geschrieben?", "en": "Did you write the letter?"}, null],
+            ["Na festa nós ___ muito. (dançar)", "dançámos", {"de": "Auf der Party haben wir viel getanzt.", "en": "At the party we danced a lot."}, null],
+            ["Eles ___ vinho. (beber)", "beberam", {"de": "Sie haben Wein getrunken.", "en": "They drank wine."}, null],
+            ["Eu ___ às oito. (chegar)", "cheguei", {"de": "Ich bin um acht angekommen.", "en": "I arrived at eight."}, null],
+            ["A loja ___ às dez. (abrir)", "abriu", {"de": "Der Laden hat um zehn geöffnet.", "en": "The shop opened at ten."}, null]
+          ]
+        },
+        {
+          "id": "g21",
+          "type": "grammar",
+          "title": {"de": "Vergangenheit 2: ser, ir, estar, ter, fazer", "en": "Past tense 2: ser, ir, estar, ter, fazer"},
+          "explanation": {
+            "de": [
+              {"p": "Die häufigsten Verben sind in der Vergangenheit unregelmäßig. ser und ir haben sogar dieselben Formen – der Zusammenhang zeigt, was gemeint ist."},
+              {
+                "table": [
+                  ["Person", "ser / ir", "estar", "ter", "fazer"],
+                  ["eu", "fui", "estive", "tive", "fiz"],
+                  ["tu", "foste", "estiveste", "tiveste", "fizeste"],
+                  ["ele / ela / você", "foi", "esteve", "teve", "fez"],
+                  ["nós", "fomos", "estivemos", "tivemos", "fizemos"],
+                  ["eles / elas / vocês", "foram", "estiveram", "tiveram", "fizeram"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Ontem fui ao cinema.", "Gestern bin ich ins Kino gegangen."],
+                  ["Foi muito bom!", "Es war sehr schön!"],
+                  ["Estive doente.", "Ich war krank."],
+                  ["Tivemos sorte.", "Wir hatten Glück."],
+                  ["O que fizeste no fim de semana?", "Was hast du am Wochenende gemacht?"]
+                ]
+              },
+              {"tip": "Gut zu merken: Como foi? (Wie war's?) – Foi ótimo! (Es war super!)"}
+            ],
+            "en": [
+              {"p": "The most common verbs are irregular in the past. ser and ir even share the same forms – the context tells you which is meant."},
+              {
+                "table": [
+                  ["Person", "ser / ir", "estar", "ter", "fazer"],
+                  ["eu", "fui", "estive", "tive", "fiz"],
+                  ["tu", "foste", "estiveste", "tiveste", "fizeste"],
+                  ["ele / ela / você", "foi", "esteve", "teve", "fez"],
+                  ["nós", "fomos", "estivemos", "tivemos", "fizemos"],
+                  ["eles / elas / vocês", "foram", "estiveram", "tiveram", "fizeram"]
+                ]
+              },
+              {
+                "ex": [
+                  ["Ontem fui ao cinema.", "Yesterday I went to the cinema."],
+                  ["Foi muito bom!", "It was really good!"],
+                  ["Estive doente.", "I was ill."],
+                  ["Tivemos sorte.", "We were lucky."],
+                  ["O que fizeste no fim de semana?", "What did you do at the weekend?"]
+                ]
+              },
+              {"tip": "Worth remembering: Como foi? (How was it?) – Foi ótimo! (It was great!)"}
+            ]
+          },
+          "exercises": [
+            [
+              "Ontem eu ___ à praia. (ir)",
+              "fui",
+              {"de": "Gestern bin ich an den Strand gegangen.", "en": "Yesterday I went to the beach."},
+              ["vou", "fui", "foi", "fomos"]
+            ],
+            ["Como ___ o fim de semana? (ser)", "foi", {"de": "Wie war das Wochenende?", "en": "How was the weekend?"}, ["foi", "fui", "foram"]],
+            [
+              "Eu ___ doente na semana passada. (estar)",
+              "estive",
+              {"de": "Ich war letzte Woche krank.", "en": "I was ill last week."},
+              ["estive", "esteve", "estou"]
+            ],
+            ["Nós ___ sorte. (ter)", "tivemos", {"de": "Wir hatten Glück.", "en": "We were lucky."}, ["tivemos", "tiveram", "tive"]],
+            [
+              "O que ___ ontem? (fazer, tu)",
+              "fizeste",
+              {"de": "Was hast du gestern gemacht?", "en": "What did you do yesterday?"},
+              ["fazes", "fizeste", "fez", "fiz"]
+            ],
+            ["Eles ___ ao Porto. (ir)", "foram", {"de": "Sie sind nach Porto gefahren.", "en": "They went to Porto."}, ["foram", "foi", "fomos"]],
+            ["Eu ___ o jantar. (fazer)", "fiz", {"de": "Ich habe das Abendessen gemacht.", "en": "I made dinner."}, null],
+            ["A festa ___ ótima! (ser)", "foi", {"de": "Die Party war super!", "en": "The party was great!"}, null],
+            ["Tu ___ em Lisboa? (estar)", "estiveste", {"de": "Warst du in Lissabon?", "en": "Were you in Lisbon?"}, null],
+            ["Ela ___ um bebé. (ter)", "teve", {"de": "Sie hat ein Baby bekommen.", "en": "She had a baby."}, null],
+            ["Nós ___ de comboio. (ir)", "fomos", {"de": "Wir sind mit dem Zug gefahren.", "en": "We went by train."}, null],
+            ["Vocês ___ o trabalho? (fazer)", "fizeram", {"de": "Habt ihr die Arbeit gemacht?", "en": "Did you (all) do the work?"}, null]
+          ]
+        },
+        {
+          "id": "g22",
+          "type": "grammar",
+          "title": {"de": "Vergleiche: mais … do que", "en": "Comparisons: mais … do que"},
+          "explanation": {
+            "de": [
+              {"p": "Vergleichen: mais (mehr) oder menos (weniger) + Adjektiv + do que (als):"},
+              {
+                "ex": [
+                  ["O Pedro é mais alto do que o João.", "Pedro ist größer als João."],
+                  ["O comboio é menos caro do que o avião.", "Der Zug ist billiger (weniger teuer) als das Flugzeug."],
+                  ["Ela é tão simpática como a irmã.", "Sie ist genauso nett wie ihre Schwester."]
+                ]
+              },
+              {
+                "table": [
+                  ["Grundform", "Vergleich"],
+                  ["bom (gut)", "melhor (besser)"],
+                  ["mau (schlecht)", "pior (schlechter)"],
+                  ["grande (groß)", "maior (größer)"],
+                  ["pequeno (klein)", "mais pequeno (kleiner)"]
+                ]
+              },
+              {"tip": "In Portugal sagt man mais pequeno – menor klingt eher brasilianisch oder sehr formell."},
+              {"p": "Der / die / das …ste: o mais … / a mais … – o restaurante mais caro (das teuerste Restaurant), o melhor café (der beste Kaffee)."}
+            ],
+            "en": [
+              {"p": "Comparing: mais (more) or menos (less) + adjective + do que (than):"},
+              {
+                "ex": [
+                  ["O Pedro é mais alto do que o João.", "Pedro is taller than João."],
+                  ["O comboio é menos caro do que o avião.", "The train is cheaper (less expensive) than the plane."],
+                  ["Ela é tão simpática como a irmã.", "She is as nice as her sister."]
+                ]
+              },
+              {
+                "table": [
+                  ["Basic form", "Comparative"],
+                  ["bom (good)", "melhor (better)"],
+                  ["mau (bad)", "pior (worse)"],
+                  ["grande (big)", "maior (bigger)"],
+                  ["pequeno (small)", "mais pequeno (smaller)"]
+                ]
+              },
+              {"tip": "In Portugal people say mais pequeno – menor sounds rather Brazilian or very formal."},
+              {"p": "The …est: o mais … / a mais … – o restaurante mais caro (the most expensive restaurant), o melhor café (the best coffee)."}
+            ]
+          },
+          "exercises": [
+            ["O Pedro é ___ alto do que o João.", "mais", {"de": "Pedro ist größer als João.", "en": "Pedro is taller than João."}, ["mais", "muito", "tão"]],
+            ["Lisboa é maior ___ o Porto.", "do que", {"de": "Lissabon ist größer als Porto.", "en": "Lisbon is bigger than Porto."}, ["do que", "como", "de"]],
+            [
+              "Este café é ___ do que aquele. (bom)",
+              "melhor",
+              {"de": "Dieser Kaffee ist besser als der da.", "en": "This coffee is better than that one."},
+              ["mais bom", "melhor", "maior"]
+            ],
+            [
+              "A minha casa é ___ do que a tua. (pequeno)",
+              "mais pequena",
+              {"de": "Mein Haus ist kleiner als deins.", "en": "My house is smaller than yours."},
+              ["mais pequena", "mais pequeno", "pequenas"]
+            ],
+            [
+              "Ela é tão simpática ___ a irmã.",
+              "como",
+              {"de": "Sie ist so nett wie ihre Schwester.", "en": "She is as nice as her sister."},
+              ["como", "do que", "que"]
+            ],
+            [
+              "O tempo hoje é ___ do que ontem. (mau)",
+              "pior",
+              {"de": "Das Wetter ist heute schlechter als gestern.", "en": "The weather today is worse than yesterday."},
+              ["mais mau", "pior", "menos"]
+            ],
+            [
+              "O avião é ___ rápido do que o comboio.",
+              "mais",
+              {"de": "Das Flugzeug ist schneller als der Zug.", "en": "The plane is faster than the train."},
+              null
+            ],
+            [
+              {"de": "O comboio é ___ caro do que o avião. (weniger)", "en": "O comboio é ___ caro do que o avião. (less)"},
+              "menos",
+              {"de": "Der Zug ist billiger als das Flugzeug.", "en": "The train is cheaper than the plane."},
+              null
+            ],
+            [
+              "É o ___ restaurante da cidade. (bom)",
+              "melhor",
+              {"de": "Das ist das beste Restaurant der Stadt.", "en": "It's the best restaurant in town."},
+              null
+            ],
+            ["O Porto é ___ do que Faro. (grande)", "maior", {"de": "Porto ist größer als Faro.", "en": "Porto is bigger than Faro."}, null],
+            ["O João é tão alto ___ o pai.", "como", {"de": "João ist so groß wie sein Vater.", "en": "João is as tall as his father."}, null]
+          ]
+        }
+      ]
+    }
+  ]
+}

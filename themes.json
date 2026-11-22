@@ -1,0 +1,94 @@
+{
+  "_about": "Colors and font of the window. 'default' is the theme until the user picks one. Brand palette from the A2L logo: blue #1c385a (A, L), teal #08b8c8 (A), red #f26d6d (2).",
+  "font": "Segoe UI",
+  "icon_font": "segoeuib.ttf",
+  "default": "dark",
+  "brand": {
+    "blue": "#1c385a",
+    "teal": "#08b8c8",
+    "red": "#f26d6d",
+    "white": "#ffffff"
+  },
+  "themes": {
+    "dark": {
+      "bg": "#121a24",
+      "card": "#1a2431",
+      "text": "#e6ebf2",
+      "muted": "#8d99aa",
+      "border": "#2a3646",
+      "cell": "#1f2a38",
+      "accent": "#7fa7d9",
+      "accent_hover": "#96b8e3",
+      "accent_soft": "#22344a",
+      "accent_soft_hover": "#2b4260",
+      "on_accent": "#0f1824",
+      "teal": "#08b8c8",
+      "teal_soft": "#133a42",
+      "red": "#f26d6d",
+      "red_soft": "#3d2229",
+      "pill_text": "#e6ebf2",
+      "sidebar": "#1c385a",
+      "sidebar_text": "#c9d5e4",
+      "sidebar_muted": "#8b9db5",
+      "sidebar_hover": "#26476d",
+      "good": "#4caf50",
+      "bad": "#ef5350",
+      "bad_hover": "#f26b69",
+      "bad_soft": "#a14848",
+      "learning_text": "#f0a35e",
+      "level": [
+        "#334155",
+        "#f0a35e",
+        "#9ccc65",
+        "#4caf50"
+      ],
+      "level_text": [
+        "#e6ebf2",
+        "#1a2433",
+        "#1a2433",
+        "#0f1824"
+      ],
+      "dark_titlebar": true
+    },
+    "light": {
+      "bg": "#f3f5f8",
+      "card": "#ffffff",
+      "text": "#1a2433",
+      "muted": "#687384",
+      "border": "#dde3ea",
+      "cell": "#f7f9fb",
+      "accent": "#1c385a",
+      "accent_hover": "#2a4d78",
+      "accent_soft": "#e4eaf2",
+      "accent_soft_hover": "#d3dce8",
+      "on_accent": "white",
+      "teal": "#08b8c8",
+      "teal_soft": "#e0f5f7",
+      "red": "#f26d6d",
+      "red_soft": "#fde8e8",
+      "pill_text": "#1c385a",
+      "sidebar": "#1c385a",
+      "sidebar_text": "#c9d5e4",
+      "sidebar_muted": "#8b9db5",
+      "sidebar_hover": "#26476d",
+      "good": "#2e7d32",
+      "bad": "#c62828",
+      "bad_hover": "#a82020",
+      "bad_soft": "#ef9a9a",
+      "learning_text": "#9a4f0c",
+      "level": [
+        "#dfe5ec",
+        "#f0a35e",
+        "#9ccc65",
+        "#2e7d32"
+      ],
+      "level_text": [
+        "#1a2433",
+        "white",
+        "#1a2433",
+        "white"
+      ],
+      "dark_titlebar": false
+    }
+  }
+}

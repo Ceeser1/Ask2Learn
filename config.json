@@ -1,0 +1,17 @@
+{
+  "schedule": "interval",
+  "interval_minutes": 60,
+  "nag_minutes": 10,
+  "wrong_retry_minutes": 5,
+  "first_quiz_after_minutes": 1,
+  "away_after_minutes": 5,
+  "reverse_chance": 0.25,
+  "new_words_at_once": 10,
+  "escalate_after_ignores": 0,
+  "sound": "Reminder",
+  "looping_sound": false,
+  "interrupt_fullscreen": false,
+  "wait_for_pause_seconds": 20,
+  "notifications": true,
+  "theme": "dark"
+}

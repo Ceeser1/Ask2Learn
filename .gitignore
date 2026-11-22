@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated at setup / start (from assets/logo.png if present)
+assets/icon.png
+assets/icon.ico
+
+# User data lives in %APPDATA%\Ask 2 Learn. These are leftovers from older
+# versions that kept it here; they get moved there on the first start.
+progress.json
+history.json
+lessons.json
+daily.json
+*.tmp
+vokabelquiz.log
+
+# Test builds (PyInstaller)
+dist/
+
+# Settings and log (normally in %APPDATA%, portable copies keep them here)
+settings.json
+a2l.log

@@ -1,0 +1,150 @@
+{
+  "_about": "Everything about the app that can be adjusted without touching code. User settings and their defaults are in config.json; texts are in lang/; colors in themes.json.",
+  "identity": {
+    "data_folder": "Ask 2 Learn",
+    "portable_data_folder": "Ask 2 Learn data",
+    "legacy_data_folders": [
+      "AnnoyMe 2 Learn"
+    ],
+    "instance": "Ask2Learn",
+    "portable_instance": "Ask2LearnPortable",
+    "notification_id": "Ask2Learn.A2L",
+    "tray_id": "ask2learn",
+    "show_event": "Local\\{instance}ShowWindow",
+    "single_instance": "Local\\{instance}SingleInstance",
+    "legacy_shortcuts": [
+      "Vokabel-Quiz.lnk",
+      "AnnoyMe 2 Learn.lnk"
+    ]
+  },
+  "files": {
+    "courses": "courses",
+    "defaults": "config.json",
+    "logo": "assets/logo.png",
+    "icon": "assets/icon.png",
+    "ico": "assets/icon.ico",
+    "settings": "settings.json",
+    "log": "a2l.log",
+    "progress": "progress.json",
+    "history": "history.json",
+    "lessons": "lessons.json",
+    "daily": "daily.json",
+    "legacy_log": "vokabelquiz.log",
+    "legacy_log_moved": "vokabelquiz-old.log",
+    "legacy_course": "pt-PT",
+    "venv": ".venv",
+    "requirements": "requirements.txt",
+    "main": "main.py"
+  },
+  "sounds": {
+    "default": "Reminder",
+    "looping": "Alarm"
+  },
+  "timing": {
+    "tick_seconds": 15,
+    "gui_quiet_minutes": 15,
+    "pump_ms": 150,
+    "random_gap_hours": [
+      1.0,
+      20.0
+    ]
+  },
+  "learning": {
+    "_about": "Spaced repetition: a word climbs one box per right answer, falls to box 1 when wrong. box_weight / review_hours are per box (index 0 = new).",
+    "max_box": 5,
+    "mastered_box": 4,
+    "box_weight": [
+      16,
+      8,
+      4,
+      2,
+      1,
+      0.5
+    ],
+    "review_hours": [
+      0,
+      20,
+      44,
+      92,
+      188,
+      380
+    ],
+    "recent_memory": 5,
+    "history_days": 14,
+    "daily_size": 30,
+    "review_batch": 20,
+    "mix_batch": 15
+  },
+  "annoyance_levels": {
+    "never": {
+      "schedule": "never",
+      "interval_minutes": 60,
+      "nag_minutes": 10,
+      "wrong_retry_minutes": 5,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "once": {
+      "schedule": "once",
+      "interval_minutes": 60,
+      "nag_minutes": 10,
+      "wrong_retry_minutes": 5,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "3h": {
+      "schedule": "interval",
+      "interval_minutes": 180,
+      "nag_minutes": 15,
+      "wrong_retry_minutes": 5,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "random": {
+      "schedule": "random",
+      "interval_minutes": 60,
+      "nag_minutes": 10,
+      "wrong_retry_minutes": 5,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "1h": {
+      "schedule": "interval",
+      "interval_minutes": 60,
+      "nag_minutes": 10,
+      "wrong_retry_minutes": 5,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "possible": {
+      "schedule": "interval",
+      "interval_minutes": 15,
+      "nag_minutes": 2,
+      "wrong_retry_minutes": 2,
+      "looping_sound": false,
+      "escalate_after_ignores": 0,
+      "wait_for_pause_seconds": 20,
+      "interrupt_fullscreen": false
+    },
+    "fuckoff": {
+      "schedule": "interval",
+      "interval_minutes": 5,
+      "nag_minutes": 1,
+      "wrong_retry_minutes": 1,
+      "looping_sound": false,
+      "escalate_after_ignores": 2,
+      "wait_for_pause_seconds": 0,
+      "interrupt_fullscreen": true
+    }
+  }
+}
